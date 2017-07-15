@@ -110,4 +110,10 @@ The nation with the most points wins. The points are calculated as follows:
 	 (20 points per taken capital, -20 points if you lost your capital)
 	-plus 50 points to the nation with the highest gold income
 	-plus 50 points to the nation with the largest land area.
+
+
+Acknowledgements:
+________________________
+Thanks to GeaCron.com for the historical information used in the creation of the maps in this game.
+http://geacron.com/home-en/
 	
