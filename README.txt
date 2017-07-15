@@ -30,6 +30,13 @@ No two people can play the same country.
 Next you will need to select the number of turns the game will be.
 Once the number of turns is up, points will be counted and winners determined.
 
+Next you will need to select the aggressiveness of the AI players.
+The aggressiveness is the probability that they attack a weak tile.
+0% means they will never attack another nation.
+100% will mean that they will always attack if the odds are in their favor.
+You can also choose 'r' instead for a random distribution of aggressivness from 0% to 100%.
+Press 'y' when you are satisfied.
+
 Then everyone will select a capital in their own land.
 This capital should be placed in a safe place since you will lose points if someone else takes it.
 
