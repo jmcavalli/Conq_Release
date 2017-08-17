@@ -129,8 +129,8 @@ J-Scythians --Tribal
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Rome
-B-Pathia
+A-Rome --Conqueror
+B-Parthia
 C-Han
 D-Satavahana
 E-Xiongnu
@@ -162,8 +162,8 @@ J-Picts --Tribal
 A-Eastern Roman Empire
 B-Sassanid
 C-Hephthalite
-D-Northern Wei --Chinese
-E-Southern Qi --Chinese
+D-Northern Wei --c-Chinese
+E-Southern Qi --c-Chinese
 F-Ostrogoths
 G-Visigoths
 H-Franks
@@ -189,7 +189,7 @@ J-Aztecs
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Umayyad Caliphate
+A-Umayyad Caliphate --Conqueror
 B-Byzantium
 C-Kashmir
 D-Chalukya
@@ -219,7 +219,7 @@ J-Incas
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Mongols
+A-Mongols --Conqueror
 B-Delhi
 C-Song
 D-Holy Roman Empire
@@ -279,10 +279,10 @@ J-Novgorod
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Spain
-B-Britian
-C-France
-D-Portugal
+A-Spain --Colonizer
+B-Britian --Colonizer
+C-France --Colonizer
+D-Portugal --Colonizer
 E-Russia
 F-Qing
 G-Ottoman Empire
@@ -306,16 +306,16 @@ G-Ottoman Empire
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-United Kingdom
-B-France
+A-United Kingdom --Colonizer
+B-France --Colonizer
 C-Germany
 D-Russia
 E-Ottoman Empire
 F-USA
 G-Republic of China
-H-Japan
+H-Japan --Colonizer
 I-Brazil
-J-Netherlands
+J-Netherlands --Colonizer --Trader
 --World 1940AD--
   a b c d e f g h i j k l m n o p q r
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -336,10 +336,10 @@ J-Netherlands
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Third Reich
-B-United Kingdom
+A-Third Reich --Conqueror
+B-United Kingdom --Colonizer
 C-Japan
-D-USSR
+D-USSR --Communist
 E-USA
 --World 1955AD--
   a b c d e f g h i j k l m n o p q r
@@ -362,7 +362,7 @@ E-USA
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 A-Nato
-B-Comintern
+B-Comintern --Communist
 --World 2016AD--
   a b c d e f g h i j k l m n o p q r
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -434,7 +434,7 @@ J-South Africa
 17= = = = = = = = = = = X X = = = = =
 18= = = = = = = = = = = = X X X X X =
 A-Aztec
-B-Spain
+B-Spain --Colonizer
 C-Cree --Tribal
 D-Crow --Tribal
 E-Apache --Tribal
@@ -463,7 +463,7 @@ J-Pawnee --Tribal
 16= X = = = = = = = A A A = a a a = =
 17= = = = = = = = = = = A A = = = = =
 18= = = = = = = = = = = = A A X H X =
-A-Spain
+A-Spain --Colonizer
 B-Iroquois --Tribal
 C-Shawnee --Tribal
 D-Apache --Tribal
@@ -493,10 +493,10 @@ J-Eskimos --Tribal
 16= X = = = = = = = C C C = c c c = =
 17= = = = = = = = = = = C C = = = = =
 18= = = = = = = = = = = = C C C X D =
-A-Britian
-B-France
-C-Spain
-D-Netherlands
+A-Britian --Colonizer
+B-France --Colonizer
+C-Spain --Colonizer
+D-Netherlands --Colonizer --Trader
 E-Cherokee --Tribal
 F-Sioux --Tribal
 G-Apache --Tribal
@@ -524,11 +524,11 @@ J-Blackfoot --Tribal
 17= = = = = = = = = = = C C = = = = =
 18= = = = = = = = = = = = C C C C B =
 A-USA
-B-Britian
-C-Spain
-D-Russia
-E-Denmark
-F-France
+B-Britian --Colonizer
+C-Spain --Colonizer
+D-Russia --Colonizer
+E-Denmark --Colonizer
+F-France --Colonizer
 G-Ktunaxa --Tribal
 H-Eskimos --Tribal
 I-T'atsaot'ine --Tribal
@@ -554,14 +554,14 @@ J-Chilcotin --Tribal
 17= = = = = = = = = = = F F = = = = =
 18= = = = = = = = = = = = G G H H X =
 A-USA
-B-Britian
-C-Mexico
-D-Russia
+B-Britian --Colonizer
+C-Mexico --c-Latin
+D-Russia --Colonizer
 E-Texas
-F-Central America
-G-Colombia
-H-Venezuela
-I-Spain
+F-Central America --c-Latin
+G-Colombia --c-Latin
+H-Venezuela --c-Latin
+I-Spain --c-Latin
 J-Haiti
 --North America 1865AD--
   a b c d e f g h i j k l m n o p q r
@@ -583,15 +583,15 @@ J-Haiti
 16= J = = = = = = = D D D = g x g = =
 17= = = = = = = = = = = X X = = = = =
 18= = = = = = = = = = = = I I H H X =
-A-USA
-B-Confederacy
-C-Britian
-D-Mexico
-E-Russia
-F-Denmark
-G-Spain
-H-Venezuela
-I-Colombia
+A-USA --c-American
+B-Confederacy --c-American
+C-Britian --Colonizer
+D-Mexico --c-Latin
+E-Russia --Colonizer
+F-Denmark --Colonizer
+G-Spain --c-Latin
+H-Venezuela --c-Latin
+I-Colombia --c-Latin
 J-Hawaii
 --North America 1871AD--
   a b c d e f g h i j k l m n o p q r
@@ -615,12 +615,12 @@ J-Hawaii
 18= = = = = = = = = = = = G G F F X =
 A-USA
 B-Canada
-C-Mexico
-D-Britian
-E-Spain
-F-Venezuela
-G-Colombia
-H-Denmark
+C-Mexico --c-Latin
+D-Britian --Colonizer
+E-Spain --c-Latin
+F-Venezuela --c-Latin
+G-Colombia --c-Latin
+H-Denmark --Colonizer
 I-Haiti
 J-Hawaii
 --North America 2000AD--
@@ -645,14 +645,14 @@ J-Hawaii
 18= = = = = = = = = = = = G H I I X =
 A-USA
 B-Canada
-C-Mexico
+C-Mexico --c-Latin
 D-Denmark
-E-Guatemala
+E-Guatemala --c-Latin
 F-Haiti
-G-Panama
-H-Colombia
-I-Venezuela
-J-Cuba
+G-Panama --c-Latin
+H-Colombia --c-Latin
+I-Venezuela --c-Latin
+J-Cuba --Communist
 ==Caribbean Sea==
   a b c d e f g h i j k l m n o p q r
 1 = = X = = = = = = = = = = = = = = =
@@ -693,11 +693,11 @@ J-Cuba
 16= A A A A A A A A A A A A A X X = =
 17= = = = = A A A A A A A X X F X D =
 18= = = = = A A A A A A X X X X X D D
-A-Spain
-B-Britian
-C-France
-D-Netherlands
-E-Denmark
+A-Spain --Colonizer
+B-Britian --Colonizer
+C-France --Colonizer
+D-Netherlands --Colonizer --Trader
+E-Denmark --Colonizer
 F-Carib --Tribal
 --Caribbean Sea 1800AD--
   a b c d e f g h i j k l m n o p q r
@@ -719,11 +719,11 @@ F-Carib --Tribal
 16= A A A A A A A A A A A A A A A = =
 17= = = = = A A A A A A A A A A A B =
 18= = = = = A A A A A A A A A A A B B
-A-Spain
-B-Britian
-C-France
-D-Netherlands
-E-Denmark
+A-Spain --Colonizer
+B-Britian --Colonizer
+C-France --Colonizer
+D-Netherlands --Colonizer
+E-Denmark --Colonizer
 --Caribbean Sea 1830AD--
   a b c d e f g h i j k l m n o p q r
 1 = = F = = = = = = = = = = = = = = =
@@ -744,14 +744,14 @@ E-Denmark
 16= E D D D D D D D D D D D D D D = =
 17= = = = = D D D D D D D D D D D A =
 18= = = = = D D D D D D D D D D D A H
-A-Britian
+A-Britian --Colonizer
 B-Haiti
-C-Spain
-D-Colombia
-E-Central America
+C-Spain --c-Latin --Colonizer
+D-Colombia --c-Latin
+E-Central America --c-Latin
 F-USA
-G-France
-H-Netherlands
+G-France --Colonizer
+H-Netherlands --Colonizer --Trader
 --Caribbean Sea 1900AD--
   a b c d e f g h i j k l m n o p q r
 1 = = A = = = = = = = = = = = = = = =
@@ -773,16 +773,16 @@ H-Netherlands
 17= = = = = E E E E F F F F F F B B =
 18= = = = = E E E E E E F F F F B B H
 A-USA
-B-Britian
-C-Dominican Republic
+B-Britian --Colonizer
+C-Dominican Republic --c-Latin
 D-Haiti
-E-Colombia
-F-Venezuela
-G-France
-H-Netherlands
-I-Nicaragua
-J-Costa Rica
-K-Honduras
+E-Colombia --c-Latin
+F-Venezuela --c-Latin
+G-France --Colonizer
+H-Netherlands --Colonizer --Trader
+I-Nicaragua --c-Latin
+J-Costa Rica --c-Latin
+K-Honduras --c-Latin
 --Caribbean Sea 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = F = = = = = = = = = = = = = = =
@@ -803,7 +803,7 @@ K-Honduras
 16= R Q Q Q O O O N N N N N N N N = =
 17= = = = = O O O N N N N N N N S S =
 18= = = = = O O O O O O N N N N S S U
-A-Cuba
+A-Cuba --Communist
 B-Dominican Republic
 C-Haiti
 D-Jamaica
@@ -947,9 +947,9 @@ M-Chilcotin --Tribal
 16= = = = = L X X X B X A A A B B = =
 17= = = = = X K X X B B A A B = = = =
 18= = = = = X X X I J B B B A B = = =
-A-Britian
-B-France
-C-Denmark
+A-Britian --Colonizer
+B-France --Colonizer
+C-Denmark --Colonizer
 D-Eskimos --Tribal
 E-Cree --Tribal
 F-T'atsaot'ine --Tribal
@@ -979,10 +979,10 @@ L-Chilcotin --Tribal
 16= = = = = A A A A A A A A C C C = =
 17= = = = = A A A A A A C C C = = = =
 18= = = = = B B B B B B B C B C = = =
-A-Britian
+A-Britian --Colonizer
 B-USA
 C-Canada
-D-Denmark
+D-Denmark --Colonizer
 E-Eskimos --Tribal
 --Canada 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -1006,8 +1006,8 @@ E-Eskimos --Tribal
 18= = = = = B B B B B B B A B A = = =
 A-Canada
 B-USA
-C-Britian
-D-Denmark
+C-Britian --Colonizer
+D-Denmark --Colonizer
 E-Eskimos --Tribal
 --Canada 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -1073,7 +1073,7 @@ C-Denmark
 17= = = = = = X X X = = = = X X b = =
 18= = = = = = X A A = = X = = = = B =
 A-Aztec
-B-Spain
+B-Spain --Colonizer
 C-Cree --Tribal
 D-Chilcotin --Tribal
 E-Blackfoot --Tribal
@@ -1117,7 +1117,7 @@ Z-Huastec --Tribal
 16= = = = X A A A X = = = = = a a = =
 17= = = = = = A A A = = = = A A a = =
 18= = = = = = A A A = = A = = = = A =
-A-Spain
+A-Spain --Colonizer
 B-Cree --Tribal
 C-Chilcotin --Tribal
 D-Blackfoot --Tribal
@@ -1160,11 +1160,11 @@ W-Huastec --Tribal
 16= = = = X C C C X = = = = = c c = =
 17= = = = = = C C C = = = = C C c = =
 18= = = = = = C C C = = C = = = = C =
-A-Britian
-B-France
-C-Spain
-D-Netherlands
-E-Sweden
+A-Britian --Colonizer
+B-France --Colonizer
+C-Spain --Colonizer
+D-Netherlands --Colonizer --Trader
+E-Sweden --Colonizer
 F-Cree --Tribal
 G-Chilcotin --Tribal
 H-Blackfoot --Tribal
@@ -1207,9 +1207,9 @@ Z-Apache --Tribal
 16= = = = X C C C X = = = = = c c = =
 17= = = = = = C C C = = = = C C c = =
 18= = = = = = C C C = = C = = = = B =
-A-Britian
-B-France
-C-Spain
+A-Britian --Colonizer
+B-France --Colonizer
+C-Spain --Colonizer
 D-Cree
 E-Cherokee
 F-Iroquois
@@ -1252,9 +1252,9 @@ Y-Ojibwe --Tribal
 17= = = = = = C C C = = = = C C b = =
 18= = = = = = C C C = = C = = = = D =
 A-USA
-B-Britian
-C-Spain
-D-France
+B-Britian --Colonizer
+C-Spain --Colonizer
+D-France --Colonizer
 E-Chilcotin --Tribal
 F-Ktunaxa --Tribal
 --USA 1810AD--
@@ -1278,8 +1278,8 @@ F-Ktunaxa --Tribal
 17= = = = = = C C C = = = = C C b = =
 18= = = = = = C C C = = C = = = = C =
 A-USA
-B-Britian
-C-Spain
+B-Britian --Colonizer
+C-Spain --Colonizer
 D-Ktunaxa --Tribal
 E-Chilcotin --Tribal
 --USA 1840AD--
@@ -1303,10 +1303,10 @@ E-Chilcotin --Tribal
 17= = = = = = C C C = = = = E E b = =
 18= = = = = = C C C = = C = = = = F =
 A-USA
-B-Britian
+B-Britian --Colonizer
 C-Mexico
 D-Texas
-E-Spain
+E-Spain --Colonizer
 F-Haiti
 G-Ktunaxa --Tribal
 --USA 1865AD--
@@ -1329,11 +1329,11 @@ G-Ktunaxa --Tribal
 16= = = = D D D D D = = = = = c c = =
 17= = = = = = D D D = = = = E E c = =
 18= = = = = = D D D = = D = = = = E =
-A-USA
-B-Confederacy
-C-Britian
+A-USA --c-American
+B-Confederacy --c-American
+C-Britian --Colonizer
 D-Mexico
-E-Spain
+E-Spain --Colonizer
 --USA 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B B B B B B B = = = B B B
@@ -1357,7 +1357,7 @@ E-Spain
 A-USA
 B-Canada
 C-Mexico
-D-Cuba
+D-Cuba --Communist
 E-Bahamas
 F-Haiti
 ==Mexico==
@@ -1516,7 +1516,7 @@ C-Texas
 D-Guatemala
 E-Honduras
 F-Nicaragua
-G-Britian
+G-Britian --Colonizer
 H-El Salvador
 --Mexico 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -1673,7 +1673,7 @@ J-Guarani --Tribal
 16= = = = = = = F = = = = = = = = = =
 17= = = = = = = X = x = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Spain
+A-Spain --Colonizer
 B-Mapuche --Tribal
 C-Tupi --Tribal
 D-Panoan --Tribal
@@ -1703,10 +1703,10 @@ J-Tucanoan --Tribal
 16= = = = = = = X = = = = = = = = = =
 17= = = = = = = X = x = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Portugal
-B-Spain
-C-France
-D-Netherlands
+A-Portugal --Colonizer
+B-Spain --Colonizer
+C-France --Colonizer
+D-Netherlands --Colonizer --Trader
 E-Tupi --Tribal
 F-Mapuche --Tribal
 G-Ge --Tribal
@@ -1732,10 +1732,10 @@ I-Panoan --Tribal
 16= = = = = = = B = = = = = = = = = =
 17= = = = = = = B = b = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Portugal
-B-Spain
-C-Britian
-D-France
+A-Portugal --Colonizer
+B-Spain --Colonizer
+C-Britian --Colonizer
+D-France --Colonizer
 --South America 1820AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = B b = = = = = = = = = = = =
@@ -1756,13 +1756,13 @@ D-France
 16= = = = = = = X = = = = = = = = = =
 17= = = = = = = X = d = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Portugal
-B-Spain
+A-Portugal --Colonizer
+B-Spain --Colonizer
 C-Colombia
 D-Argentina
 E-Chile
 F-Paraguay
-G-France
+G-France --Colonizer
 --South America 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = X x = = = = = = = = = = = =
@@ -1965,12 +1965,12 @@ A-Carthage
 B-Egypt
 C-Seleucid
 D-Thrace
-E-Rome
+E-Rome --c-Italic
 F-Macedonia
 G-Greece
 H-Bosporus
-I-Magna Graecia
-J-Etruscans
+I-Magna Graecia --c-Italic
+J-Etruscans --c-Italic
 --Europe 200BC--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = X X X X = = X X X X X X
@@ -1991,7 +1991,7 @@ J-Etruscans
 16= = X X X X X X X X = C = = = C X X
 17= = X X X X X X X X X C C C C C X X
 18= X X X X X X X X X X X X X C = X X
-A-Rome
+A-Rome --Conqueror
 B-Seleucid
 C-Egypt
 D-Carthage
@@ -2021,12 +2021,12 @@ J-Britons --Tribal
 16= = X X X X X E E E = A = = = A A X
 17= = X X X X X X X X X A A A A A X X
 18= X X X X X X X X X X X X X A = X X
-A-Eastern Roman Empire
-B-Western Roman Empire
-C-Huns
+A-Eastern Roman Empire --c-Roman
+B-Western Roman Empire --c-Roman
+C-Huns --Conqueror
 D-Suebi
-E-Vandals
-F-Visigoth
+E-Vandals --Conqueror
+F-Visigoth --Conqueror
 G-Wales
 H-Sassanid
 I-Picts --Tribal
@@ -2113,7 +2113,7 @@ J-Norsemen --Tribal
 18= X X X X X X X X X X X X X C = C C
 A-Franks
 B-Byzantium
-C-Umayyad
+C-Umayyad --Conqueror
 D-Avars
 E-Khazars
 F-Northumbria
@@ -2171,8 +2171,8 @@ J-Salvs --Tribal
 16= = X X X X X X X X = X = = = X X X
 17= = X X X X X X X X X X X X X X X X
 18= X X X X X X X X X X X X X X = X X
-A-Germany
-B-West Francia
+A-Germany --c-Frankish
+B-West Francia --c-Frankish
 C-Byzantium
 D-Kievian Rus
 E-Norway
@@ -2264,12 +2264,12 @@ J-Ayyubid
 A-England
 B-France
 C-Nicaea
-D-Mongols
+D-Mongols --Conqueror
 E-Holy Roman Empire --HRE
 F-Castile
 G-Hungary
 H-Denmark
-I-Teutonic Knights
+I-Teutonic Knights --Crusader
 J-Ayyubid
 --Europe 1300AD--
   a b c d e f g h i j k l m n o p q r
@@ -2294,13 +2294,13 @@ J-Ayyubid
 A-England
 B-France
 C-Byzantium
-D-Golden Horde
+D-Golden Horde --c-Mongol --Conqueror
 E-Holy Roman Empire --HRE
 F-Castile
 G-Novgorod
 H-Sweden
 I-Hungary
-J-Il Khan
+J-Il Khan --c-Mongol
 --Europe 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = E E E E = = E E I I I I
@@ -2323,9 +2323,9 @@ J-Il Khan
 18= X X X X X X X X X X X X X J = J X
 A-England
 B-France
-C-Ottoman
+C-Ottoman --Conqueror
 D-Poland-Lithuania
-E-Demark
+E-Denmark
 F-Holy Roman Empire --HRE
 G-Golden Horde
 H-Castile
@@ -2353,7 +2353,7 @@ J-Mamluk
 18= X X X X X X X X X X X X X X = X X
 A-England
 B-France
-C-Ottoman
+C-Ottoman --Conqueror
 D-Poland-Lithuania
 E-Denmark
 F-Moscow
@@ -2445,8 +2445,8 @@ A-UK
 B-France
 C-Ottoman
 D-Russia
-E-Austria --HRE
-F-Prussia --HRE
+E-Austria --HRE --c-German
+F-Prussia --HRE --c-German
 G-Spain
 H-Sweden
 I-Holy Roman Empire --HRE
@@ -2501,9 +2501,9 @@ J-Morocco
 16= = E E E E E E D D = D = = = B B X
 17= = E E E E E E D D D D J J J J X X
 18= F E E E E E E D D D D J J J = X X
-A-Third Reich
+A-Third Reich --Conqueror
 B-UK
-C-USSR
+C-USSR --Communist
 D-Italy
 E-France
 F-Spain
@@ -2532,14 +2532,14 @@ J-Egypt
 17= = C C C C C C X X X X X X X X X X
 18= J J C C C C C X X X X X X X = X X
 A-UK
-B-USSR
+B-USSR --Communist
 C-France
-D-Poland
+D-Poland --Communist
 E-Italy
-F-Romania
+F-Romania --Communist
 G-Turkey
-H-West Germany
-I-East Germany
+H-West Germany --c-German
+I-East Germany --c-German --Communist
 J-Spain
 --Europe 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -2640,11 +2640,11 @@ I-Letts --Tribal
 16= = = C c = C E = = = D D D D F B B
 17= = = C c c C = = = = X X X F F F B
 18= = = C c c = = = = = X X G F F F B
-A-Norway
-B-Mongols
-C-Denmark
+A-Norway --c-Norse
+B-Mongols --Conqueror
+C-Denmark --c-Norse
 D-Teutonic Knights
-E-Sweden
+E-Sweden --c-Norse
 F-Polotsk
 G-Lithuania
 H-Finns --Tribal
@@ -2668,14 +2668,14 @@ H-Finns --Tribal
 16= = = D d = D E = = = C C C C H B F
 17= = = D d d D = = = = X G G G H H F
 18= = = D d d = = = = = C G G G H H F
-A-Norway
-B-Novgorod
-C-Teutonic Knights
-D-Denmark
-E-Sweden
-F-Golden Horde
+A-Norway --c-Norse
+B-Novgorod --c-Russian
+C-Teutonic Knights --Crusader
+D-Denmark --c-Norse
+E-Sweden --c-Norse
+F-Golden Horde --Conqueror
 G-Lithuania
-H-Polotsk
+H-Polotsk --c-Russian
 I-Finns --Tribal
 --Scandinavia 1600AD--
   a b c d e f g h i j k l m n o p q r
@@ -2697,10 +2697,10 @@ I-Finns --Tribal
 16= = = A a = A D = = = C C C C B B B
 17= = = A a a A = = = = C C C C C C B
 18= = = A a a = = = = = C C C C C C B
-A-Denmark
+A-Denmark --c-Norse
 B-Russia
 C-Poland-Lithuania
-D-Sweden
+D-Sweden --c-Norse
 --Scandinavia 1950AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = A A E E E E E B B B C C
@@ -2721,12 +2721,12 @@ D-Sweden
 16= = = D d = E E = = = C C C C C C C
 17= = = D d d E = = = = C C C C C C C
 18= = = F d d = = = = = C C C C C C C
-A-Norway
+A-Norway --c-Norse
 B-Finland
-C-USSR
-D-Denmark
-E-Sweden
-F-Germany
+C-USSR --Communist
+D-Denmark --c-Norse
+E-Sweden --c-Norse
+F-Germany --c-Norse
 --Scandinavia 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = A A E E E E E B B B F F
@@ -2747,11 +2747,11 @@ F-Germany
 16= = = D d = E E = = = G G G G F F F
 17= = = D d d E = = = = H H H I I I F
 18= = = J d d = = = = = F H H I I I F
-A-Norway
+A-Norway --c-Norse
 B-Finland
 C-Estonia
-D-Denmark
-E-Sweden
+D-Denmark --c-Norse
+E-Sweden --c-Norse
 F-Russia
 G-Latvia
 H-Lithuania
@@ -2827,17 +2827,17 @@ J-Munster --Tribal
 16= = = = = F F F f = E B B B B B G G
 17= = = = = F = = = E E B B B B B G G
 18= = = = = = = I E E E B B B B B X G
-A-Norway
-B-Germany
-C-Danelaw
-D-Denmark
-E-West Francia
-F-Wessex
+A-Norway --c-Norse
+B-Germany --c-Frankish
+C-Danelaw --c-Norse
+D-Denmark --c-Norse
+E-West Francia --c-Frankish
+F-Wessex --c-English
 G-Great Moravia
-H-Scotland
-I-Brittany
-J-Mercia
-K-Wales
+H-Scotland --c-Celtic
+I-Brittany --c-Celtic
+J-Mercia --c-English
+K-Wales --c-Celtic
 --North Sea 1000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = D D D D X X
@@ -2858,15 +2858,15 @@ K-Wales
 16= = = = = A A A a = C B B B B B B B
 17= = = = = A = = = C C B B B B B B B
 18= = = = = = = A A C C B B B B B B B
-A-England
+A-England --c-British
 B-Holy Roman Empire
 C-France
-D-Norway
-E-Scotland
-F-Denmark
-G-Wales
-H-Sweden
-I-Strathclyde
+D-Norway --c-Norse
+E-Scotland --c-British
+F-Denmark --c-Norse
+G-Wales --c-British
+H-Sweden --c-Norse
+I-Strathclyde --c-British
 J-Poland
 --North Sea 1200AD--
   a b c d e f g h i j k l m n o p q r
@@ -2888,16 +2888,16 @@ J-Poland
 16= = = = = A A A a = E B B B B B B B
 17= = = = = A = = = E E B B B B B B B
 18= = = = = = = A A E E B B B B B B B
-A-England
+A-England --c-British
 B-Holy Roman Empire
-C-Norway
-D-Scotland
+C-Norway --c-Norse
+D-Scotland --c-British
 E-France
-F-Denmark
-G-Sweden
-H-Wales
-I-Ulster --Tribal
-J-Munster --Tribal
+F-Denmark --c-Norse
+G-Sweden --c-Norse
+H-Wales --c-British
+I-Ulster --Tribal --c-British
+J-Munster --Tribal --c-British
 --North Sea 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = B B B B B B
@@ -2918,14 +2918,14 @@ J-Munster --Tribal
 16= = = = = A A A a = I D D D D D D G
 17= = = = = A = = = C I I D D D D G G
 18= = = = = = = C C C C D D D D D G G
-A-England
-B-Denmark
+A-England --c-British
+B-Denmark --c-Norse
 C-France
-D-Holy Roman Empire --HRE
-E-Scotland
-F-Sweden
-G-Austria --HRE
-H-Netherlands
+D-Holy Roman Empire --HRE --c-German
+E-Scotland --c-British
+F-Sweden --c-Norse
+G-Austria --HRE --c-German
+H-Netherlands --Trader
 I-Spain
 --North Sea 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -2950,9 +2950,9 @@ I-Spain
 A-UK
 B-Germany
 C-France
-D-Sweden
-E-Denmark
-F-Netherlands
+D-Sweden --c-Norse
+E-Denmark --c-Norse
+F-Netherlands --Trader
 G-Belgium
 H-Austria-Hungary
 --North Sea 2000AD--
@@ -2978,13 +2978,13 @@ H-Austria-Hungary
 A-UK
 B-Germany
 C-France
-D-Norway
-E-Sweden
+D-Norway --c-Norse
+E-Sweden --c-Norse
 F-Ireland
-G-Denmark
+G-Denmark --c-Norse
 H-Netherlands
 I-Belgium
-J-Faroe Islands
+J-Faroe Islands --c-Norse
 ==Western Europe==
   a b c d e f g h i j k l m n o p q r
 1 = = = X X = = X X = = = = = X X X X
@@ -3027,8 +3027,8 @@ J-Faroe Islands
 18= = = = = b = = = = = C C C C = = A
 A-Western Roman Empire
 B-Suebi
-C-Vandals
-D-Visigoth
+C-Vandals --Conqueror
+D-Visigoth --Conqueror
 E-Wales
 F-Anglo-Saxon
 G-Burgundians
@@ -3085,11 +3085,11 @@ J-Avars
 16= = = C C C C C C = = = = = = = = =
 17= = = C C C C C = = = = = = = = H H
 18= = = = = c = = = = = H H H H = = H
-A-Germany
-B-West Francia
-C-Cordoba
+A-Germany --c-German
+B-West Francia --c-German
+C-Cordoba --c-Iberian --Conqueror
 D-Italy
-E-Asturias
+E-Asturias --c-Iberian
 F-Wessex
 G-Danelaw
 H-Abbasid
@@ -3115,16 +3115,16 @@ J-Brittany
 16= = = D D D D D D = = = = = = = = =
 17= = = D D D D D = = = = = = = = H H
 18= = = = = d = = = = = H H H H = = H
-A-England
+A-England --c-British
 B-France
 C-Holy Roman Empire
-D-Cordoba
-E-Leon
+D-Cordoba --c-Iberian --Conqueror
+E-Leon --c-Iberian
 F-Burgundy
 G-Byzantium
 H-Fatimid
 I-Papal States
-J-Wales
+J-Wales --c-British
 --Western Europe 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = X X = = A A = = = = = C C C X
@@ -3145,16 +3145,16 @@ J-Wales
 16= = = G D D D D D = = = = = = = = =
 17= = = D D D D D = = = = = = = = C C
 18= = = = = d = = = = = D D D D = = C
-A-England
+A-England --c-British
 B-France
 C-Holy Roman Empire
-D-Almohad
-E-Castile
-F-Aragon
-G-Portugal
-H-Leon
+D-Almohad --c-Iberian
+E-Castile --c-Iberian
+F-Aragon --c-Iberian
+G-Portugal --c-Iberian
+H-Leon --c-Iberian
 I-Papal States
-J-Wales
+J-Wales --c-British
 --Western Europe 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = A A = = A A = = = = = C C C C
@@ -3178,11 +3178,11 @@ J-Wales
 A-England
 B-France
 C-Holy Roman Empire --HRE
-D-Castile
-E-Aragon
+D-Castile --c-Iberian
+E-Aragon --c-Iberian
 F-Papal States
-G-Granada
-H-Portugal
+G-Granada --c-Iberian
+H-Portugal --c-Iberian
 I-Milan --HRE
 J-Hafsid
 --Western Europe 2000AD--
@@ -3255,13 +3255,13 @@ J-Switzerland
 16X X X X X X B B = = = = = = = = = =
 17X X X X X X X B B B = = = D D D = =
 18X X X X X X X X X B B B B X D D D D
-A-Greeks
-B-Carthage
+A-Greeks --c-Greek
+B-Carthage --Trader
 C-Etruscans
 D-Persia
 E-Macedonia
-F-Sparta
-G-Athens
+F-Sparta --c-Greek
+G-Athens --c-Greek
 H-Celts --Tribal
 I-Illyrians --Tribal
 J-Umbri --Tribal
@@ -3285,14 +3285,14 @@ J-Umbri --Tribal
 16X X X X X X B B = = = = = = = = = =
 17X X X X X X X B B B = = = C C C = =
 18X X X X X X X X X B B B B X C C C C
-A-Rome
-B-Carthage
+A-Rome --c-Italic --Conqueror
+B-Carthage --Trader
 C-Egypt
 D-Thrace
-E-Greece
-F-Etruscans
-G-Macedonia
-H-Epirus
+E-Greece --c-Greek
+F-Etruscans --c-Italic
+G-Macedonia --c-Greek
+H-Epirus --c-Greek
 I-Gauls --Tribal
 J-Dacians --Tribal
 --Mediterranean Sea 250BC--
@@ -3315,16 +3315,16 @@ J-Dacians --Tribal
 16F F X X X X B B = = = = = = = = = =
 17X X X X X X X B B B = = = D D D = =
 18X X X X X X X X X B B B B X D D D D
-A-Rome
-B-Carthage
-C-Macedonia
+A-Rome --Conqueror
+B-Carthage --Trader
+C-Macedonia --c-Greek
 D-Egypt
 E-Seleucid
-F-Numidia West
+F-Numidia West --c-Numidian
 G-Thrace
-H-Numidia East
-I-Epirus
-J-Sparta
+H-Numidia East --c-Numidian
+I-Epirus --c-Greek
+J-Sparta --c-Greek
 --Mediterranean Sea 200BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -3345,16 +3345,16 @@ J-Sparta
 16E E X X X X X X = = = = = = = = = =
 17X X X X X X X X X X = = = C C C = =
 18X X X X X X X X X X X X X X X C C C
-A-Rome
-B-Carthage
+A-Rome --Conqueror
+B-Carthage --Trader
 C-Egypt
 D-Thrace
 E-Numidia
-F-Macedonia
+F-Macedonia --c-Greek
 G-Seleucid
-H-Crete
-I-Epirus
-J-Achaea
+H-Crete --c-Greek
+I-Epirus --c-Greek
+J-Achaea --c-Greek
 --Mediterranean Sea 500AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E E E H X I X X X J X X X X X
@@ -3437,7 +3437,7 @@ J-Spoleto
 18X X X X X X X X X C C C C C C C C C
 A-Franks
 B-Byzantium
-C-Umayyad
+C-Umayyad --Conqueror
 D-Visigoth
 E-Lombards
 F-Bulgaria
@@ -3467,12 +3467,12 @@ J-Benevento
 18X X X X X H H X X C C C C C C C C C
 A-Franks
 B-Byzantium
-C-Abbasid
-D-Cordoba
+C-Abbasid --c-Saracen
+D-Cordoba --c-Saracen
 E-Avars
-F-Idrisid
+F-Idrisid --c-Saracen
 G-Bulgaria
-H-Tahert
+H-Tahert --c-Saracen
 I-Papal States
 J-Benevento
 --Mediterranean Sea 900AD--
@@ -3495,16 +3495,16 @@ J-Benevento
 16J J X X X X C C = = = = = = = = = =
 17X X X X X X X C C C = = = F F F = =
 18X X X X X X X X X X X X X F F F F F
-A-West Francia
+A-West Francia --c-Frankish
 B-Byzantium
-C-Abbasid
+C-Abbasid --c-Saracen
 D-Italy
 E-Bulgaria
 F-Egypt
-G-Cordoba
+G-Cordoba --c-Saracen
 H-Hungary
-I-Germany
-J-Idrisid
+I-Germany --c-Frankish
+J-Idrisid --c-Saracen
 --Mediterranean Sea 1000AD--
   a b c d e f g h i j k l m n o p q r
 1 X X A A D D D D D D D D X X X X X X
@@ -3527,11 +3527,11 @@ J-Idrisid
 18X X X X X C C C C C C C C C C C C C
 A-France
 B-Byzantium
-C-Fatmid
+C-Fatmid --c-Saracen
 D-Holy Roman Empire
-E-Bulgaria
-F-Cordoba
-G-Croatia
+E-Bulgaria --c-Slavic
+F-Cordoba --c-Saracen
+G-Croatia --c-Slavic
 H-Burgundy
 I-Hungary
 J-Pamplona
@@ -3557,12 +3557,12 @@ J-Pamplona
 18D D X X X X X X X X X X X X C C C C
 A-France
 B-Byzantium
-C-Fatimid
-D-Almoravid
+C-Fatimid --c-Saracen
+D-Almoravid --c-Saracen
 E-Holy Roman Empire
 F-Hungary
 G-Sicily
-H-Zirid
+H-Zirid --c-Saracen
 I-Aragon
 J-Pecheneg
 --Mediterranean Sea 1200AD--
@@ -3587,14 +3587,14 @@ J-Pecheneg
 18X X X X X X X X X X X X X X C C C C
 A-France
 B-Byzantium
-C-Ayyubid
-D-Almohad
+C-Ayyubid --c-Saracen
+D-Almohad --c-Saracen
 E-Holy Roman Empire
 F-Hungary
 G-Aragon
 H-England
-I-Bulgaria
-J-Serbia
+I-Bulgaria --c-Slavic
+J-Serbia --c-Slavic
 --Mediterranean Sea 1250AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A D D D D D D D D H X C C C C
@@ -3617,13 +3617,13 @@ J-Serbia
 18X X X X X X X X X X X X X X E E E E
 A-France
 B-Nicaea
-C-Mongols
+C-Mongols --Conqueror
 D-Holy Roman Empire --HRE
-E-Ayyubid
+E-Ayyubid --c-Saracen
 F-Aragon
-G-Hafsid
+G-Hafsid --c-Saracen
 H-Hungary
-I-Tlemcen
+I-Tlemcen --c-Saracen
 J-Bulgaria
 --Mediterranean Sea 1300AD--
   a b c d e f g h i j k l m n o p q r
@@ -3651,10 +3651,10 @@ C-Aragon
 D-Hungary
 E-Mamluk
 F-Naples
-G-Hafsid
+G-Hafsid --c-Moorish
 H-Holy Roman Empire --HRE
 I-Golden Horde
-J-Tlemcen
+J-Tlemcen --c-Moorish
 --Mediterranean Sea 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A F F F F F F F F E X X X X X
@@ -3676,15 +3676,15 @@ J-Tlemcen
 17X X X X X X X X X X = = = D D D = =
 18X X X X X X X X X X X X X X D D D D
 A-France
-B-Ottoman
+B-Ottoman --Conqueror
 C-Aragon
 D-Mamluk
 E-Hungary
 F-Holy Roman Empire --HRE
 G-Naples
-H-Hafsid
-I-Venice
-J-Tlemcen
+H-Hafsid --c-Moorish
+I-Venice --Trader
+J-Tlemcen --c-Moorish
 --Mediterranean Sea 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A I X X X X X E E X X X X X X
@@ -3706,15 +3706,15 @@ J-Tlemcen
 17X X X X X X X X X X = = = D D D = =
 18X X X X X X X X X X X X X X D D D D
 A-France
-B-Ottoman
+B-Ottoman --Conqueror
 C-Spain
 D-Mamluk
 E-Hungary
-F-Hafsid
+F-Hafsid --c-Moorish
 G-Naples
-H-Tlemcen
+H-Tlemcen --c-Moorish
 I-Austria --HRE
-J-Venice
+J-Venice --Trader
 --Mediterranean Sea 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A A X X X X D D D D I I I I I
@@ -3739,12 +3739,12 @@ A-France
 B-Ottoman
 C-Spain
 D-Austria --HRE
-E-Venice
+E-Venice --Trader
 F-Papal States
 G-Switzerland
 H-Savoy
 I-Poland-Lithuania
-J-Genoa
+J-Genoa --Trader
 --Mediterranean Sea 1800AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A A A X X X C C C C C C C C J
@@ -3769,11 +3769,11 @@ A-France
 B-Ottoman
 C-Austria --HRE
 D-Spain
-E-Naples
-F-Papal States
+E-Naples --c-Italian
+F-Papal States --c-Italian
 G-Switzerland
-H-Cisalpine Republic
-I-Piedmont-Sardinia
+H-Cisalpine Republic --c-Italian
+I-Piedmont-Sardinia --c-Italian
 J-Russia
 --Mediterranean Sea 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -3831,9 +3831,9 @@ C-Yugoslavia
 D-Turkey
 E-Spain
 F-Greece
-G-Third Reich
+G-Third Reich --Conqueror
 H-Romania
-I-USSR
+I-USSR --Communist
 J-Egypt
 --Mediterranean Sea 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -3938,10 +3938,10 @@ J-Polans --Tribal
 A-Kievan Rus
 B-Germany
 C-Hungary
-D-Denmark
+D-Denmark --c-Norse
 E-Khazars
 F-Great Moravia
-G-Norway
+G-Norway --c-Norse
 H-Italy
 I-Croatia
 J-Lithuanians --Tribal
@@ -3965,14 +3965,14 @@ J-Lithuanians --Tribal
 16B B B B F D D F A A A E E E E E X X
 17B B B B F F F F X X E E E E E X = X
 18B B = B I F F F X X E E = = X X = X
-A-Kievan Rus
+A-Kievan Rus --c-Russian
 B-Holy Roman Empire
-C-Denmark
+C-Denmark --c-Norse
 D-Poland
-E-Pecheneg
+E-Pecheneg --c-Russian
 F-Hungary
-G-Sweden
-H-Chernigov
+G-Sweden --c-Norse
+H-Chernigov --c-Russian
 I-Croatia
 J-Lithuanians --Tribal
 --Eastern Europe 1220AD--
@@ -3995,23 +3995,23 @@ J-Lithuanians --Tribal
 16C C C C E E E E L L L L G G G F F F
 17C C C C E E E E E E L F F F F F = X
 18C C = C E E E E E E F F = = F F = X
-A-Novgorod
+A-Novgorod --c-Russian
 B-Poland
 C-Holy Roman Empire
-D-Sweden
+D-Sweden --c-Norse
 E-Hungary
-F-Cuman
-G-Kiev
-H-Vladimir
-I-Knights of the Sword
-J-Denmark
-K-Polotsk
-L-Galizia
-M-Chernigov
-N-Smolensk
-O-Norway
-P-Pereyaslavl
-Q-Ryazan
+F-Cuman --c-Russian
+G-Kiev --c-Russian
+H-Vladimir --c-Russian
+I-Knights of the Sword --Crusader
+J-Denmark --c-Norse
+K-Polotsk --c-Russian
+L-Galizia --c-Russian
+M-Chernigov --c-Russian
+N-Smolensk --c-Russian
+O-Norway --c-Norse
+P-Pereyaslavl --c-Russian
+Q-Ryazan --c-Russian
 --Eastern Europe 1240AD--
   a b c d e f g h i j k l m n o p q r
 1 O O H X X = = H H X = A A = A A A A
@@ -4032,22 +4032,22 @@ Q-Ryazan
 16D D D D F F F F L L L L J J J B B B
 17D D D D F F F F F F L N N N N B = B
 18D D = D F F F F F F N N = = B B = B
-A-Novgorod
-B-Mongols
+A-Novgorod --c-Russian
+B-Mongols --Conqueror
 C-Poland
 D-Holy Roman Empire
-E-Teutonic Knights
+E-Teutonic Knights --Crusader
 F-Hungary
-G-Polotsk
-H-Sweden
-I-Denmark
-J-Kiev
-K-Smolensk
-L-Galizia
-M-Chernigov
-N-Cuman
-O-Norway
-P-Pereyaslavl
+G-Polotsk --c-Russian
+H-Sweden --c-Norse
+I-Denmark --c-Norse
+J-Kiev --c-Russian
+K-Smolensk --c-Russian
+L-Galizia --c-Russian
+M-Chernigov --c-Russian
+N-Cuman --c-Russian
+O-Norway --c-Norse
+P-Pereyaslavl --c-Russian
 Q-Lithuania
 --Eastern Europe 1250AD--
   a b c d e f g h i j k l m n o p q r
@@ -4069,17 +4069,17 @@ Q-Lithuania
 16C C C C E E E E A A A A A A A A A A
 17C C C C E E E E E E A A A A A A = A
 18C C = C E E E E E E A A = = A A = A
-A-Mongols
+A-Mongols --Conqueror
 B-Poland
 C-Holy Roman Empire --HRE
-D-Teutonic Knights
+D-Teutonic Knights --Crusader
 E-Hungary
-F-Polotsk
-G-Sweden
-H-Denmark
-I-Turov Pinsk
+F-Polotsk --c-Russian
+G-Sweden --c-Norse
+H-Denmark --c-Norse
+I-Turov Pinsk --c-Russian
 J-Lithuania
-K-Norway
+K-Norway --c-Norse
 --Eastern Europe 1300AD--
   a b c d e f g h i j k l m n o p q r
 1 L L G X X = = G G G = A A = A A A A
@@ -4100,18 +4100,18 @@ K-Norway
 16D D D D F F F F B B B B B B B B B B
 17D D D D F F F F F F B B B B B B = B
 18D D = D F F F F F F B B = = B B = B
-A-Novgorod
-B-Golden Horde
+A-Novgorod --c-Russian
+B-Golden Horde --Conqueror
 C-Poland
 D-Holy Roman Empire --HRE
-E-Teutonic Knights
+E-Teutonic Knights --Crusader
 F-Hungary
-G-Sweden
+G-Sweden --c-Norse
 H-Lithuania
-I-Polotsk
-J-Turov Pinsk
-K-Denmark
-L-Norway
+I-Polotsk --c-Russian
+J-Turov Pinsk --c-Russian
+K-Denmark --c-Norse
+L-Norway --c-Norse
 --Eastern Europe 1350AD--
   a b c d e f g h i j k l m n o p q r
 1 K K F F F = = F F F = A A = A A A A
@@ -4132,18 +4132,18 @@ L-Norway
 16D D D D G G G G B C C C C C C C C C
 17D D D D G G G G G G C C C C C C = C
 18D L = D G G G G G G C C = = C C = C
-A-Novgorod
+A-Novgorod --c-Russian
 B-Poland
 C-Golden Horde
 D-Holy Roman Empire --HRE
-E-Teutonic Knights
-F-Sweden
+E-Teutonic Knights --Crusader
+F-Sweden --c-Norse
 G-Hungary
 H-Lithuania
-I-Denmark
-J-Pskov
-K-Norway
-L-Venice
+I-Denmark --c-Norse
+J-Pskov --c-Russian
+K-Norway --c-Norse
+L-Venice --Trader
 --Eastern Europe 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E E = = E E E = A A = A A A A
@@ -4164,17 +4164,17 @@ L-Venice
 16D D D D G G G G B H H H B B B C C C
 17D D D D G G G G G G H H B B B C = C
 18J K = D G G G G G G H H = = C C = C
-A-Novgorod
+A-Novgorod --c-Russian
 B-Poland-Lithuania
 C-Golden Horde
 D-Holy Roman Empire --HRE
 E-Denmark
-F-Teutonic Knights
+F-Teutonic Knights --Crusader
 G-Hungary
 H-Moldavia
-I-Pskov
-J-Milan --HRE
-K-Venice
+I-Pskov --c-Russian
+J-Milan --HRE --c-Italian
+K-Venice --c-Italian --Trader
 --Eastern Europe 1470AD--
   a b c d e f g h i j k l m n o p q r
 1 F F F F F = = F F F = B B = B B A A
@@ -4195,19 +4195,19 @@ K-Venice
 16D D K K E E E E C J J J C C C I I I
 17K K K K E E E E E E J J C C I I = I
 18M M = K E E E E E E J J = = I I = I
-A-Moscow
-B-Novgorod
+A-Moscow --c-Russian
+B-Novgorod --c-Russian
 C-Poland-Lithuania
 D-Holy Roman Empire --HRE
 E-Hungary
 F-Denmark
-G-Golden Horde
-H-Teutonic Knights
-I-Crimea
+G-Golden Horde --c-Tarter
+H-Teutonic Knights --Crusader
+I-Crimea --c-Tarter
 J-Moldavia
 K-Austria --HRE
-L-Pskov
-M-Venice
+L-Pskov --c-Russian
+M-Venice --Trader
 --Eastern Europe 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D = = D D D = A A = A A A A
@@ -4228,19 +4228,19 @@ M-Venice
 16E E G G C C C C B J J J B B B B F F
 17G G G G C C C C C C J J B B B F = F
 18M M = G C C C C C C J J = = F F = F
-A-Moscow
+A-Moscow --c-Russian
 B-Poland-Lithuania
 C-Hungary
 D-Denmark
-E-Holy Roman Empire --HRE
-F-Ottoman
-G-Austria --HRE
+E-Holy Roman Empire --HRE --c-German
+F-Ottoman --Conqueror
+G-Austria --HRE --c-German
 H-Golden Horde
-I-Teutonic Knights
+I-Teutonic Knights --Crusader
 J-Moldavia
-K-Pskov
-L-Bohemia --HRE
-M-Venice
+K-Pskov --c-Russian
+L-Bohemia --HRE --c-German
+M-Venice --Trader
 --Eastern Europe 1550AD--
   a b c d e f g h i j k l m n o p q r
 1 H H E E E = = E E E = A A = A A A A
@@ -4263,13 +4263,13 @@ M-Venice
 18I I = D C C C C C C C C = = C C = C
 A-Russia
 B-Poland-Lithuania
-C-Ottoman
+C-Ottoman --Conqueror
 D-Austria --HRE
-E-Sweden
-F-Teutonic Knights
+E-Sweden --c-Norse
+F-Teutonic Knights --Crusader
 G-Holy Roman Empire --HRE
-H-Denmark
-I-Venice
+H-Denmark --c-Norse
+I-Venice --Trader
 --Eastern Europe 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 G G E E E = = E E E = A A = A A A A
@@ -4294,10 +4294,10 @@ A-Russia
 B-Poland-Lithuania
 C-Austria --HRE
 D-Ottoman
-E-Sweden
+E-Sweden --c-Norse
 F-Holy Roman Empire --HRE
-G-Denmark
-H-Venice
+G-Denmark --c-Norse
+H-Venice --Trader
 --Eastern Europe 1650AD--
   a b c d e f g h i j k l m n o p q r
 1 G G E E E = = E E E = E E = A A A A
@@ -4320,16 +4320,16 @@ H-Venice
 18J J = C D D D D D D D D = = D D = D
 A-Russia
 B-Poland-Lithuania
-C-Austria --HRE
+C-Austria --HRE --c-German
 D-Ottoman
-E-Sweden
-F-Brandenburg --HRE
-G-Denmark
-H-Saxony --HRE
-I-Bavaria --HRE
-J-Venice
-K-Holy Roman Empire --HRE
-L-Mecklenburg --HRE
+E-Sweden --c-Norse
+F-Brandenburg --HRE --c-German
+G-Denmark --c-Norse
+H-Saxony --HRE --c-German
+I-Bavaria --HRE --c-German
+J-Venice --Trader
+K-Holy Roman Empire --HRE --c-German
+L-Mecklenburg --HRE --c-German
 --Eastern Europe 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 G G E E E = = E E E = E E = A A A A
@@ -4352,17 +4352,17 @@ L-Mecklenburg --HRE
 18J J = C C C D D C C D D = = D D = D
 A-Russia
 B-Poland-Lithuania
-C-Austria --HRE
+C-Austria --HRE --c-German
 D-Ottoman
-E-Sweden
-F-Brandenburg --HRE
-G-Denmark
-H-Saxony --HRE
-I-Bavaria --HRE
-J-Venice
-K-Hanover --HRE
-L-Holy Roman Empire --HRE
-M-Mecklenburg --HRE
+E-Sweden --c-Norse
+F-Brandenburg --HRE --c-German
+G-Denmark --c-Norse
+H-Saxony --HRE --c-German
+I-Bavaria --HRE --c-German
+J-Venice --Trader
+K-Hanover --HRE --c-German
+L-Holy Roman Empire --HRE --c-German
+M-Mecklenburg --HRE --c-German
 --Eastern Europe 1750AD--
   a b c d e f g h i j k l m n o p q r
 1 G G F F F = = F F F = A A = A A A A
@@ -4385,17 +4385,17 @@ M-Mecklenburg --HRE
 18M M = C C C C C C C D D = = D D = D
 A-Russia
 B-Poland-Lithuania
-C-Austria --HRE
+C-Austria --HRE --c-German
 D-Ottoman
-E-Prussia --HRE
-F-Sweden
-G-Denmark
-H-Saxony --HRE
-I-Hanover --HRE
-J-Bavaria --HRE
-K-Mecklenburg --HRE
-L-Holy Roman Empire --HRE
-M-Venice
+E-Prussia --HRE --c-German
+F-Sweden --c-Norse
+G-Denmark --c-Norse
+H-Saxony --HRE --c-German
+I-Hanover --HRE --c-German
+J-Bavaria --HRE --c-German
+K-Mecklenburg --HRE --c-German
+L-Holy Roman Empire --HRE --c-German
+M-Venice --Trader
 --Eastern Europe 1800AD--
   a b c d e f g h i j k l m n o p q r
 1 F F D D D = = D D D = A A = A A A A
@@ -4417,16 +4417,16 @@ M-Venice
 17B B B B B B B B B B E E A A A A = A
 18L B = B B B B B B B E E = = A A = A
 A-Russia
-B-Austria --HRE
-C-Prussia --HRE
-D-Sweden
+B-Austria --HRE --c-German
+C-Prussia --HRE --c-German
+D-Sweden --c-Norse
 E-Ottoman
-F-Denmark
-G-Saxony --HRE
-H-Bavaria --HRE
-I-Hanover --HRE
-J-Mecklenburg --HRE
-K-Holy Roman Empire --HRE
+F-Denmark --c-Norse
+G-Saxony --HRE --c-German
+H-Bavaria --HRE --c-German
+I-Hanover --HRE --c-German
+J-Mecklenburg --HRE --c-German
+K-Holy Roman Empire --HRE --c-German
 L-Cisalpine Republic
 --Eastern Europe 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -4451,9 +4451,9 @@ L-Cisalpine Republic
 A-Russia
 B-Germany
 C-Austria-Hungary
-D-Sweden
+D-Sweden --c-Norse
 E-Romania
-F-Denmark
+F-Denmark --c-Norse
 G-Italy
 --Eastern Europe 1920AD--
   a b c d e f g h i j k l m n o p q r
@@ -4475,8 +4475,8 @@ G-Italy
 16B B L L F F J F F H H D D D D D D D
 17L L L L J J J H H H H H D D D D = A
 18P P = N N J J H H H H H = = D D = A
-A-Russia
-B-Germany
+A-Russia --Communist
+B-Germany --c-German
 C-Poland
 D-Ukraine
 E-Estonia
@@ -4485,15 +4485,15 @@ G-Lithuania
 H-Romania
 I-Latvia
 J-Hungary
-K-Sweden
-L-Austria
+K-Sweden --c-Norse
+L-Austria --c-German
 M-Finland
 N-Yugoslavia
-O-Denmark
+O-Denmark --c-Norse
 P-Italy
-Q-Norway
-R-Danzig
-S-Memel
+Q-Norway --c-Norse
+R-Danzig --c-German
+S-Memel --c-German
 --Eastern Europe 1930AD--
   a b c d e f g h i j k l m n o p q r
 1 P P D D D = = J J J = J A = A A A A
@@ -4514,23 +4514,23 @@ S-Memel
 16B B K K K G I I G E E E A A A A A A
 17K K K K I I I E E E E E A A A A = A
 18M M = O O I I E E E E E = = A A = A
-A-USSR
-B-Germany
+A-USSR --Communist
+B-Germany --c-German
 C-Poland
-D-Sweden
+D-Sweden --c-Norse
 E-Romania
 F-Estonia
 G-Czechoslovakia
 H-Lithuania
 I-Hungary
 J-Finland
-K-Austria
-L-Denmark
+K-Austria --c-German
+L-Denmark --c-Norse
 M-Italy
 N-Lithuania
 O-Yugoslavia
-P-Norway
-Q-Danzig
+P-Norway --c-Norse
+Q-Danzig --c-German
 --Eastern Europe 1940AD--
   a b c d e f g h i j k l m n o p q r
 1 M M D D D = = H H H = H B = B B B B
@@ -4551,10 +4551,10 @@ Q-Danzig
 16A A A A A E E E E C C B B B B B B B
 17A A A A E E E C C C C C B B B B = B
 18F F = N N E E C C C C C = = B B = B
-A-Third Reich
-B-USSR
+A-Third Reich --Conqueror
+B-USSR --Communist
 C-Romania
-D-Sweden
+D-Sweden --c-Norse
 E-Hungary
 F-Italy
 G-Estonia
@@ -4562,8 +4562,8 @@ H-Finland
 I-Slovakia
 J-Lithuania
 K-Latvia
-L-Denmark
-M-Norway
+L-Denmark --c-Norse
+M-Norway --c-Norse
 N-Yugoslavia
 --Eastern Europe 1950AD--
   a b c d e f g h i j k l m n o p q r
@@ -4585,20 +4585,20 @@ N-Yugoslavia
 16C C K K K F I I A A E A A A A A A A
 17K K K K I I I E E E E A A A A A = A
 18M M = J J I I E E E E A = = A A = A
-A-USSR
-B-Poland
-C-West Germny
-D-Sweden
-E-Romania
-F-Czechoslovakia
-G-East Germany
+A-USSR --Communist
+B-Poland --Communist
+C-West Germany --c-German
+D-Sweden --c-Norse
+E-Romania --Communist
+F-Czechoslovakia --Communist
+G-East Germany --c-German --Communist
 H-Finland
-I-Hungary
-J-Yugoslavia
-K-Austria
-L-Denmark
+I-Hungary --Communist
+J-Yugoslavia --Communist
+K-Austria --c-German
+L-Denmark --c-Norse
 M-Italy
-N-Norway
+N-Norway --c-Norse
 --Eastern Europe 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 Q Q E E E = = R R R = A A = A A A A
@@ -4679,12 +4679,12 @@ T-Slovenia
 16= A A A A A = A X B B B = = = = = =
 17= = = A = A = D D B B = = = = E E E
 18= = = A = = = = D D B B = = = = F E
-A-Rome
-B-Macedonia
+A-Rome --Conqueror
+B-Macedonia --c-Greek
 C-Thrace
-D-Epirus
+D-Epirus --c-Greek
 E-Seleucid
-F-Pergamon
+F-Pergamon --c-Greek
 G-Dacians --Tribal
 H-Illyrians --Tribal
 I-Veneti --Tribal
@@ -4710,13 +4710,13 @@ I-Veneti --Tribal
 18= = = A = = = = A A A A = = = = A A
 A-Byzantium
 B-Hungary
-C-Bulgaria
+C-Bulgaria --c-Slavic
 D-Germany
-E-Croatia
-F-Serbia
-G-Italy
-H-Benevento
-I-Salerno
+E-Croatia --c-Slavic
+F-Serbia --c-Slavic
+G-Italy --c-Italian
+H-Benevento --c-Italian
+I-Salerno --c-Italian
 --Balkans 1250AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D B B B B B B B C C C C C C C
@@ -4737,15 +4737,15 @@ I-Salerno
 16= D D D D D = G G A A A = = = = = =
 17= = = D = D = G G A A = = = = A A A
 18= = = D = = = = G G A A = = = = A A
-A-Nicaea
+A-Nicaea --c-Byzantine
 B-Hungary
-C-Mongol
+C-Mongol --Conqueror
 D-Holy Roman Empire --HRE
-E-Bulgaria
-F-Serbia
+E-Bulgaria --c-Slavic
+F-Serbia --c-Slavic
 G-Epirus
-H-Venice
-I-Latin Empire
+H-Venice --Trader
+I-Latin Empire --c-Byzantine
 --Balkans 1300AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D B B B B B B B C C C C C C C
@@ -4768,13 +4768,13 @@ I-Latin Empire
 18= = = E = = = = H H A A = = = = J J
 A-Byzantium
 B-Hungary
-C-Golden Horde
+C-Golden Horde --Conqueror
 D-Holy Roman Empire --HRE
 E-Naples
-F-Bulgaria
-G-Serbia
+F-Bulgaria --c-Slavic
+G-Serbia --c-Slavic
 H-Epirus
-I-Venice
+I-Venice --Trader
 J-Karesi
 --Balkans 1350AD--
   a b c d e f g h i j k l m n o p q r
@@ -4796,16 +4796,16 @@ J-Karesi
 16= D D D D D = A A A A A = = = = = =
 17= = = D = D = D A A A = = = = I I I
 18= = = D = = = = A A A A = = = = I I
-A-Ottoman
+A-Serbia --c-Slavic
 B-Byzantium
 C-Hungary
 D-Naples
 E-Holy Roman Empire --HRE
-F-Golden Horde
-G-Bulgaria
-H-Wallachia
-I-Ottoman
-J-Venice
+F-Golden Horde --Conqueror
+G-Bulgaria --c-Slavic
+H-Wallachia --c-Slavic
+I-Ottoman --Conqueror
+J-Venice --Trader
 K-Poland
 --Balkans 1400AD--
   a b c d e f g h i j k l m n o p q r
@@ -4827,20 +4827,20 @@ K-Poland
 16= E E E E E = H H A A A = = = = = =
 17= = = E = E = H I A A = = = = A A A
 18= = = E = = = = I I A A = = = = A A
-A-Ottoman
+A-Ottoman --Conqueror
 B-Hungary
-C-Moldavia
+C-Moldavia --c-Slavic
 D-Holy Roman Empire --HRE
 E-Naples
 F-Poland-Lithuania
-G-Bosnia
+G-Bosnia --c-Slavic
 H-Albania
 I-Epirus
-J-Venice
-K-Wallachia
+J-Venice --Trader
+K-Wallachia --c-Slavic
 L-Byzantium
-M-Serbia
-N-Vidin
+M-Serbia --c-Slavic
+N-Vidin --c-Slavic
 --Balkans 1450AD--
   a b c d e f g h i j k l m n o p q r
 1 F F F F B B B B B B B G G G C C C G
@@ -4861,14 +4861,14 @@ N-Vidin
 16= D D D D D = A A A A A = = = = = =
 17= = = D = D = H A A A = = = = A A A
 18= = = D = = = = J A A A = = = = A A
-A-Ottoman
+A-Ottoman --Conqueror
 B-Hungary
-C-Moldavia
+C-Moldavia --c-Slavic
 D-Aragon
-E-Bosnia
+E-Bosnia --c-Slavic
 F-Holy Roman Empire --HRE
 G-Poland-Lithuania
-H-Venice
+H-Venice --Trader
 I-Albania
 J-Epirus
 --Balkans 1500AD--
@@ -4891,12 +4891,12 @@ J-Epirus
 16= E E E E E = A A A A A = = = = = =
 17= = = E = E = F A A A = = = = A A A
 18= = = E = = = = A A A A = = = = A A
-A-Ottoman
+A-Ottoman --Conqueror
 B-Hungary
 C-Austria --HRE
 D-Moldavia
 E-Naples
-F-Venice
+F-Venice --Trader
 G-Poland-Lithuania
 --Balkans 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -4922,10 +4922,10 @@ A-Austria-Hungary
 B-Ottoman
 C-Russia
 D-Italy
-E-Bulgaria
-F-Romania
-G-Serbia
-H-Montenegro
+E-Bulgaria --c-Slavic
+F-Romania --c-Slavic
+G-Serbia --c-Slavic
+H-Montenegro --c-Slavic
 I-Greece
 --Balkans 1940AD--
   a b c d e f g h i j k l m n o p q r
@@ -4947,15 +4947,15 @@ I-Greece
 16= E E E E E = E E G G G = = = = = =
 17= = = E = E = E G G G = = = = H H H
 18= = = E = = = = G G G G = = = = H H
-A-Yugoslavia
-B-Romania
-C-Bulgaria
+A-Yugoslavia --c-Slavic
+B-Romania --c-Slavic
+C-Bulgaria --c-Slavic
 D-Hungary
 E-Italy
-F-Third Reich
+F-Third Reich --Conqueror
 G-Greece
 H-Turkey
-I-Slovakia
+I-Slovakia --c-Slavic
 --Balkans 1950AD--
   a b c d e f g h i j k l m n o p q r
 1 J J J J K K K K D D D H H H H H H H
@@ -4976,17 +4976,17 @@ I-Slovakia
 16= I I I I I = F F E E E = = = = = =
 17= = = I = I = F E E E = = = = G G G
 18= = = I = = = = E E E E = = = = G G
-A-Yugoslavia
-B-Romania
-C-Bulgaria
-D-Hungary
+A-Yugoslavia --c-Slavic --Communist
+B-Romania --c-Slavic --Communist
+C-Bulgaria --c-Slavic --Communist
+D-Hungary --Communist
 E-Greece
-F-Albania
+F-Albania --Communist
 G-Turkey
-H-USSR
+H-USSR --Communist
 I-Italy
 J-Austria
-K-Czechoslovalia
+K-Czechoslovakia --c-Slavic --Communist
 --Balkans 2010AD--
   a b c d e f g h i j k l m n o p q r
 1 I I I I Q Q Q D D D D P P P P B O O
@@ -5007,20 +5007,20 @@ K-Czechoslovalia
 16= F F F F F = K K G G G = = = = = =
 17= = = F = F = K G G G = = = = E E E
 18= = = F = = = = G G G G = = = = E E
-A-Serbia
+A-Serbia --c-Slavic
 B-Romania
-C-Bulgaria
+C-Bulgaria --c-Slavic
 D-Hungary
 E-Turkey
 F-Italy
 G-Greece
-H-Croatia
+H-Croatia --c-Slavic
 I-Austria
-J-Bosnia and Herzegovina
+J-Bosnia and Herzegovina --c-Slavic
 K-Albania
-L-Slovenia
-M-Macedonia
-N-Montenergo
+L-Slovenia --c-Slavic
+M-Macedonia --c-Slavic
+N-Montenergo --c-Slavic
 O-Moldova
 P-Ukraine
 Q-Slovakia
@@ -5064,12 +5064,12 @@ Q-Slovakia
 16= = = = = = = = = = X X C C F F = =
 17= = = = = = = = = X X X C = = = = =
 18= = = = = = = X X X = = = = = = = =
-A-Mercia
-B-Northumbria
-C-Wessex
+A-Mercia --c-Anglian
+B-Northumbria --c-Anglian
+C-Wessex --c-Anglian
 D-Wales
-E-Essex
-F-Kent
+E-Essex --c-Anglian
+F-Kent --c-Anglian
 G-Picts --Tribal
 H-Leinster --Tribal
 I-Ulster --Tribal
@@ -5096,13 +5096,13 @@ J-Munster --Tribal
 18= = = = = = = C C C = = = = = = = =
 A-Danelaw
 B-Scotland
-C-Wessex
-D-Mercia
+C-Wessex --c-Anglian
+D-Mercia --c-Anglian
 E-Wales
-F-Leinster
-G-Connacht
-H-Ulster
-I-Munster
+F-Leinster --c-Irish
+G-Connacht --c-Irish
+H-Ulster --c-Irish
+I-Munster --c-Irish
 --British Isles 1250AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
@@ -5123,12 +5123,12 @@ I-Munster
 16= = = = = = = = = = A A A A A A = =
 17= = = = = = = = = A A A A = = = = =
 18= = = = = = = A A A = = = = = = = =
-A-England
-B-Scotland
-C-Wales
+A-England --c-British
+B-Scotland --c-British
+C-Wales --c-British
 D-Norway
-E-Munster --Tribal
-F-Ulster --Tribal
+E-Munster --Tribal --c-British
+F-Ulster --Tribal --c-British
 --British Isles 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
@@ -5191,7 +5191,7 @@ B-Ireland
 16= = = = = C C = = = = B B B B B B B
 17= = = = = C C C C B B B B B B B B B
 18= = = = = C C C C B B B B B B B B B
-A-Rome
+A-Rome --Conqueror
 B-Numidia
 C-Mauretania
 D-Celts --Tribal
@@ -5219,7 +5219,7 @@ G-Celtberians --Tribal
 17= = = = = A A A A A A A A A A A A A
 18= = = = = A A A A A A A A A A A A A
 A-Western Roman Empire
-B-Vandals
+B-Vandals --Conqueror
 C-Suebi
 D-Alans
 --Iberia 560AD--
@@ -5269,8 +5269,8 @@ G-Vascons --Tribal
 16= = = = = D D = = = = D D D D X X X
 17= = = = = D D D D D D D D D X X X X
 18= = = = = D D D D D D D D D X X X X
-A-Asturias
-B-Cordoba
+A-Asturias --c-Iberian
+B-Cordoba --c-Iberian --Conqueror
 C-West Francia
 D-Idrisid
 E-Byzantium
@@ -5294,25 +5294,25 @@ E-Byzantium
 16= = = = = X X = = = = X X X X X X X
 17= = = = = X X X X X X X X X X X X X
 18= = = = = X X X X X X X X X X X X X
-A-Castile
-B-Toledo
-C-Gallicia
-D-Badajoz
-E-Leon
-F-Saragossa
+A-Castile --c-Iberian
+B-Toledo --c-Iberian
+C-Gallicia --c-Iberian
+D-Badajoz --c-Iberian
+E-Leon --c-Iberian
+F-Saragossa --c-Iberian
 G-France
-H-Seville
-I-Aragon
-J-Granada
-K-Pamplona
-L-Cordoba
+H-Seville --c-Iberian
+I-Aragon --c-Iberian
+J-Granada --c-Iberian
+K-Pamplona --c-Iberian
+L-Cordoba --c-Iberian
 M-Hammadid
-N-Denia
-O-Albarracin
-P-Arcos
-Q-Alpuente
-R-Almeria
-S-Murcia
+N-Denia --c-Iberian
+O-Albarracin --c-Iberian
+P-Arcos --c-Iberian
+Q-Alpuente --c-Iberian
+R-Almeria --c-Iberian
+S-Murcia --c-Iberian
 --Iberia 1100AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = C C C C C C C
@@ -5333,12 +5333,12 @@ S-Murcia
 16= = = = = B B = = = = B B B B B B X
 17= = = = = B B B B B B B B B B B X X
 18= = = = = B B B B B B B B B B B X X
-A-Leon
+A-Leon --c-Iberian
 B-Almoravid
 C-France
-D-Saragossa
-E-Aragon
-F-Majorca
+D-Saragossa --c-Iberian
+E-Aragon --c-Iberian
+F-Majorca --c-Iberian
 G-Valencia
 H-Albarracin
 I-Alpuente
@@ -5362,15 +5362,15 @@ I-Alpuente
 16= = = = = D D = = = = H H H H H H X
 17= = = = = D D D D H H H H H H H X X
 18= = = = = D D D D H H H H H H H X X
-A-Leon
-B-Almoravid Taifas
-C-Aragon
+A-Leon --c-Iberian
+B-Almoravid Taifas --c-Iberian
+C-Aragon --c-Iberian
 D-Almohad
-E-Portugal
-F-Murcia
+E-Portugal --c-Iberian
+F-Murcia --c-Iberian
 G-France
 H-Almoravid
-I-Pamplona
+I-Pamplona --c-Iberian
 --Iberia 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = G G G G F F F
@@ -5391,15 +5391,15 @@ I-Pamplona
 16= = = = = B B = = = = B B B X X X X
 17= = = = = B B B B B B B B X X X X X
 18= = = = = B B B B B B B X X X X X X
-A-Castile
+A-Castile --c-Iberian
 B-Almohad
-C-Aragon
-D-Leon
-E-Portugal
+C-Aragon --c-Iberian
+D-Leon --c-Iberian
+E-Portugal --c-Iberian
 F-France
 G-England
-H-Navarre
-I-Almoravid
+H-Navarre --c-Iberian
+I-Almoravid --c-Iberian
 --Iberia 1450AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = I E E E E E E
@@ -5420,14 +5420,14 @@ I-Almoravid
 16= = = = = F F = = = = G G G G G G G
 17= = = = = F F F F F G G G G G G X X
 18= = = = = F F F F F F G G G G X X X
-A-Castile
-B-Aragon
-C-Portugal
-D-Granada
+A-Castile --c-Iberian
+B-Aragon --c-Iberian
+C-Portugal --c-Iberian
+D-Granada --c-Iberian
 E-France
 F-Marinid
 G-Hafsid
-H-Navarre
+H-Navarre --c-Iberian
 I-England
 --Iberia 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -5448,7 +5448,7 @@ I-England
 15= = = = = = = = = = = = = D D D D D
 16= = = = = E E = = = = D D D D D D D
 17= = = = = E E E E E D D D D D D D D
-18= = = = = X X X X X X X X X X X X X
+18= = = = = E E E E E D D D D D D D D
 A-Spain
 B-Portugal
 C-France
@@ -5500,9 +5500,9 @@ B-Visigoth
 C-Burgundy
 D-Sygrius
 E-Odoacer
-F-Sussex
+F-Sussex --c-Anglian
 G-Alamanni
-H-Kent
+H-Kent --c-Anglian
 I-Suebi
 J-Brittany --Tribal
 --France 520AD--
@@ -5525,16 +5525,16 @@ J-Brittany --Tribal
 16K = = = = = C C C C F F F D D D = =
 17K X X X X X F C C C F = = = = = = =
 18K F F F F F F F F F F F = = = = = =
-A-Paris
-B-Austrasia
+A-Paris --c-French
+B-Austrasia --c-French
 C-Neustria
-D-Burgundy
-E-Orleans
+D-Burgundy --c-French
+E-Orleans --c-French
 F-Visigoths
 G-Ostrogoths
-H-Wessex
-I-Sussex
-J-Kent
+H-Wessex --c-Anglian
+I-Sussex --c-Anglian
+J-Kent --c-Anglian
 K-Suebi
 --France 600AD--
   a b c d e f g h i j k l m n o p q r
@@ -5561,9 +5561,9 @@ B-Austrasia
 C-Neustria
 D-Visigoths
 E-Lombards
-F-Wessex
-G-Sussex
-H-Kent
+F-Wessex --c-Anglian
+G-Sussex --c-Anglian
+H-Kent --c-Anglian
 I-Brittany --Tribal
 J-Vascons --Tribal
 --France 650AD--
@@ -5590,9 +5590,9 @@ A-Austrasia
 B-Neustria
 C-Visigoth
 D-Lombards
-E-Wessex
-F-Sussex
-G-Kent
+E-Wessex --c-Anglian
+F-Sussex --c-Anglian
+G-Kent --c-Anglian
 H-Brittany --Tribal
 --France 880AD--
   a b c d e f g h i j k l m n o p q r
@@ -5614,13 +5614,13 @@ H-Brittany --Tribal
 16F = = = = = D D D D D D D I I I = =
 17F F F F G G G D D D D = = = = = = =
 18F F F G G G G D D D D D = = = = = =
-A-West Francia
-B-East Francia
+A-West Francia --c-Frankish
+B-East Francia --c-Frankish
 C-Italy
 D-Aquitaine
 E-Wessex
 F-Asturias
-G-Cordoba
+G-Cordoba --Conqueror
 H-Brittany
 I-Provence
 --France 900AD--
@@ -5643,15 +5643,15 @@ I-Provence
 16D = = = = = A A A A A A A I I I = =
 17D D D D H H H A A A A = = = = = = =
 18D D D H H H H A A A A A = = = = = =
-A-West Francia
+A-West Francia --c-French
 B-Germany
 C-Wessex
-D-Asturias
+D-Asturias --c-Iberian
 E-Italy
-F-Burgundy
-G-Brittany
-H-Cordoba
-I-Provence
+F-Burgundy --c-French
+G-Brittany --c-French
+H-Cordoba --c-Iberian
+I-Provence --c-French
 --France 1000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = B B B B B B B = A A C C C C C C
@@ -5672,12 +5672,12 @@ I-Provence
 16E = = = = = A A A A A A A D D D = =
 17E E E E F F A A A A A = = = = = = =
 18E E E E F F F F X A A A = = = = = =
-A-France
+A-France --c-French
 B-England
 C-Holy Roman Empire --HRE
-D-Burgundy
-E-Leon
-F-Pamplona
+D-Burgundy --c-French
+E-Leon --c-Iberian
+F-Pamplona --c-Iberian
 --France 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 = = B B B B B B B = B A C C C C C C
@@ -5701,9 +5701,9 @@ F-Pamplona
 A-France
 B-England
 C-Holy Roman Empire --HRE
-D-Castile
-E-Aragon
-F-Navarre
+D-Castile --c-Iberian
+E-Aragon --c-Iberian
+F-Navarre --c-Iberian
 G-Papal States
 --France 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -5774,7 +5774,7 @@ I-Andorra
 16A A A A A A X X A A A A A A A A A A
 17A A A A A A A A A A A A A A A A A A
 18A A A A A A A A A A A A A A A A A A
-A-Rome
+A-Rome --Conqueror
 B-Franks --Tribal
 C-Burgundians --Tribal
 D-Saxons --Tribal
@@ -5862,20 +5862,20 @@ I-Polans --Tribal
 16D D D D D A A A A A I I I B B B B B
 17D D D E E A A A A A I I A A B B B B
 18D D D E E M M M B B B B A A B B B B
-A-Holy Roman Empire --HRE
-B-Austria --HRE
-C-Brandenburg --HRE
+A-Holy Roman Empire --HRE --c-German
+B-Austria --HRE --c-German
+C-Brandenburg --HRE --c-German
 D-France
 E-Spain
 F-Poland-Lithuania
-G-Denmark
-H-Saxony --HRE
-I-Bavaria --HRE
-J-Netherlands
-K-Wurtemburg --HRE
-L-Mecklenburg --HRE
-M-Switzerland
-N-Sweden
+G-Denmark --c-Norse
+H-Saxony --HRE --c-German
+I-Bavaria --HRE --c-German
+J-Netherlands --Trader
+K-Wurtemburg --HRE --c-German
+L-Mecklenburg --HRE --c-German
+M-Switzerland --c-German
+N-Sweden --c-Norse
 --Germany 1850AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = I I i i i = = = = = =
@@ -5896,20 +5896,20 @@ N-Sweden
 16F F F F F F N M M D D D D B B B B B
 17F F F F F F N J M D D D D B B B B B
 18F F F F F J J J B B B B B B B B B B
-A-German Confederation --HRE
-B-Austria --HRE
-C-Prussia --HRE
-D-Bavaria --HRE
-E-Hanover --HRE
+A-German Confederation --HRE --c-German
+B-Austria --HRE --c-German
+C-Prussia --HRE --c-German
+D-Bavaria --HRE --c-German
+E-Hanover --HRE --c-German
 F-France
-G-Netherlands
+G-Netherlands --Trader
 H-Belgium
 I-Denmark
-J-Switzerland
-K-Mecklenburg --HRE
-L-Saxony --HRE
-M-Wurtemburg --HRE
-N-Baden --HRE
+J-Switzerland --c-German
+K-Mecklenburg --HRE --c-German
+L-Saxony --HRE --c-German
+M-Wurtemburg --HRE --c-German
+N-Baden --HRE --c-German
 --Germany 1950AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = J J j j j = = = = = =
@@ -5930,18 +5930,18 @@ N-Baden --HRE
 16C C C C C C A A A A A A A F F F F F
 17C C C C C C A I A A A A A F F F F K
 18C C C C C I I I F F F F F F F F F K
-A-West Germany
-B-East Germany
+A-West Germany --c-German
+B-East Germany --c-German --Communist
 C-France
-D-Poland
-E-Czechoslovakia
-F-Austria
+D-Poland --Communist
+E-Czechoslovakia --Communist
+F-Austria --c-German
 G-Netherlands
 H-Belgium
-I-Switzerland
+I-Switzerland --c-German
 J-Denmark
 K-Hungary
-L-Luxembourg
+L-Luxembourg --c-German
 --Germany 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = I I i i i = = = = = =
@@ -5962,14 +5962,14 @@ L-Luxembourg
 16B B B B B B A A A A A A A D D D D D
 17B B B B B B A H A A A A A D D D D J
 18B B B B B H H H D D D D D D D D D J
-A-Germany
+A-Germany --c-German
 B-France
 C-Poland
-D-Austria
+D-Austria --c-German
 E-Czech Republic
 F-Netherlands
 G-Belgium
-H-Switzerland
+H-Switzerland --c-German
 I-Denmark
 J-Hungary
 K-Luxembourg
@@ -6013,16 +6013,16 @@ K-Luxembourg
 16= = = = = = = = = B B B e d = = = =
 17= = = = = = = = = = B B E = = = = =
 18B B B B B B B B = = = = e = = = = =
-A-Rome
+A-Rome --c-Italic --Conqueror
 B-Carthage
-C-Etruscans
-D-Magna Graecia
+C-Etruscans --c-Italic
+D-Magna Graecia --c-Italic
 E-Syracuse
 F-Massalia
 G-Illyrians --Tribal
 H-Volcae --Tribal
 I-Ligurians --Tribal
-J-Umbri --Tribal
+J-Umbri --Tribal --c-Italic
 --Italy 700AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E B B B B B B B A A A A G G G
@@ -6043,12 +6043,12 @@ J-Umbri --Tribal
 16= = = = = = = = = A A A A a = = = =
 17= = = = = = = = = = A A A = = = = =
 18F F F F F F F F = = = = A = = = = =
-A-Byzantium
-B-Lombards
-C-Benevento
-D-Spoleto
+A-Byzantium --c-Italian
+B-Lombards --c-Italian
+C-Benevento --c-Italian
+D-Spoleto --c-Italian
 E-Franks
-F-Umayyad
+F-Umayyad --Conqueror
 G-Avars
 --Italy 1000AD--
   a b c d e f g h i j k l m n o p q r
@@ -6070,19 +6070,19 @@ G-Avars
 16= = = = = = = = = D D D d b = = = =
 17= = = = = = = = = = D D D = = = = =
 18D D D D D D D D = = = = d = = = = =
-A-Papal States
-B-Holy Roman Empire
-C-Byzantium
-D-Fatmid
+A-Papal States --c-Italian
+B-Byzantium --c-Italian
+C-Holy Roman Empire
+D-Fatmid --Conqueror
 E-Croatia
-F-Benevento
-G-Salerno
-H-Venice
+F-Benevento --c-Italian
+G-Salerno --c-Italian
+H-Venice --c-Italian
 I-Burgundy
-J-Calari
-K-Gallura
-L-Arborea
-M-Logudoro
+J-Calari --c-Sardinian
+K-Gallura --c-Sardinian
+L-Arborea --c-Sardinian
+M-Logudoro --c-Sardinian
 N-Hungary
 --Italy 1200AD--
   a b c d e f g h i j k l m n o p q r
@@ -6104,18 +6104,18 @@ N-Hungary
 16= = = = = = = = = B B B b b = = = =
 17= = = = = = = = = = B B B = = = = =
 18I I I I I I I I = = = = b = = = = =
-A-Papal States
+A-Papal States --c-Italian
 B-Holy Roman Empire
 C-Hungary
-D-Venice
-E-Genoa
-F-Pisa
-G-Logudoro
-H-Calari
+D-Venice --c-Italian --Trader
+E-Genoa --c-Italian
+F-Pisa --c-Italian
+G-Logudoro --c-Sardinian
+H-Calari --c-Sardinian
 I-Almohad
 J-Byzantium
-L-Gallura
-M-Arborea
+L-Gallura --c-Sardinian
+M-Arborea --c-Sardinian
 --Italy 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 H H H H E E E H H C H H H I I I I I
@@ -6136,19 +6136,19 @@ M-Arborea
 16= = = = = = = = = D D D d b = = = =
 17= = = = = = = = = = D D D = = = = =
 18L L L L L L L L = = = = d = = = = =
-A-Papal States
-B-Naples
-C-Venice
+A-Papal States --c-Italian
+B-Naples --c-Italian
+C-Venice --c-Italian --Trader
 D-Aragon
-E-Milan --HRE
-F-Genoa --HRE
-G-Florence --HRE
+E-Milan --HRE --c-Italian
+F-Genoa --HRE --c-Italian
+G-Florence --HRE --c-Italian
 H-Holy Roman Empire --HRE
 I-Hungary
 J-France
 K-Bosnia
 L-Hafsid
-M-Ottoman
+M-Ottoman --Conqueror
 --Italy 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 L L N N E N N M C C C M M G G G G G
@@ -6169,18 +6169,18 @@ M-Ottoman
 16= = = = = = = = = F F F f b = = = =
 17= = = = = = = = = = F F F = = = = =
 18H H H H H H H H = = = = f = = = = =
-A-Papal States
-B-Naples
-C-Venice
-D-Ottoman
-E-France
+A-Papal States --c-Italian
+B-Naples --c-Italian
+C-Venice --c-Italian --Trader
+D-Ottoman --Conqueror
+E-France --c-French
 F-Spain
 G-Hungary
 H-Hafsid
-I-Genoa --HRE
-J-Florence --HRE
-K-Siena --HRE
-L-Savoy --HRE
+I-Genoa --HRE --c-Italian
+J-Florence --HRE --c-Italian
+K-Siena --HRE --c-Italian
+L-Savoy --HRE --c-French
 M-Austria --HRE
 N-Holy Roman Empire --HRE
 --Italy 1850AD--
@@ -6203,15 +6203,15 @@ N-Holy Roman Empire --HRE
 16= = = = = = = = = B B B b b = = = =
 17= = = = = = = = = = B B B = = = = =
 18D D D D D E E E = = = = b = = = = =
-A-Papal States
-B-Two Sicilies
-C-Piedmont-Sardinia
+A-Papal States --c-Italian
+B-Two Sicilies --c-Italian
+C-Piedmont-Sardinia --c-Italian
 D-France
 E-Ottoman
 F-Austria
-G-Tuscany
-H-Parma
-I-Modena
+G-Tuscany --c-Italian
+H-Parma --c-Italian
+I-Modena --c-Italian
 --Italy 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 B B I I A A A A A A A E E C C G G G
@@ -6234,12 +6234,12 @@ I-Modena
 18F F F F F J J J = = = = a = = = = =
 A-Italy
 B-France
-C-Croatia
+C-Croatia --c-Slavic
 D-Bosnia and Herzegovina
-E-Slovenia
+E-Slovenia --c-Slavic
 F-Algeria
 G-Hungary
-H-Yugoslavia
+H-Yugoslavia --c-Slavic
 I-Switzerland
 J-Tunisia
 ==Greece==
@@ -6282,22 +6282,22 @@ J-Tunisia
 16= = = = = = = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = F F F = = = = = = = = =
-A-Rome
+A-Rome --Conqueror
 B-Seleucid
-C-Macedonia
+C-Macedonia --c-Greek
 D-Thrace
-E-Epirus
+E-Epirus --c-Greek
 F-Egypt
-G-Athens
-H-Sparta
-I-Achaea
-J-Aetolia
-K-Bithynia
-L-Pergamon
-M-Rhodes
-N-Byzantium
-O-Chalcedon
-P-Crete
+G-Athens --c-Greek
+H-Sparta --c-Greek
+I-Achaea --c-Greek
+J-Aetolia --c-Greek
+K-Bithynia --c-Greek
+L-Pergamon --c-Greek
+M-Rhodes --c-Greek
+N-Byzantium --c-Greek
+O-Chalcedon --c-Greek
+P-Crete --c-Greek
 --Greece 1370AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = C C C C C A Q Q A A A = = =
@@ -6318,21 +6318,21 @@ P-Crete
 16= = = = = = = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = P P P = = = = = = = = =
-A-Ottoman
+A-Ottoman --c-Anatolian --Conqueror
 B-Naples
 C-Serbia
 D-Byzantium
-E-Epirus
-F-Venice
-G-Germiyan
-H-Thessaly
-I-Knights of Rhodes
+E-Epirus --c-Greek
+F-Venice --Trader
+G-Germiyan --c-Anatolian
+H-Thessaly --c-Greek
+I-Knights of Rhodes --Crusader
 J-Genoa
-K-Aydin
+K-Aydin --c-Anatolian
 L-Aragon
-M-Mentese
-N-Teke
-O-Hamidoglu
+M-Mentese --c-Anatolian
+N-Teke --c-Anatolian
+O-Hamidoglu --c-Anatolian
 P-Mamluk
 Q-Bulgaria
 --Greece 1400AD--
@@ -6355,14 +6355,14 @@ Q-Bulgaria
 16= = = = = = = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = I I I = = = = = = = = =
-A-Ottoman
+A-Ottoman --Conqueror
 B-Naples
-C-Venice
+C-Venice --Trader
 D-Genoa
 E-Byzantium
 F-Albania
 G-Epirus
-H-Knights of Rhodes
+H-Knights of Rhodes --Conqueror
 I-Mamluks
 --Greece 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -6583,7 +6583,7 @@ J-Benin
 17= = = = = = = = = X X = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 A-Ottoman
-B-Spain
+B-Spain --Colonizer
 C-Saadi
 D-Bornu
 E-Ethiopia
@@ -6613,7 +6613,7 @@ J-Rozwi
 17= = = = = = = = = X X = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 A-Ottoman
-B-Portugal
+B-Portugal --Colonizer --Trader
 C-Morocco
 D-Ethiopia
 E-Bornu
@@ -6643,8 +6643,8 @@ J-Dahomey
 17= = = = = = = = = B B = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 A-Ottoman
-B-Netherlands
-C-Portugal
+B-Netherlands --Colonizer --Trader
+C-Portugal --Colonizer --Trader
 D-Morocco
 E-Ethiopia
 F-Merina
@@ -6672,12 +6672,12 @@ J-Oman
 16= = = = = = = = D A X X = = = = = =
 17= = = = = = = = = A A = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Britian
-B-France
+A-Britian --Colonizer
+B-France --Colonizer
 C-Ottoman
-D-Germany
-E-Portugal
-F-Congo Free State
+D-Germany --Colonizer
+E-Portugal --Colonizer --Trader
+F-Congo Free State --Colonizer
 G-Morocco
 H-Sudan
 I-Sokoto
@@ -6703,12 +6703,12 @@ J-Merina
 17= = = = = = = = = B B = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 A-Ethiopia
-B-Britian
-C-France
+B-Britian --Colonizer
+C-France --Colonizer
 D-Ottoman
-E-Germany
-F-Portugal
-G-Congo Free State
+E-Germany --Colonizer
+F-Portugal --Colonizer
+G-Congo Free State --Colonizer
 H-Italy
 I-Morocco
 J-Ouaddai
@@ -6734,10 +6734,10 @@ J-Ouaddai
 18= = = = = = = = = = = = = = = = = =
 A-Ethiopia
 B-South Africa
-C-Britian
-D-France
-E-Italy
-F-Portugal
+C-Britian --Colonizer
+D-France --Colonizer
+E-Italy --Colonizer
+F-Portugal --Colonizer
 G-Spain
 H-Belgium
 I-Persia
@@ -6813,16 +6813,16 @@ J-Angola
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
 A-Carthage
-B-Rome
-C-Numidia West
+B-Rome --Conqueror
+C-Numidia West --c-Numidian
 D-Mauretania
-E-Numidia East
+E-Numidia East --c-Numidian
 F-Syracuse
 G-Sagunt
-H-Iberians
-I-Celts
-J-Berbers
-K-Tuareg
+H-Iberians --Tribal
+I-Celts --Tribal
+J-Berbers --Tribal
+K-Tuareg --Tribal
 --North Africa 150BC--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X A A = = = = A = = = A A =
@@ -6843,7 +6843,7 @@ K-Tuareg
 16X X X X X X X X X X X X X X X X X X
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
-A-Rome
+A-Rome --Conqueror
 B-Carthage
 C-Numidia
 D-Mauretania
@@ -6867,15 +6867,15 @@ D-Mauretania
 16X X X X X X X X X X X X X X X X X X
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
-A-Emirate of Cordoba
-B-Abbasid
-C-Idrisid
-D-Byzantium
-E-Tahert
-F-Salerno
-G-Calari
-H-Asturias
-I-Logudoro
+A-Emirate of Cordoba --c-Iberian
+B-Abbasid --c-Magrebi
+C-Idrisid --c-Magrebi
+D-Byzantium --c-Italian
+E-Tahert --c-Magrebi
+F-Salerno --c-Italian
+G-Calari --c-Sardinian
+H-Asturias --c-Iberian
+I-Logudoro --c-Sardianian
 --North Africa 1150AD--
   a b c d e f g h i j k l m n o p q r
 1 = H H C C G G = = = = K = = = D D =
@@ -6896,17 +6896,17 @@ I-Logudoro
 16X X X X X X X X X X X X X X X X X X
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
-A-Almohad
-B-Zirid
-C-Leon
+A-Almohad --c-Magrebi
+B-Zirid --c-Magrebi
+C-Leon --c-Iberian
 D-Sicily
-E-Almoravid Taifas
-F-Almoravid
-G-Murica
-H-Portugal
-I-Hammadid
-J-Calari
-K-Logudoro
+E-Almoravid Taifas --c-Iberian
+F-Almoravid --c-Magrebi
+G-Murica --c-Iberian
+H-Portugal --c-Iberian
+I-Hammadid --c-Magrebi
+J-Calari --c-Sardinian
+K-Logudoro --c-Sardinian
 --North Africa 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 = F F A A A D = = = = D = = = G G =
@@ -6927,14 +6927,14 @@ K-Logudoro
 16X X X X X X X X X X X X X X X X X X
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
-A-Castile
-B-Marinid
-C-Hafsid
-D-Aragon
-E-Tlemcen
-F-Portugal
+A-Castile --c-Iberian
+B-Marinid --c-Magrebi
+C-Hafsid --c-Magrebi
+D-Aragon --c-Iberian
+E-Tlemcen --c-Magrebi
+F-Portugal --c-Iberian
 G-Naples
-H-Granada
+H-Granada --c-Iberian
 --North Africa 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 = E E A A A A = = = = A = = = G G =
@@ -6956,11 +6956,11 @@ H-Granada
 17X X X D D D X X X X X X X X X X X X
 18X X X X D D D X X X X X X X X X X X
 A-Spain
-B-Wattassid
-C-Hafsid
+B-Wattassid --c-Magrebi
+C-Hafsid --c-Magrebi
 D-Songhai
 E-Portugal
-F-Tlemcen
+F-Tlemcen --c-Magrebi
 G-Naples
 --North Africa 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -6982,7 +6982,7 @@ G-Naples
 16X X X X X X X X X X X X X X X X X X
 17X X X X X X X X X X X X X X X X X X
 18X X X X X X X X X X X X X X X X X X
-A-France
+A-France --Colonizer
 B-Morocco
 C-Spain
 D-Ottoman
@@ -7008,10 +7008,10 @@ F-Potugal
 16A A A A A A A A A A A A A A A A A A
 17A A A A A A A A A A A A A A A A A A
 18A A A A A A A A A A A A A A A A A A
-A-France
-B-Spain
-C-Italy
-D-Portugal
+A-France --Colonizer
+B-Spain --Colonizer
+C-Italy --Colonizer
+D-Portugal --Trader
 --North Africa 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = K K D D D D = = = = F = = = F F =
@@ -7088,7 +7088,7 @@ B-Mali
 C-Hausa
 D-Benin
 E-Wolof
-F-Portugal
+F-Portugal --Colonizer --Trader
 --West Africa 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 = = X X X X X X X X X X X X X X X X
@@ -7115,7 +7115,7 @@ C-Saadi
 D-Mali
 E-Dendi
 F-Bornu
-G-Spain
+G-Spain --Colonizer
 H-Oyo
 --West Africa 1800AD--
   a b c d e f g h i j k l m n o p q r
@@ -7141,9 +7141,9 @@ A-Hausa
 B-Ashanti
 C-Oyo
 D-Dendi
-E-Britian
-F-France
-G-Portugal
+E-Britian --Colonizer
+F-France --Colonizer
+G-Portugal --Colonizer --Trader
 H-Dahomey
 I-Benin
 --West Africa 1880AD--
@@ -7166,14 +7166,14 @@ I-Benin
 16= = = = = = = = = = = = = = = = = A
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-France
-B-Britian
+A-France --Colonizer
+B-Britian --Colonizer
 C-Sokoto
 D-Toucouleur
 E-Liberia
 F-Dahomey
 G-Dendi
-H-Portugal
+H-Portugal --Colonizer
 I-Oyo
 J-Benin
 --West Africa 1900AD--
@@ -7196,11 +7196,11 @@ J-Benin
 16= = = = = = = = = = = = = = = = = A
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-France
-B-Britian
-C-Germany
-D-Portugal
-E-Spain
+A-France --Colonizer
+B-Britian --Colonizer
+C-Germany --Colonizer
+D-Portugal --Colonizer
+E-Spain --Colonizer
 F-Liberia
 --West Africa 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -7281,7 +7281,7 @@ S-Guinea-Bissau
 16= = X X X X X X X X X X X X X X X X
 17= = X X X X X X X X X X X X X X X X
 18= X X X X X X X X X X X X X X X X X
-A-Spain
+A-Spain --Colonizer
 B-Kongo
 C-Bornu
 D-Luba
@@ -7309,12 +7309,12 @@ H-Rwanda
 16= = A A X X X X E X X X X X X X X A
 17= = A X X X X X X X X X X X X X X A
 18= A A X X X X X X X X X X X A X X A
-A-Portugal
+A-Portugal --Colonizer --Trader
 B-Ottoman
 C-Tippu Tip
 D-Zanzibar
 E-Lunda
-F-France
+F-France --Colonizer
 G-Buganda
 H-Kazembe
 I-Burundi
@@ -7343,13 +7343,13 @@ N-Bunyoro
 16= = C C C C C C B B B B B B B C C C
 17= = C C C C C C B B B B B C B B C C
 18= C C C C C C C B B B B B C C B C C
-A-Congo Free State
-B-Britian
-C-Portugal
-D-France
-E-Germany
+A-Congo Free State --Colonizer
+B-Britian --Colonizer
+C-Portugal --Colonizer
+D-France --Colonizer
+E-Germany --Colonizer
 F-Ethiopia
-G-Spain
+G-Spain --Colonizer
 --Central Africa 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 O O E E S S C C C F F F F F L L L L
@@ -7429,8 +7429,8 @@ S-Chad
 16= = = = = X X X X X X = = = = = = =
 17= = = = = B X X X = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Portugal
-B-Netherlands
+A-Portugal --Colonizer --Trader
+B-Netherlands --Colonizer --Trader
 C-Rozwi
 D-Mutapa
 E-Herero --Tribal
@@ -7456,9 +7456,9 @@ G-Bantu --Tribal
 16= = = = = A A A A A A = = = = = = =
 17= = = = = A A A A = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Britian
-B-Bantu-N
-C-Portugal
+A-Britian --Colonizer
+B-Bantu --Tribal
+C-Portugal --Colonizer
 D-Lunda
 E-Rozwi
 F-Zulu
@@ -7486,9 +7486,9 @@ J-Herero --Tribal
 16= = = = = A A A A A A = = = = = = =
 17= = = = = A A A A = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Britian
-B-Portugal
-C-Germany
+A-Britian --Colonizer
+B-Portugal --Colonizer
+C-Germany --Colonizer
 D-Transvaal
 E-Orange Free State
 --Southern Africa 2000AD--
@@ -7588,8 +7588,8 @@ G-Bantu --Tribal
 16X X X A A A A = = = X X X X = = = =
 17K K X X A A = = = = X C C = = = = =
 18X X X X A = = = = = X C C = = = = =
-A-Portugal
-B-Oman
+A-Portugal --Colonizer --Trader
+B-Oman --Colonizer
 C-Merina
 D-Lunda
 E-Luba
@@ -7619,12 +7619,12 @@ K-Rozwi
 16A A A D D D D = = = B B B B = = = =
 17A A A D D D = = = = B B B = = = = =
 18A A A D D = = = = = B B B = = = = =
-A-Britian
-B-France
-C-Germany
-D-Portugal
-E-Congo Free State
-F-Italy
+A-Britian --Colonizer
+B-France --Colonizer
+C-Germany --Colonizer
+D-Portugal --Colonizer
+E-Congo Free State --Colonizer
+F-Italy --Colonizer
 G-Ethiopia
 --East Africa 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -7702,9 +7702,9 @@ O-Comoros
 17B A A B B B C C C C C C = = = = = =
 18B B B B B B C C C C C = = = = = = =
 A-Ehiopia
-B-Britian
-C-Italy
-D-France
+B-Britian --Colonizer
+C-Italy --Colonizer
+D-France --Colonizer
 E-Ottoman
 --Horn of Africa 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -7855,9 +7855,9 @@ I-Xiongnu --Tribal
 A-Assyria
 B-Indo-Aryan
 C-Egypt
-D-Qin
-E-Chu
-F-Yan
+D-Qin --c-Chinese
+E-Chu --c-Chinese
+F-Yan --c-Chinese
 G-Anshan
 --Asia 600BC--
   a b c d e f g h i j k l m n o p q r
@@ -7879,16 +7879,16 @@ G-Anshan
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Babylonia
+A-Babylonia --c-Near_Eastern
 B-Indo-Aryan
-C-Qin
-D-Medes
+C-Qin --c-Chinese
+D-Medes --c-Near_Eastern
 E-Egypt
-F-Chu
-G-Yan
+F-Chu --c-Chinese
+G-Yan --c-Chinese
 H-Kush
-I-Urartu
-J-Lydia
+I-Urartu --c-Near_Eastern
+J-Lydia --c-Near_Eastern
 --Asia 400BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -7912,9 +7912,9 @@ J-Lydia
 A-Persia
 B-Nanda
 C-Egypt
-D-Qin
-E-Chu
-F-Yan
+D-Qin --c-Chinese
+E-Chu --c-Chinese
+F-Yan --c-Chinese
 G-Xiongnu
 H-Scythian --Tribal
 I-Dravidian --Tribal
@@ -7939,11 +7939,11 @@ J-Arabs --Tribal
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Alexander the Great
+A-Alexander the Great --Conqueror
 B-Persia
 C-Nanda
-D-Qin
-E-Chu
+D-Qin --c-Chinese
+E-Chu --c-Chinese
 --Asia 200BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -7964,15 +7964,15 @@ E-Chu
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Han
+A-Han --c-Chinese
 B-Seleucid
-C-Maurya
+C-Maurya --c-Indian
 D-Xiongnu
 E-Egypt
-F-Nanyue
-G-Satavahana
+F-Nanyue --c-Chinese
+G-Satavahana --c-Indian
 H-Bosporus
-I-Pathia
+I-Parthia
 J-Saba
 --Asia 0AD--
   a b c d e f g h i j k l m n o p q r
@@ -8026,14 +8026,14 @@ J-Anyradhapura
 18X X = = = = = = = = = = x x x = = =
 A-Han
 B-Rome
-C-Satavahana
+C-Satavahana --c-Indian
 D-Xiongnu
 E-Parthia
 F-Kushan
 G-Funan
 H-Goguryeo
 I-Himyar
-J-Anuradhapura
+J-Anuradhapura --c-Indian
 --Asia 500AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -8054,10 +8054,10 @@ J-Anuradhapura
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Southern Qi
+A-Southern Qi --c-Chinese
 B-Eastern Roman Empire
 C-Hephthalite
-D-Northern Wei
+D-Northern Wei --c-Chinese
 E-Sassanid
 F-Rouran
 G-Funan
@@ -8086,11 +8086,11 @@ J-Gupta
 18X X = = = = = = = = = = x x x = = =
 A-Sui
 B-Sassanid
-C-Gokturks
+C-Gokturks --c-Tarter
 D-Eastern Roman Empire
 E-Avars
 F-Magadha
-G-Western Gokturks
+G-Western Gokturks --c-Tarter
 H-Goguryeo
 I-Chenla
 J-Japan
@@ -8177,9 +8177,9 @@ J-Khmer
 A-Northern Song
 B-Seljuq
 C-Srivijaya
-D-Cuman
+D-Cuman --c-Russian
 E-Khitan
-F-Novgorod
+F-Novgorod --c-Russian
 G-Khmer
 H-Kara-Khanid
 I-Ghaznavids
@@ -8204,15 +8204,15 @@ J-Fatimid
 16X X = = = = = = = = h h X x x = = =
 17X X = = = = = = = = = h = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Southern Song
-B-Ghurid
-C-Ayyubid
+A-Southern Song --c-Chinese
+B-Ghurid --c-Saracen
+C-Ayyubid --c-Saracen
 D-Novgorod
-E-Jinn
+E-Jinn --c-Chinese
 F-Kara-Khitan
 G-Khmer
 H-Srivijaya
-I-Abbasid
+I-Abbasid --c-Saracen
 J-Byzantium
 --Asia 1220AD--
   a b c d e f g h i j k l m n o p q r
@@ -8234,15 +8234,15 @@ J-Byzantium
 16X X = = = = = = = = e e X x x = = =
 17X X = = = = = = = = = e = = x x x x
 18X X = = = = = = = = = = e x x = = =
-A-Mongol
-B-Southern Song
+A-Mongol --Conqueror
+B-Southern Song --c-Chinese
 C-Ayyubid
 D-Delhi
 E-Srivijaya
 F-Novgorod
 G-Khwarezm
 H-Japan
-I-Jinn
+I-Jinn --c-Chinese
 J-Khmer
 --Asia 1250AD--
   a b c d e f g h i j k l m n o p q r
@@ -8264,15 +8264,15 @@ J-Khmer
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = j = = x x x x
 18X X = = = = = = = = = = x x x = = =
-A-Mongol
-B-Southern Song
+A-Mongol --Conqueror
+B-Southern Song --c-Chinese
 C-Ayyubid
 D-Delhi
 E-Japan
 F-Khmer
 G-Nicaea
 H-Abbasid
-I-Dali
+I-Dali --c-Chinese
 J-Srivijaya
 --Asia 1300AD--
   a b c d e f g h i j k l m n o p q r
@@ -8294,13 +8294,13 @@ J-Srivijaya
 16X X = = = = = = = = x x X x x = = =
 17X X = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = i x x = = =
-A-Yuan
-B-Golden Horde
-C-Il Khan
-D-Dellhi
+A-Yuan --c-Mongol
+B-Golden Horde --c-Mongol
+C-Il Khan --c-Mongol
+D-Delhi
 E-Mamluk
 F-Novgorod
-G-White Horde
+G-White Horde --c-Mongol
 H-Khmer
 I-Majapahit
 J-Japan
@@ -8385,14 +8385,14 @@ J-Japan
 17X i = = = = = = = = = x = = x x x x
 18X X = = = = = = = = = = x i x = = =
 A-Ming
-B-Russia
+B-Russia --Conqueror
 C-Ottoman
 D-Mughal
 E-Mongol
 F-Persia
 G-Kazakh
 H-Tibet
-I-Spain
+I-Spain --Colonizer
 J-Japan 
 --Asia 1700AD--
   a b c d e f g h i j k l m n o p q r
@@ -8420,8 +8420,8 @@ C-Ottoman
 D-Mughal
 E-Kazakh
 F-Persia
-G-Netherlands
-H-Spain
+G-Netherlands --Colonizer --Trader
+H-Spain --Colonizer
 I-Khoshut
 J-Japan
 --Asia 1800AD--
@@ -8450,10 +8450,10 @@ C-Ottoman
 D-Persia
 E-Afghanistan
 F-Maratha
-G-Britian
+G-Britian --Colonizer
 H-Japan
 I-Siam
-J-Spain
+J-Spain --Colonizer
 --Asia 1900AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B B B B B B B B B B B B B
@@ -8480,10 +8480,10 @@ C-Britian
 D-Ottoman
 E-Japan
 F-Persia
-G-Netherlands
+G-Netherlands --Colonizer
 H-Siam
-I-France
-J-USA
+I-France --Colonizer
+J-USA --Colonizer
 --Asia 1950AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B B B B B B B B B B B B B
@@ -8504,8 +8504,8 @@ J-USA
 16H H = = = = = = = = d h H d d = = =
 17H H = = = = = = = = = d = = d x x x
 18H H = = = = = = = = = = d d d = = =
-A-China
-B-USSR
+A-China --Communist
+B-USSR --Communist
 C-India
 D-Indonesia
 E-Iran
@@ -8513,7 +8513,7 @@ F-Saudi Arabia
 G-Japan
 H-Britian
 I-Turkey
-J-France
+J-France --Colonizer
 --Asia 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B B B B B B B B B B B B B
@@ -8534,7 +8534,7 @@ J-France
 16X X = = = = = = = = d d X d d = = =
 17X X = = = = = = = = = d = = d d d x
 18X X = = = = = = = = = = d d d = = =
-A-China
+A-China --Communist
 B-Russia
 C-India
 D-Indonesia
@@ -8584,8 +8584,8 @@ J-Vietnam
 16C X = = = X X X X X X X X X X = = =
 17X X X = = X X X X X X X X X = = = =
 18X X X X = = X X X X X X = = = = = =
-A-Assyria
-B-Babylonia
+A-Assyria --c-Mesopotamian
+B-Babylonia --c-Mesopotamian
 C-Egypt
 D-Hittites
 E-Elam
@@ -8613,14 +8613,14 @@ I-Semetic Peoples --Tribal
 16X X = = = X X X X X X X X X X = = =
 17I X X = = X X X X X X X X X = = = =
 18I X X X = = X X X X X X = = = = = =
-A-Assyria
-B-Babylonia
+A-Assyria --c-Mesopotamian
+B-Babylonia --c-Mesopotamian
 C-Egypt
-D-Medes
-E-Elam
+D-Medes --c-Iranian
+E-Elam --c-Iranian
 F-Urartu
 G-Lydia
-H-Anshan
+H-Anshan --c-Iranian
 I-Kush
 J-Arabs --Tribal
 --Middle East 550BC--
@@ -8672,13 +8672,13 @@ F-Arabs --Tribal
 A-Seleucid
 B-Parthia
 C-Egypt
-D-Cappadocia
+D-Cappadocia --c-Anatolian
 E-Judea
 F-Nabatea
 G-Armenia
 H-Meroe
-I-Commagene
-J-Sophene
+I-Commagene --c-Anatolian
+J-Sophene --c-Anatolian
 --Middle East 200AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B B B A A = = C C C C C C
@@ -8727,13 +8727,13 @@ F-Arabs --Tribal
 18H E E E = = X X X X X X = = = = = =
 A-Byzantium
 B-Sassanid
-C-Medina
-D-Mecca
+C-Medina --c-Arab
+D-Mecca --c-Arab
 E-Aksum
-F-Ghassanids
-G-Makuria
-H-Alodia
-I-Arabs --Tribal
+F-Ghassanids --c-Arab
+G-Makuria --c-Nubian
+H-Alodia ---c-Nubian
+I-Arabs --Tribal --c-Arab
 --Middle East 650AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C A A A A A A A = = B B B B B B
@@ -8754,12 +8754,12 @@ I-Arabs --Tribal
 16E D = = = A A A A A A A A A A = = =
 17E D D = = A A A A A A A A A = = = =
 18F D D D = = A A A A A A = = = = = =
-A-Caliphate
+A-Caliphate --Conqueror
 B-Sassanid
 C-Byzantium
 D-Aksum
-E-Makuria
-F-Alodia
+E-Makuria --c-Nubian
+F-Alodia --c-Nubian
 --Middle East 900AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D A A A A A = = B B B B B B
@@ -8784,8 +8784,8 @@ A-Abbasid
 B-Sistan
 C-Egypt
 D-Byzantium
-E-Makuria
-F-Alodia
+E-Makuria --c-Nubian
+F-Alodia --c-Nubian
 G-Arabs --Tribal
 --Middle East 1100AD--
   a b c d e f g h i j k l m n o p q r
@@ -8807,16 +8807,16 @@ G-Arabs --Tribal
 16X X = = = B X X X X X X X X X = = =
 17X X X = = B B X X X X X X X = = = =
 18X X X X = = X X X X X X = = = = = =
-A-Seljuq
-B-Damascus
-C-Fatmid
-D-Khorasan
-E-Ghaznavids
-F-Rum
-G-Jerusalem
-H-Aleppo
-I-Edessa
-J-Byzantium
+A-Seljuq --c-Turkic
+B-Damascus --c-Saracen
+C-Fatmid --c-Saracen
+D-Khorasan --c-Turkic
+E-Ghaznavids --c-Turkic
+F-Rum --c-Anatolian
+G-Jerusalem --Crusader
+H-Aleppo --Crusader
+I-Edessa --Crusader
+J-Byzantium --c-Anatolian
 --Middle East 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E X X X X I I I = = D D D D D D
@@ -8837,16 +8837,16 @@ J-Byzantium
 16X X = = = A X X X X X X X X X = = =
 17X X X = = A A X X X X X X X = = = =
 18X X X X = = A X X X X X = = = = = =
-A-Ayyubid
-B-Abbasid
-C-Ghurid
-D-Khorasan
-E-Rum
+A-Ayyubid --c-Saracen
+B-Abbasid --c-Saracen
+C-Ghurid  --c-Iranian
+D-Khorasan --c-Iranian
+E-Rum --c-Anatolian
 F-Oman
-G-Jerusalem
-H-Byzantium
+G-Jerusalem --Crusader
+H-Byzantium --c-Anatolian
 I-Azerbaijan
-J-Kerman
+J-Kerman --c-Iranian
 --Middle East 1230AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E A A A F F F = = B B B B B B
@@ -8868,13 +8868,13 @@ J-Kerman
 17J X X = = A A X X X X X X X = = = =
 18X X X X = = A X X X X X = = = = = =
 A-Ayyubid
-B-Mongol
+B-Mongol --Conqueror
 C-Khwarezm
 D-Abbasid
 E-Rum
 F-Azerbaijan
 G-Oman
-H-Jerusalem
+H-Jerusalem --Crusader
 I-Cilicia
 J-Makuria
 --Middle East 1350AD--
@@ -8897,16 +8897,16 @@ J-Makuria
 16X X = = = A X X X X X X X X X = = =
 17X X X = = A A X X X X X X X = = = =
 18X X X X = = X X X X X X = = = = = =
-A-Mamluk
-B-Jalayirids
-C-Herat
-D-Chupanids
-E-Sabzevar
-F-Muzaffarid
-G-Injuids
+A-Mamluk --c-Turkic
+B-Jalayirids --c-Iranian
+C-Herat --c-Iranian
+D-Chupanids --c-Iranian
+E-Sabzevar --c-Iranian
+F-Muzaffarid --c-Iranian
+G-Injuids --c-Iranian
 H-Oman
-I-Mazanderan
-J-Karaman
+I-Mazanderan --c-Iranian
+J-Karaman --c-Turkic
 --Middle East 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D B B B B B B B = = C C C C C C
@@ -8927,16 +8927,16 @@ J-Karaman
 16X X = = = A X X X X X X X X X = = =
 17X X X = = A A X X X X X X X = = = =
 18G X X X = = F X X X X X = = = = = =
-A-Mamluk
-B-Ak Koyunlu
-C-Timurid
-D-Ottoman
-E-Oman
-F-Yemen
+A-Mamluk --c-Turkic
+B-Ak Koyunlu --c-Iranian
+C-Timurid --c-Iranian
+D-Ottoman --c-Turkic --Conqueror
+E-Oman --c-Arabic
+F-Yemen --c-Arabic
 G-Alodia
-H-Dulkadir
-I-Venice
-J-Arabs --Tribal
+H-Dulkadir --c-Turkic
+I-Venice --Trader
+J-Arabs --Tribal --c-Arabic
 --Middle East 1900AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A A A A B B E = = E E E E E E
@@ -8959,11 +8959,11 @@ J-Arabs --Tribal
 18C C G G = = A X X C C C = = = = = =
 A-Ottoman
 B-Persia
-C-Britian
+C-Britian --Colonizer
 D-Hail
 E-Russia
 F-Afghanistan
-G-Italy
+G-Italy --Colonizer
 H-Qatar
 --Middle East 1930AD--
   a b c d e f g h i j k l m n o p q r
@@ -8988,12 +8988,12 @@ H-Qatar
 A-Saudi
 B-Persia
 C-Turkey
-D-Britian
+D-Britian --Colonizer
 E-Egypt
-F-France
-G-Russia
+F-France --Colonizer
+G-Russia --Communist
 H-Afghanistan
-I-Italy
+I-Italy --Colonizer
 J-Yemen
 --Middle East 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -9065,16 +9065,16 @@ J-Israel
 16= = = = = = = = = J = D = = = = = =
 17= = = = = = = = = = = D = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Satavahana
-B-Indo-Parthian
-C-Indo-Scythians
+A-Satavahana --c-Indian
+B-Indo-Parthian --c-Indo-Greek
+C-Indo-Scythians --c-Indo-Greek
 D-Anuradhapura
 E-Parthia
-F-Kalinga
-G-Chola
-H-Chera
-I-Pandya
-J-Ay
+F-Kalinga --c-Indian
+G-Chola --c-Tamil
+H-Chera --c-Tamil
+I-Pandya --c-Tamil
+J-Ay --c-Tamil
 --South Asia 300AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B D D D D D X X X X X X X
@@ -9095,20 +9095,20 @@ J-Ay
 16= = = = = = = = = C = F = = = = = =
 17= = = = = = = = = = = F = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Vakataka
+A-Vakataka --c-Indian
 B-Sassanid
 C-Kalabhra
 D-Kushan
-E-Saka
+E-Saka --c-Indian
 F-Anuradhapura
-G-Pallava
-H-Kuntala
-I-Kalinga
-J-Kadamba
-K-Gupta
-L-Traikutaka
-M-Andhra
-N-Chutu
+G-Pallava --c-Indian
+H-Kuntala --c-Indian
+I-Kalinga --c-Indian
+J-Kadamba --c-Indian
+K-Gupta --c-Indian
+L-Traikutaka --c-Indian
+M-Andhra --c-Indian
+N-Chutu --c-Indian
 --South Asia 500AD--
   a b c d e f g h i j k l m n o p q r
 1 G G G A A A A A A A A A A N X X X X
@@ -9131,17 +9131,17 @@ N-Chutu
 18= = = = = = = = = = = = = = = = = =
 A-Hephthalite
 B-Kalabhra
-C-Ganga
-D-Gupta
-E-Vakataka
-F-Traikutaka
+C-Ganga --c-Indian
+D-Gupta --c-Indian
+E-Vakataka --c-Indian
+F-Traikutaka --c-Indian
 G-Sassanid
-H-Kuntala
-I-Pallava
-J-Ganga
+H-Kuntala --c-Indian
+I-Pallava --c-Indian
+J-Ganga --c-Indian
 K-Anuradhapura
-L-Kadamba
-M-Andhra
+L-Kadamba --c-Indian
+M-Andhra --c-Indian
 N-Nepal
 O-Kamarupa
 --South Asia 600AD--
@@ -9164,23 +9164,23 @@ O-Kamarupa
 16= = = = = = = = = L = K = = = = = =
 17= = = = = = = = = = = K = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Chalukya
-B-Magadha
+A-Chalukya --c-Indian
+B-Magadha --c-Indian
 C-Sassanid
-D-Harsha
-E-Sind
-F-Kalachuri
-G-Vallabhi
-H-Daksina
-I-Nala
-J-Pallava
+D-Harsha --c-Indian
+E-Sind --c-Indian
+F-Kalachuri --c-Indian
+G-Vallabhi --c-Indian
+H-Daksina --c-Indian
+I-Nala --c-Indian
+J-Pallava --c-Indian
 K-Anuradhapura
-L-Pandya
-M-Gurjar
-N-Andhra
-O-Kongoda
+L-Pandya --c-Indian
+M-Gurjar --c-Indian
+N-Andhra --c-Indian
+O-Kongoda --c-Indian
 P-Nepal
-Q-Kalinga
+Q-Kalinga --c-Indian
 R-Kamarupa
 --South Asia 950AD--
   a b c d e f g h i j k l m n o p q r
@@ -9202,21 +9202,21 @@ R-Kamarupa
 16= = = = = = = = = G = E = = = = = =
 17= = = = = = = = = = = E = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Gurjar
-B-Rashtrakuta
-C-Pala
+A-Gurjar --c-Indian
+B-Rashtrakuta --c-Indian
+C-Pala --c-Indian
 D-Samanid
 E-Anuradhapura
-F-Sind
-G-Chola
-H-Somavamsis
-I-Chandela
-J-Malwa
-K-Odra
-L-Kalinga
-M-Kalachuri
+F-Sind --c-Indian
+G-Chola --c-Indian
+H-Somavamsis --c-Indian
+I-Chandela --c-Indian
+J-Malwa --c-Indian
+K-Odra --c-Indian
+L-Kalinga --c-Indian
+M-Kalachuri --c-Indian
 N-Nepal
-O-Chalukyas of Vengi
+O-Chalukyas of Vengi --c-Indian
 P-Kamarupa
 --South Asia 1300AD--
   a b c d e f g h i j k l m n o p q r
@@ -9238,17 +9238,17 @@ P-Kamarupa
 16= = = = = = = = = D = H = = = = = =
 17= = = = = = = = = = = H = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Delhi
-B-Yadava
-C-Yuan
-D-Pandya
-E-Il Khan
-F-Gujarat
-G-Kalinga
+A-Delhi --c-Indian
+B-Yadava --c-Indian
+C-Il Khan
+D-Pandya --c-Indian
+E-Yuan
+F-Gujarat --c-Indian
+G-Kalinga --c-Indian
 H-Ceylon
-I-Hoysala
-J-Malwa
-K-Kakatiya
+I-Hoysala --c-Indian
+J-Malwa --c-Indian
+K-Kakatiya --c-Indian
 L-Nepal
 M-Assam
 --South Asia 1500AD--
@@ -9271,28 +9271,28 @@ M-Assam
 16= = = = = = = = = B = I = = = = = =
 17= = = = = = = = = = = I = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Delhi
-B-Vijayanagara
+A-Delhi --c-Indian
+B-Vijayanagara --c-Indian
 C-Timurid
-D-Bengal
-E-Malwa
-F-Sind
-G-Orissa
-H-Gujarat
+D-Bengal --c-Indian
+E-Malwa --c-Indian
+F-Sind --c-Indian
+G-Orissa --c-Indian
+H-Gujarat --c-Indian
 I-Ceylon
 J-Tibet
-K-Marwar
-L-Mewar
-M-Bijapur
-N-Gond Kingdoms
-O-Berar
-P-Ahmadnager
-Q-Bahmani
-R-Bikaner
+K-Marwar --c-Indian
+L-Mewar --c-Indian
+M-Bijapur --c-Indian
+N-Gond Kingdoms --c-Indian
+O-Berar --c-Indian
+P-Ahmadnager --c-Indian
+Q-Bahmani --c-Indian
+R-Bikaner --c-Indian
 S-Nepal
 T-Assam
-U-Jaisalmer
-V-Bidar
+U-Jaisalmer --c-Indian
+V-Bidar --c-Indian
 --South Asia 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C A A A A A A A A A X D D D D D
@@ -9313,18 +9313,18 @@ V-Bidar
 16= = = = = = = = = B = I = = = = = =
 17= = = = = = = = = = = E = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Mughal
-B-Vijayanagara
+A-Mughal --c-Indian
+B-Vijayanagara --c-Indian
 C-Persia
 D-Tibet
-E-Spain
-F-Ahmadnagar
-G-Golkonda
-H-Bijapur
+E-Spain --Colonizer
+F-Ahmadnagar --c-Indian
+G-Golkonda --c-Indian
+H-Bijapur --c-Indian
 I-Kandy
 J-Nepal
 K-Assam
-L-Bidar
+L-Bidar --c-Indian
 --South Asia 1650AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C A A A A A A A A A X K F F F F
@@ -9345,18 +9345,18 @@ L-Bidar
 16= = = = = = = = = I = H = = = = = =
 17= = = = = = = = = = = M = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Mughal
-B-Bijapur
+A-Mughal --c-Indian
+B-Bijapur --c-Indian
 C-Persia
-D-Golkonda
-E-Mysore
+D-Golkonda --c-Indian
+E-Mysore --c-Indian
 F-Khoshut
-G-Britian
-H-Portugal
-I-Madurai
+G-Britian --Colonizer
+H-Portugal --Colonizer --Trader
+I-Madurai --c-Indian
 J-Bhutan
 K-Nepal
-L-Tanjore
+L-Tanjore --c-Indian
 M-Kandy
 N-Assam
 --South Asia 1750AD--
@@ -9379,20 +9379,20 @@ N-Assam
 16= = = = = = = = = C = K = = = = = =
 17= = = = = = = = = = = O = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Mughal
-B-Maratha
-C-Carnatic
+A-Mughal --c-Indian
+B-Maratha --c-Indian
+C-Carnatic --c-Indian
 D-Afghanistan
-E-Mysore
-F-Bengal
-G-Hyderabad
+E-Mysore --c-Indian
+F-Bengal --c-Indian
+G-Hyderabad --c-Indian
 H-Qing
 I-Bhutan
-J-Britian
-K-Netherlands
-L-France
-M-Portugal
-N-Travancore
+J-Britian --Colonizer
+K-Netherlands --Colonizer --Trader
+L-France --Colonizer
+M-Portugal --Colonizer --Trader
+N-Travancore --c-Indian
 O-Kandy
 P-Assam
 Q-Nepal
@@ -9416,19 +9416,19 @@ Q-Nepal
 16= = = = = = = = = A = A = = = = = =
 17= = = = = = = = = = = L = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Britian
-B-Maratha
-C-Rajput
+A-Britian --Colonizer
+B-Maratha --c-Indian
+C-Rajput --c-Indian
 D-Afghanistan
-E-Mughal
-F-Hyderabad
+E-Mughal --c-Indian
+F-Hyderabad --c-Indian
 G-Nepal
 H-Bhutan
 I-Assam
 J-Qing
-K-Travancore
+K-Travancore --c-Indian
 L-Kandy
-M-Portugal
+M-Portugal --Colonizer --Trader
 --South Asia 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B B B A A A A A E E E G G G G
@@ -9455,7 +9455,7 @@ C-Bangladesh
 D-Sri Lanka
 E-Nepal
 F-Bhutan
-G-China
+G-China --Communist
 ==Southeast Asia==
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X = = = = = = = =
@@ -9529,8 +9529,8 @@ J-Papuan --Tribal
 A-Khmer
 B-Srivijaya
 C-Pagan
-D-Dali
-E-Southern Song
+D-Dali --c-Chinese
+E-Southern Song --c-Chinese
 F-Bengal
 G-Sunda
 H-Vietnam
@@ -9557,14 +9557,15 @@ J-Haripunjaya
 17= = = = = = = = = = = X X X X X X X
 18= = = = = = = = = X X X X X X X X X
 A-Khmer
-B-Majapahit
+B-Majapahit --c-Javanese
 C-Sukhothai
-D-Yuan
+D-Yuan --Conqueror
 E-Delhi
 F-Vietnam
 G-Pegu
 H-Chiang Mai
 I-Champa
+J-Sunda --c-Javanese
 --Southeast Asia 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 E X X X B B B B B B = = = = = = = =
@@ -9593,8 +9594,8 @@ E-Bengal
 F-Ayutthaya
 G-Brunei
 H-Lan Xang
-I-Pegu
-J-Ava
+I-Pegu --c-Burmese
+J-Ava --c-Burmese
 --Southeast Asia 1550AD--
   a b c d e f g h i j k l m n o p q r
 1 H X X X G G G G G G = = = = = = = =
@@ -9645,7 +9646,7 @@ J-Lan Xang
 16= = = = = = = = = = = = X X X = X X
 17= = = = = = = = = = = X X X X X X X
 18= = = = = = = = = X X X X X X X X X
-A-Spain
+A-Spain --Colonizer
 B-Ming
 C-Burma
 D-Ayutthaya
@@ -9675,8 +9676,8 @@ J-Mughal
 16= = = = = = = = = = = = X X X = X X
 17= = = = = = = = = = = X X X X X X X
 18= = = = = = = = = X X X X X X X X X
-A-Netherlands
-B-Spain
+A-Netherlands --Colonizer --Trader
+B-Spain --Colonizer
 C-Qing
 D-Burma
 E-Mughal
@@ -9705,11 +9706,11 @@ J-Sulu
 16= = = = = = = = = = = = X X B = B B
 17= = = = = = = = = = = X X X B B B B
 18= = = = = = = = = X X X X X B B B B
-A-Netherlands
-B-Britian
+A-Netherlands --Colonizer --Trader
+B-Britian --Colonizer
 C-Siam
 D-Burma
-E-Spain
+E-Spain --Colonizer
 F-Qing
 G-Vietnam
 H-Portugal
@@ -9735,15 +9736,15 @@ J-Sulu
 16= = = = = = = = = = = = B B B = B B
 17= = = = = = = = = = = B B B B B B B
 18= = = = = = = = = B B B B B B B B B
-A-Netherlands
-B-Britian
+A-Netherlands --Colonizer
+B-Britian --Colonizer
 C-Siam
-D-France
-E-USA
+D-France --Colonizer
+E-USA --Colonizer
 F-Qing
-G-Japan
-H-Germany
-I-Portugal
+G-Japan --Colonizer
+H-Germany --Colonizer
+I-Portugal --Colonizer --Trader
 --Southeast Asia 1942AD--
   a b c d e f g h i j k l m n o p q r
 1 B B B B E E E E E E = = = = = = = =
@@ -9764,12 +9765,12 @@ I-Portugal
 16= = = = = = = = = = = = D D D = D D
 17= = = = = = = = = = = D D D D D D D
 18= = = = = = = = = D D D D D D D D D
-A-Japan
-B-Britian
-C-Netherlands
+A-Japan --Colonizer
+B-Britian --Colonizer
+C-Netherlands --Colonizer
 D-Australia
 E-China
-F-USA
+F-USA --Colonizer
 --Southeast Asia 1960AD--
   a b c d e f g h i j k l m n o p q r
 1 I I I D F F F F F F = = = = = = = =
@@ -9795,9 +9796,9 @@ B-Philippines
 C-Thailand
 D-Burma
 E-Australia
-F-China
-G-Netherlands
-H-Britian
+F-China --Communist
+G-Netherlands --Colonizer
+H-Britian --Colonizer
 I-India
 J-South Vietnam
 --Southeast Asia 2000AD--
@@ -9828,7 +9829,7 @@ E-Vietnam
 F-Papua New Guinea
 G-Malaysia
 H-Australia
-I-China
+I-China --Communist
 J-India
 ==Central Asia==
   a b c d e f g h i j k l m n o p q r
@@ -9920,9 +9921,9 @@ D-Greco-Bactrian
 18= B B B B B B E E E C C C C C C C F
 A-Parthia
 B-Seleucid
-C-Indo-Greek
+C-Indo-Greek --c-Indo-Greek
 D-Xiongnu
-E-Greco-Bactrian
+E-Greco-Bactrian --c-Indo-Greek
 F-Sunga
 --Central Asia 80AD--
   a b c d e f g h i j k l m n o p q r
@@ -9945,11 +9946,11 @@ F-Sunga
 17A A A A A A A A A F F D D D D D D X
 18= A A A A A A F F F D D D D D D D X
 A-Parthia
-B-Kushan
+B-Kushan --c-Indo-Greek
 C-Han
-D-Indo-Scythians
+D-Indo-Scythians --c-Indo-Greek
 E-Xiongnu
-F-Indo-Parthian
+F-Indo-Parthian --c-Indo-Greek
 --Central Asia 600AD--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X X X X X B B B B X X X B
@@ -9972,11 +9973,11 @@ F-Indo-Parthian
 18= A A A A A A A A A D D D C C C C G
 A-Sassanid
 B-Western Gokturks
-C-Harsha
-D-Sind
-E-Multan
-F-Kashmir
-G-Magadha
+C-Harsha --c-Indian
+D-Sind --c-Indian
+E-Multan --c-Indian
+F-Kashmir --c-Indian
+G-Magadha --c-Indian
 --Central Asia 1100AD--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X X X X X B B B B B B B B
@@ -9997,15 +9998,15 @@ G-Magadha
 16C C C C A A A A A D D E E D D I H X
 17C C C C A A A A A D E E E D G G H H
 18= C C C C A A D D D E E D D G G H H
-A-Khorasan
-B-Kara-Khanid
-C-Seljuq
-D-Chaznavids
-E-Sind
-F-Kashmir
-G-Chauhan
-H-Gahadvala
-I-Tomara
+A-Khorasan --c-Turkic
+B-Kara-Khanid --c-Turkic
+C-Seljuq --c-Turkic
+D-Chaznavids --c-Turkic
+E-Sind --c-Indian
+F-Kashmir --c-Indian
+G-Chauhan --c-Indian
+H-Gahadvala --c-Indian
+I-Tomara --c-Indian
 --Central Asia 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X X X X X C C C C X X X C
@@ -10026,13 +10027,13 @@ I-Tomara
 16F F E G D D D D D D D D D D D D D X
 17F F G G D D D D D D D D D D D D D D
 18= F F G G D D D D D D D D D D D D D
-A-Khorasan
-B-Khwarezm
-C-Kara-Khitan
-D-Ghurid
-E-Abbasid
-F-Fars
-G-Kerman
+A-Khorasan --c-Iranian
+B-Khwarezm --c-Iranian
+C-Kara-Khitan --c-Turkic
+D-Ghurid --c-Iranian
+E-Abbasid --c-Saracen
+F-Fars --c-Iranian
+G-Kerman --c-Iranian
 H-Kashmir
 --Central Asia 1220AD--
   a b c d e f g h i j k l m n o p q r
@@ -10054,10 +10055,10 @@ H-Kashmir
 16A A A A A A A A A A C C C C C C C X
 17A A A A A A A A A A C C C C C C C C
 18= A A A A A A A A A C C C C C C C C
-A-Khwarezm
-B-Mongol
-C-Delhi
-D-Kashmir
+A-Khwarezm --c-Iranian
+B-Mongol --Conqueror
+C-Delhi --c-Indian
+D-Kashmir --c-Indian
 --Central Asia 1300AD--
   a b c d e f g h i j k l m n o p q r
 1 = B B B B B B B B B B B B B B B B E
@@ -10078,12 +10079,12 @@ D-Kashmir
 16A A A A A A A A A A A D D D D D D X
 17A A A A A A A A A A D D D D D D D D
 18= A A A A A A A A A D D D D D D D D
-A-Il Khan
-B-White Horde
-C-Chagatai
-D-Delhi
-E-Kaidu
-F-Yuan
+A-Il Khan --c-Mongol
+B-White Horde --c-Mongol
+C-Chagatai --c-Mongol
+D-Delhi --c-Indian
+E-Kaidu --c-Mongol
+F-Yuan --c-Mongol
 --Central Asia 1380AD--
   a b c d e f g h i j k l m n o p q r
 1 = C C C C C C C C C C C C C C C C B
@@ -10104,17 +10105,17 @@ F-Yuan
 16F F F F E E E E E E E D D D D D D X
 17F F F F F E E E E E K K D D D D D D
 18= F F F X X X X X X K D D D D D D D
-A-Timurid
-B-Chagatai
-C-White Horde
-D-Delhi
-E-Herat
-F-Muzaffarid
-G-Sabzevar
-H-Mazanderan
+A-Timurid --c-Iranian
+B-Chagatai --c-Turkic
+C-White Horde --c-Turkic
+D-Delhi --c-Indian
+E-Herat --c-Iranian
+F-Muzaffarid --c-Iranian
+G-Sabzevar --c-Iranian
+H-Mazanderan --c-Iranian
 I-Tibet
-J-Kashmir
-K-Sind
+J-Kashmir --c-Indian
+K-Sind --c-Indian
 --Central Asia 1400AD--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X X X X X X X X X X X X B
@@ -10135,12 +10136,12 @@ K-Sind
 16A A A A A A A A A A A A A A A A A X
 17A A A A A A A A A A E E A A A A A A
 18= A A A A A A A A A E A A A A A F F
-A-Timurid
-B-Chagatai
+A-Timurid --c-Iranian
+B-Chagatai --c-Turkic
 C-Tibet
-D-Kashmir
-E-Sind
-F-Jaunpur
+D-Kashmir --c-Indian
+E-Sind --c-Indian
+F-Jaunpur --c-Indian
 --Central Asia 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 = B B B B B B B B B B B B B B B B B
@@ -10161,18 +10162,18 @@ F-Jaunpur
 16D D D D D A A A A A G G G K C C C X
 17D D D D D D A A A A G G G K C C C C
 18= D D D D D A A A A G L L C C C C C
-A-Timurid
-B-Kazakh
-C-Delhi
-D-Ak Koyunlu
-E-Moghulistan
-F-Tashkent
-G-Sind
+A-Timurid --c-Iranian
+B-Kazakh --c-Turkic
+C-Delhi --c-Indian
+D-Ak Koyunlu --c-Iranian
+E-Moghulistan --c-Turkic
+F-Tashkent --c-Turkic
+G-Sind --c-Indian
 H-Tibet
-I-Ladakh
-J-Kashmir
-K-Bikaner
-L-Jaisalmer
+I-Ladakh --c-Indian
+J-Kashmir --c-Indian
+K-Bikaner --c-Indian
+L-Jaisalmer --c-Indian
 --Central Asia 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 = C C C C C C C C C C C C C C C C I
@@ -10194,14 +10195,14 @@ L-Jaisalmer
 17A A A A A A A A A A B B B B B B B B
 18= A A A A A A A A A B B B B B B B B
 A-Persia
-B-Mughal
-C-Kazakh
-D-Kashgar
-E-Bukara
-F-Khiva
+B-Mughal --c-Indian
+C-Kazakh --c-Turkic
+D-Kashgar --c-Turkic
+E-Bukara --c-Turkic
+F-Khiva --c-Turkic
 G-Tibet
-H-Ladakh
-I-Mongol
+H-Ladakh --c-Indian
+I-Mongol --c-Turkic
 --Central Asia 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 = C C C C C C C C C C C C C C C C D
@@ -10223,13 +10224,13 @@ I-Mongol
 17A A A A A A A A A A B B B B B B B B
 18= A A A A A A A A A B B B B B B B B
 A-Persia
-B-Mughal
-C-Kazakh
-D-Zunghar
-E-Bukhara
-F-Khiva
+B-Mughal --c-Indian
+C-Kazakh --c-Turkic
+D-Zunghar --c-Turkic
+E-Bukhara --c-Turkic
+F-Khiva --c-Turkic
 G-Khoshut
-H-Ladakh
+H-Ladakh --c-Indian
 --Central Asia 1800AD--
   a b c d e f g h i j k l m n o p q r
 1 = D D D D D D D D D G G G G D D D C
@@ -10254,13 +10255,13 @@ A-Afghanistan
 B-Persia
 C-Qing
 D-Russia
-E-Bukhara
-F-Mughal
-G-Kazakh
-H-Rajput
-I-Kokand
-J-Khiva
-K-Ladakh
+E-Bukhara --c-Tarter
+F-Mughal --c-Indian
+G-Kazakh --c-Tarter
+H-Rajput --c-Indian
+I-Kokand --c-Tarter
+J-Khiva --c-Tarter
+K-Ladakh --c-Indian
 L-Nepal
 --Central Asia 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -10284,7 +10285,7 @@ L-Nepal
 18= B B B B B B C C C C C C C C C C C
 A-Afghanistan
 B-Persia
-C-Britian
+C-Britian --Colonizer
 D-Russia
 E-Qing
 --Central Asia 1950AD--
@@ -10310,9 +10311,9 @@ E-Qing
 A-Afghanistan
 B-India
 C-Iran
-D-USSR
+D-USSR --Communist
 E-Pakistan
-F-China
+F-China --Communist
 --Central Asia 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = C C C C C C C C C C C C C C C C C
@@ -10335,14 +10336,14 @@ F-China
 18= D D D D D D G G G G B B B B B B B
 A-Afganistan
 B-India
-C-Kazakhstan
+C-Kazakhstan --c-Turkic
 D-Iran
-E-China
-F-Turkmenistan
-G-Pakistan
-H-Uzbekistan
-I-Kyrgyzstan
-J-Tajikistan
+E-China --Communist
+F-Turkmenistan --c-Turkic
+G-Pakistan --c-Turkic
+H-Uzbekistan --c-Turkic
+I-Kyrgyzstan --c-Turkic
+J-Tajikistan --c-Turkic
 ==Levant==
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -10486,9 +10487,9 @@ H-Tyre
 A-Assyria
 B-Babylonia
 C-Egypt
-D-Israel
+D-Israel --c-Israelite
 E-Urartu
-F-Judea
+F-Judea --c-Israelite
 G-Philistines
 H-Phoenicia
 I-Aramaeans
@@ -10540,10 +10541,10 @@ D-Urartu
 17C C c c x X X X X X X X X X X X X X
 18C C C = = X X X X X X X X X X X X X
 A-Babylonia
-B-Medes
+B-Medes --c-Iranian
 C-Egypt
 D-Lydia
-E-Urartu
+E-Urartu --c-Iranian
 F-Tyre
 --Levant 100BC--
   a b c d e f g h i j k l m n o p q r
@@ -10568,13 +10569,13 @@ F-Tyre
 A-Seleucid
 B-Egypt
 C-Parthia
-D-Rome
+D-Rome --Conqueror
 E-Judea
 F-Nabatea
-G-Cappadocia
+G-Cappadocia --c-Anatolian
 H-Armenia
-I-Cilicia
-J-Commagene
+I-Cilicia --c-Anatolian
+J-Commagene --c-Anatolian
 --Levant 80BC--
   a b c d e f g h i j k l m n o p q r
 1 C C C C C C C B B B B B B B B B B B
@@ -10597,7 +10598,7 @@ J-Commagene
 18D D D = = X X X X X X X X X X X X X
 A-Parthia
 B-Armenia
-C-Rome
+C-Rome --Conqueror
 D-Egypt
 E-Judea
 F-Nabatea
@@ -10622,14 +10623,14 @@ F-Nabatea
 17G G g g d D D D D X X X X X X X X X
 18G G G = = D D D D D X X X X X X X X
 A-Seljuq
-B-Aleppo
+B-Aleppo --Crusader
 C-Byzantium
-D-Damascus
-E-Edessa
-F-Cilicia
-G-Fatmid
-H-Antioch
-I-Jerusalem
+D-Damascus --c-Saracen
+E-Edessa --Crusader
+F-Cilicia --Crusader
+G-Fatmid --c-Saracen
+H-Antioch --Crusader
+I-Jerusalem --Crusader
 J-Rum
 --Levant 1150AD--
   a b c d e f g h i j k l m n o p q r
@@ -10651,16 +10652,16 @@ J-Rum
 16E e e E a A A A X X X X X X X X X X
 17E E e e a A A A A X X X X X X X X X
 18E E E = = A A A A A X X X X X X X X
-A-Damascus
-B-Jerusalem
+A-Damascus --c-Saracen
+B-Jerusalem --Crusader
 C-Seljuq
-D-Antioch
-E-Fatmid
+D-Antioch --Crusader
+E-Fatmid --c-Saracen
 F-Byzantium
 G-Mosul
-H-Cilicia
+H-Cilicia --Crusader
 I-Rum
-J-Tripoli
+J-Tripoli --Crusader
 K-Azerbaijan
 L-Ahlat
 --Levant 1250AD--
@@ -10683,13 +10684,13 @@ L-Ahlat
 16A a a A a A A A X X X X X X X X X X
 17A A a a a A A A A X X X X X X X X X
 18A A A = = A A A A A X X X X X X X X
-A-Ayyubid
-B-Abbasid
-C-Mongol
-D-Cilicia
-E-Jerusalem
-F-Tripoli
-G-Antioch
+A-Ayyubid --c-Saracen
+B-Abbasid --c-Saracen
+C-Mongol --Conqueror
+D-Cilicia --Crusader
+E-Jerusalem --Crusader
+F-Tripoli --Crusader
+G-Antioch --Crusader
 --Levant 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C C C D D D D D B B B B B B B B
@@ -10710,11 +10711,11 @@ G-Antioch
 16A a a A a A A A X X X X X X X X X X
 17A A a a a A A A A X X X X X X X X X
 18A A A = = A A A A A X X X X X X X X
-A-Mamluk
-B-Ak Koyunlu
-C-Ottoman
+A-Mamluk --c-Turkic
+B-Ak Koyunlu --c-Turkic
+C-Ottoman --c-Turkic --Conqueror
 D-Dulkadir
-E-Venice
+E-Venice --Trader
 --Levant 1920AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C C C C C C C C C C C C C C G G
@@ -10735,12 +10736,12 @@ E-Venice
 16A a a A a D D D X X X X X X X X X X
 17A A a a d D D D D X X X X F X X E E
 18A A A = = D D D D D X X F F F E E E
-A-Britian
-B-France
+A-Britian --Colonizer
+B-France --Colonizer
 C-Ottoman
-D-Hejaz
-E-Saudi
-F-Hail
+D-Hejaz --c-Arabian
+E-Saudi --c-Arabian
+F-Hail --c-Arabian
 G-Persia
 --Levant 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -10816,8 +10817,8 @@ A-Babylonia
 B-Saba
 C-Egypt
 D-Kush
-E-Judea
-F-Israel
+E-Judea --c-Israelite
+F-Israel --c-Israelite
 G-Phoenicia
 H-Aramaeans
 I-Arabs --Tribal
@@ -10872,10 +10873,10 @@ J-Ethiopian --Tribal
 16X X X X C C C a a = = = = = = = = =
 17X X X X X X X X = = = = = = = = = =
 18X X X X X X X X X X X X = = = = = =
-A-Himyar
-B-Saba
+A-Himyar --c-Yemeni
+B-Saba --c-Yemeni
 C-Aksum
-D-Rome
+D-Rome --Conqueror
 E-Parthia
 F-Meroe
 G-Arabs --Tribal
@@ -10902,12 +10903,12 @@ G-Arabs --Tribal
 A-Sassanid
 B-Byzantium
 C-Aksum
-D-Lakhmids
-E-Ghassanids
-F-Mecca
-G-Nobatia
-H-Makuria
-I-Alodia
+D-Lakhmids --c-Arabian
+E-Ghassanids --c-Arabian
+F-Mecca --c-Arabian
+G-Nobatia --c-Nubian
+H-Makuria --c-Nubian
+I-Alodia --c-Nubian
 J-Arabs --Tribal
 --Arabian Penninsula 630AD--
   a b c d e f g h i j k l m n o p q r
@@ -10929,15 +10930,15 @@ J-Arabs --Tribal
 16X X X D D D D c c = = = = = = = = =
 17X X X X D D D D = = = = = = = = = =
 18X X X X X X D D X X X X = = = = = =
-A-Mecca
-B-Medina
+A-Mecca --c-Arabian
+B-Medina --c-Arabian
 C-Sassanid
 D-Aksum
 E-Byzantium
-F-Ghassanids
-G-Nobatia
-H-Makuria
-I-Alodia
+F-Ghassanids --c-Arabian
+G-Nobatia --c-Nubian
+H-Makuria --c-Nubian
+I-Alodia --c-Nubian
 J-Arabs --Tribal
 --Arabian Penninsula 1150AD--
   a b c d e f g h i j k l m n o p q r
@@ -10959,17 +10960,17 @@ J-Arabs --Tribal
 16X X X X E E X b b = = = = = = = = =
 17X X X X E E X X = = = = = = = = = =
 18X X X X X X X X X X X X = = = = = =
-A-Damascus
+A-Damascus --c-Saracen
 B-Yemen
-C-Kerman
+C-Kerman --c-Iranian
 D-Seljuq
 E-Ethiopia
-F-Fatimid
-G-Fars
-H-Jerusalem
-I-Khorasan
-J-Makuria
-K-Alodia
+F-Fatimid --c-Saracen
+G-Fars --c-Iranian
+H-Jerusalem --Crusader
+I-Khorasan --c-Iranian
+J-Makuria --c-Nubian
+K-Alodia --c-Nubian
 L-Arabs --Tribal
 --Arabian Penninsula 1200AD--
   a b c d e f g h i j k l m n o p q r
@@ -10991,16 +10992,16 @@ L-Arabs --Tribal
 16X X X X D D X a a = = = = = = = = =
 17X X X X D D X X = = = = = = = = = =
 18X X X X X X X X X X X X = = = = = =
-A-Ayyubid
-B-Abbasid
+A-Ayyubid --c-Saracen
+B-Abbasid --c-Saracen
 C-Oman
 D-Ethiopia
-E-Fars
-F-Kerman
-G-Ghurid
-H-Makuria
-I-Alodia
-J-Jerusalem
+E-Fars --c-Iranian
+F-Kerman --c-Iranian
+G-Ghurid --c-Iranian
+H-Makuria --c-Nubian
+I-Alodia --c-Nubian
+J-Jerusalem --Crusader
 K-Arabs --Tribal
 --Arabian Penninsula 1500AD--
   a b c d e f g h i j k l m n o p q r
@@ -11022,14 +11023,14 @@ K-Arabs --Tribal
 16X X X X E E X b b = = = = = = = = =
 17X X X X E E F F = = = = = = = = = =
 18X X X X E E F F X X X X = = = = = =
-A-Mamluk
+A-Mamluk --c-Turkic
 B-Yemen
 C-Oman
-D-Ak Koyunlu
-E-Ethiopia
-F-Adal
+D-Ak Koyunlu --c-Turkic
+E-Ethiopia --c-Ethiopian
+F-Adal --c-Ethiopian
 G-Alodia
-H-Timurid
+H-Timurid --c-Turkic
 I-Arabs --Tribal
 --Arabian Penninsula 1800AD--
   a b c d e f g h i j k l m n o p q r
@@ -11080,12 +11081,12 @@ G-Sennar
 18C C F F F F F C C C C G = = = = = =
 A-Hail
 B-Ottoman
-C-Britian
+C-Britian --Colonizer
 D-Qatar
 E-Persia
 F-Ethiopia
-G-Italy
-H-France
+G-Italy --Colonizer
+H-France --Colonizer
 --Arabian Penninsula 1920AD--
   a b c d e f g h i j k l m n o p q r
 1 = = J J J F F F F F G G G G G G G G
@@ -11106,16 +11107,16 @@ H-France
 16F F F F H H H c f = = = = = = = = =
 17F F F H H H H J = = = = = = = = = =
 18F F H H H H H H F F F I = = = = = =
-A-Saudi
-B-Hejaz
+A-Saudi --c-Arabian
+B-Hejaz --c-Arabian
 C-Yemen
-D-Hail
-E-Asir
-F-Britian
+D-Hail --c-Arabian
+E-Asir --c-Arabian
+F-Britian --Colonizer
 G-Persia
 H-Ethiopia
-I-Italy
-J-France
+I-Italy --Colonizer
+J-France --Colonizer
 --Arabian Penninsula 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = = K L L H H H H H G G G G G G G G
@@ -11222,7 +11223,7 @@ H-Thrace
 17C B B B B B B B B B B B B B B B = =
 18B B B B B B B B B B B B B B B B = =
 A-Khazars
-B-Caliphate
+B-Caliphate --Conqueror
 C-Byzantium
 D-Bulgaria
 --Caucasus 900AD--
@@ -11327,7 +11328,7 @@ H-Cuman
 17C C C C E E E E E E E B B B B B = =
 18C E E E E E E E E E E B B B B B = =
 A-Georgia
-B-Mongol
+B-Mongol --Conqueror
 C-Rum
 D-Trabzon
 E-Ayyubid
@@ -11355,11 +11356,11 @@ A-Georgia
 B-Shirvan
 C-Chupanids
 D-Golden Horde
-E-Eretna
-F-Trabzon
+E-Eretna --c-Anatolian
+F-Trabzon --c-Anatolian
 G-Jalayirids
-H-Dulkadir
-I-Kastamonu
+H-Dulkadir --c-Anatolian
+I-Kastamonu --c-Anatolian
 --Caucasus 1750AD--
   a b c d e f g h i j k l m n o p q r
 1 C = = C C C D D D D D D D D D D D D
@@ -11452,11 +11453,11 @@ H-Ukraine
 16X X X X = = = B B B B B B X X X X X
 17X X X X X = = = B B B B B X X X X X
 18X X X X X X = = = = B B B X X X X X
-A-Elam
-B-Anshan
+A-Elam --c-Iranian
+B-Anshan --c-Iranian
 C-Assyria
-D-Medes
-E-Urartu
+D-Medes --c-Iranian
+E-Urartu --c-Iranian
 --Iran 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D = = = = = = B B B B B B B
@@ -11478,12 +11479,12 @@ E-Urartu
 17X X X X X = = = G G G G G F F F F C
 18X X X X X X = = = = G G G F F F F F
 A-Abbasid
-B-Khorasan
-C-Ghurid
+B-Khorasan --c-Iranian
+C-Ghurid --c-Iranian
 D-Azerbaijan
 E-Ayyubid
-F-Kerman
-G-Fars
+F-Kerman --c-Iranian
+G-Fars --c-Iranian
 --Iran 1230AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D = = = = = = B B B B B B B
@@ -11505,7 +11506,7 @@ G-Fars
 17X X X X X = = = A A A A A A B B B B
 18X X X X X X = = = = A A A A B B B B
 A-Khwarezm
-B-Mongols
+B-Mongols --Conqueror
 C-Abbasid
 D-Azerbaijan
 E-Ayyubid
@@ -11529,13 +11530,13 @@ E-Ayyubid
 16X X X X = = = D D D D D D F F F F B
 17X X X X X = = = D D D D D F F F F B
 18X X X X X X = = = = D D D F F F F B
-A-Jalayirids
-B-Herat
-C-Sabzevar
-D-Injuids
-E-Chupanids
-F-Muzaffarid
-G-Mazanderan
+A-Jalayirids --c-Iranian
+B-Herat --c-Iranian
+C-Sabzevar --c-Iranian
+D-Injuids --c-Iranian
+E-Chupanids --c-Iranian
+F-Muzaffarid --c-Iranian
+G-Mazanderan --c-Iranian
 --Iran 1790AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E E = = = = = = D D D A A A A
@@ -11556,10 +11557,10 @@ G-Mazanderan
 16X F F F = = = C C C C C C C C C C C
 17F F F F F = = = C C C C C C C C C C
 18F F F F F F = = = = C C C C C C C C
-A-Persia
+A-Persia --c-Iranian
 B-Ottomans
-C-Zand
-D-Qajar
+C-Zand --c-Iranian
+D-Qajar --c-Iranian
 E-Azerbaijan
 F-Saudi
 --Iran 2000AD--
@@ -11685,18 +11686,18 @@ F-Elam
 A-Assyria
 B-Phrygia
 C-Babylonia
-D-Judea
+D-Judea --c-Israelite
 E-Egypt
 F-Macedonia
 G-Urartu
-H-Israel
-I-Sparta
+H-Israel --c-Israelite
+I-Sparta --c-Greek
 J-Philistines
 K-Colchis
 L-Phoenicia
-M-Athens
+M-Athens --c-Greek
 N-Aramaeans
-O-Corinth
+O-Corinth --c-Greek
 --Turkey 700BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X = X X = = X X X X X X
@@ -11719,14 +11720,14 @@ O-Corinth
 18X X X X X X X D D = X X X X X X X X
 A-Assyria
 B-Phrygia
-C-Greeks
+C-Greeks --c-Greek
 D-Egypt
-E-Urartu
-F-Sparta
-G-Medes
+E-Urartu --c-Iranian
+F-Sparta --c-Greek
+G-Medes --c-Iranian
 H-Macedonia
-I-Elam
-J-Athens
+I-Elam --c-Iranian
+J-Athens --c-Greek
 K-Colchis
 --Turkey 600BC--
   a b c d e f g h i j k l m n o p q r
@@ -11750,13 +11751,13 @@ K-Colchis
 18X X X X X X X D D = X X X X X X X X
 A-Babylonia
 B-Lydia
-C-Greeks
+C-Greeks --c-Greek
 D-Egypt
-E-Medes
-F-Cyrene
-G-Urartu
-H-Sparta
-I-Athens
+E-Medes --c-Iranian
+F-Cyrene --c-Greek
+G-Urartu --c-Iranian
+H-Sparta --c-Greek
+I-Athens --c-Greek
 J-Macedonia
 K-Colchis
 --Turkey 400BC--
@@ -11780,14 +11781,14 @@ K-Colchis
 17X X X X X X X C C = A A X X X X X X
 18X X X X X X X C C = A A X X X X X X
 A-Persia
-B-Greeks
+B-Greeks --c-Greek
 C-Egypt
 D-Thrace
 E-Macedonia
-F-Bosporus
-G-Epirus
-H-Sparta
-I-Athens
+F-Bosporus --c-Greek
+G-Epirus --c-Greek
+H-Sparta --c-Greek
+I-Athens --c-Greek
 --Turkey 300BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X = X X = = H X X X X X
@@ -11811,13 +11812,13 @@ I-Athens
 A-Thrace
 B-Seleucid
 C-Egypt
-D-Macedonia
+D-Macedonia --c-Greek
 E-Pontus
 F-Armenia
-G-Greece
-H-Bosporus
+G-Greece --c-Greek
+H-Bosporus --c-Greek
 I-Caucasian Albania
-J-Epirus
+J-Epirus --c-Greek
 K-Atropatene
 L-Iberia
 M-Paphlagonia
@@ -11844,28 +11845,28 @@ N-Sinop
 18X X X X X X X B B = X X X X X X X X
 A-Seleucid
 B-Egypt
-C-Macedonia
-D-Pontus
+C-Macedonia --c-Greek
+D-Pontus --c-Anatolian
 E-Thrace
-F-Bosporus
-G-Epirus
+F-Bosporus --c-Greek
+G-Epirus -c-Greek
 H-Caucasian Albania
-I-Cappadocia
-J-Pergamon
-K-Rome
-L-Rhodes
-M-Sparta
+I-Cappadocia --c-Anatolian
+J-Pergamon --c-Anatolian
+K-Rome --Conqueror
+L-Rhodes --c-Anatolian
+M-Sparta --c-Greek
 N-Iberia
-O-Galatia
-P-Athens
-Q-Bithynia
-R-Aetolia
-S-Paphlagonia
-T-Achaea
-U-Byzantium
-V-Crete
-W-Chalcedon
-Y-Sinop
+O-Galatia --c-Anatolian
+P-Athens --c-Greek
+Q-Bithynia --c-Anatolian
+R-Aetolia --c-Greek
+S-Paphlagonia --c-Anatolian
+T-Achaea --c-Greek
+U-Byzantium --c-Anatolian
+V-Crete --c-Greek
+W-Chalcedon --c-Anatolian
+Y-Sinop --c-Anatolian
 --Turkey 150BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X = X X = = H X X X X X
@@ -11886,30 +11887,30 @@ Y-Sinop
 16X X X X X X E E Z Z Z X X X X X X =
 17X X X X X X X E E = X X X X X X X X
 18X X X X X X X E E = X X X X X X X X
-A-Pergamon
+A-Pergamon --c-Anatolian
 B-Seleucid
 C-Thrace
-D-Rome
+D-Rome --Conqueror
 E-Egypt
 F-Armenia
-G-Pontus
-H-Bosporus
-I-Cappadocia
-J-Bithynia
+G-Pontus --c-Anatolian
+H-Bosporus --c-Greek
+I-Cappadocia --c-Anatolian
+J-Bithynia --c-Anatolian
 K-Caucasian Albania
 L-Atropatene
 M-Iberia
-N-Aetolia
-O-Sophene
-P-Rhodes
-Q-Achaea
-R-Galatia
-S-Commagene
-T-Athens
-U-Paphlagonia
-V-Sparta
-W-Byzantium
-Y-Crete
+N-Aetolia --c-Anatolian
+O-Sophene --c-Anatolian
+P-Rhodes --c-Anatolian
+Q-Achaea --c-Greek
+R-Galatia --c-Anatolian
+S-Commagene --c-Anatolian
+T-Athens --c-Greek
+U-Paphlagonia --c-Anatolian
+V-Sparta --c-Greek
+W-Byzantium --c-Anatolian
+Y-Crete --c-Greek
 Z-Nabatea
 --Turkey 100BC--
   a b c d e f g h i j k l m n o p q r
@@ -11931,24 +11932,24 @@ Z-Nabatea
 16X X X X X X X C I I I X X X X X X =
 17X X X X X X X C C = X X X X X X X X
 18X X X X X X X C C = X X X X X X X X
-A-Rome
+A-Rome --Conqueror
 B-Parthia
 C-Egypt
 D-Pontus
 E-Seleucid
 F-Thrace
-G-Cappadocia
+G-Cappadocia --c-Anatolian
 H-Armenia
 I-Nabatea
-J-Galatia
+J-Galatia --c-Anatolian
 K-Caucasian Albania
 L-Iberia
 M-Judea
-N-Rhodes
-O-Byzantium
-P-Cilicia
-Q-Commagene
-R-Sophene
+N-Rhodes --c-Anatolian
+O-Byzantium --c-Anatolian
+P-Cilicia --c-Anatolian
+Q-Commagene --c-Anatolian
+R-Sophene --c-Anatolian
 S-Crete
 --Turkey 80BC--
   a b c d e f g h i j k l m n o p q r
@@ -11970,17 +11971,17 @@ S-Crete
 16X X X X X X C C G G G X X X X X X =
 17X X X X X X X C C = X X X X X X X X
 18X X X X X X X C C = X X X X X X X X
-A-Rome
+A-Rome --Conqueror
 B-Parthia
 C-Egypt
 D-Pontus
 E-Armenia
 F-Thrace
 G-Nabatea
-H-Rhodes
-I-Galatia
-J-Bithynia
-K-Paphlagonia
+H-Rhodes --c-Anatolian
+I-Galatia --c-Anatolian
+J-Bithynia --c-Anatolian
+K-Paphlagonia --c-Anatolian
 L-Crete
 M-Judea
 N-Caucasian Albania
@@ -12005,7 +12006,7 @@ O-Iberia
 16X X X X X X X A D D D X X H X X X =
 17X X I X X X X A A = X X X X X X X X
 18X X X X X X X A A = X X X X X X X X
-A-Rome
+A-Rome --Conqueror
 B-Parthia
 C-Bosporus
 D-Nabatea
@@ -12035,7 +12036,7 @@ I-Libyans --Tribal
 17X X X X X X X B B = B B B B B B B B
 18X X X X X X X B B = B B B B B B B B
 A-Byzantium
-B-Umayyad Caliphate
+B-Umayyad Caliphate --Conqueror
 C-Avars
 D-Khazars
 E-Bulgaria
@@ -12060,15 +12061,15 @@ E-Bulgaria
 17X X X X X X X E E = B B X X X X X X
 18X X X X X X X E E = B B B X X X X X
 A-Byzantium
-B-Abbasid
+B-Abbasid --c-Saracen
 C-Bulgaria
 D-Khazars
-E-Egypt
+E-Egypt --c-Saracen
 F-Hungary
 G-Armenia
 H-Serbia
 I-Abkhazia
-J-Cordoba
+J-Cordoba --c-Saracen
 --Turkey 1000AD--
   a b c d e f g h i j k l m n o p q r
 1 E E X X F F F = X X = = X X X X X X
@@ -12126,13 +12127,13 @@ C-Fatimid
 D-Hungary
 E-Cuman
 F-Rum
-G-Aleppo
+G-Aleppo --Crusader
 H-Damascus
 I-Pecheneg
-J-Jerusalem
-K-Edessa
-L-Cilicia
-M-Antioch
+J-Jerusalem --Crusader
+K-Edessa --Crusader
+L-Cilicia --Crusader
+M-Antioch --Crusader
 --Turkey 1200AD--
   a b c d e f g h i j k l m n o p q r
 1 H H H H G G G = G G = = X X X X X X
@@ -12163,10 +12164,10 @@ G-Cuman
 H-Hungary
 I-Azerbaijan
 J-Abbasid
-K-Jerusalem
-L-Tripoli
-M-Antioch
-N-Cilicia
+K-Jerusalem --Crusader
+L-Tripoli --Crusader
+M-Antioch --Crusader
+N-Cilicia --Crusader
 O-Serbia
 --Turkey 1210AD--
   a b c d e f g h i j k l m n o p q r
@@ -12199,14 +12200,14 @@ H-Hungary
 I-Cuman
 J-Georgia
 K-Abbasid
-L-Jerusalem
-M-Venice
+L-Jerusalem --Crusader
+M-Venice --Trader
 N-Epirus
 O-Serbia
 P-Azerbaijan
 Q-Khwarezm
-R-Antioch
-S-Tripoli
+R-Antioch --Crusader
+S-Tripoli --Crusader
 --Turkey 1240AD--
   a b c d e f g h i j k l m n o p q r
 1 I I I I N N N = H H = = H H H H H H
@@ -12229,19 +12230,19 @@ S-Tripoli
 18X X X X X X X F F = F F F X X X X X
 A-Nicaea
 B-Latin Empire
-C-Rum
-D-Cilicia
-E-Trabzon
-F-Ayyubid
+C-Rum --c-Anatolian
+D-Cilicia --c-Anatolian
+E-Trabzon --c-Anatolian
+F-Ayyubid --c-Saracen
 G-Bulgaria
-H-Mongols
+H-Mongols --Conqueror
 I-Hungary
-J-Abbasid
+J-Abbasid --c-Saracen
 K-Epirus
-L-Jerusalem
-M-Venice
+L-Jerusalem --Crusader
+M-Venice --Trader
 N-Cuman
-O-Antioch
+O-Antioch --Crusader
 P-Achaea
 Q-Georgia
 R-Serbia
@@ -12267,18 +12268,18 @@ S-Tripoli
 17X X X X X X X C C = C C X X X X X X
 18X X X X X X X C C = C C C X X X X X
 A-Nicaea
-B-Mongols
+B-Mongols --Conqueror
 C-Ayyubid
 D-Cilicia
 E-Hungary
-F-Venice
+F-Venice --Trader
 G-Epirus
 H-Bulgaria
-I-Jerusalem
+I-Jerusalem --Crusader
 J-Serbia
 K-Achaea
-L-Antioch
-M-Tripoli
+L-Antioch --Crusader
+M-Tripoli --Crusader
 N-Latin Empire
 --Turkey 1290AD--
   a b c d e f g h i j k l m n o p q r
@@ -12301,13 +12302,13 @@ N-Latin Empire
 17X X X X X X X E E = E E X X X X X X
 18X X X X X X X E E = E E E X X X X X
 A-Byzantium
-B-Il Khan
+B-Il Khan --c-Mongol
 C-Cilicia
 D-Hungary
 E-Mamluk
-F-Golden Horde
-G-Venice
-H-Jerusalem
+F-Golden Horde --c-Mongol
+G-Venice --Trader
+H-Jerusalem --Crusader
 I-Epirus
 J-Bulgaria
 K-Serbia
@@ -12333,25 +12334,25 @@ L-Naples
 17X X X X X X X S S = S S X X X X X X
 18X X X X X X X S S = S S S X X X X X
 A-Byzantium
-B-Ottoman
-C-Germiyan
-D-Cilicia
-E-Kastamonu
-F-Hamidoglu
-G-Teke
-H-Mentese
-I-Aydin
-J-Karesi
+B-Ottoman --c-Anatolian
+C-Germiyan --c-Anatolian
+D-Cilicia --c-Anatolian
+E-Kastamonu --c-Anatolian
+F-Hamidoglu --c-Anatolian
+G-Teke --c-Anatolian
+H-Mentese --c-Anatolian
+I-Aydin --c-Anatolian
+J-Karesi --c-Anatolian
 K-Cyprus
-L-Venice
+L-Venice --Trader
 M-Naples
 N-Epirus
-O-Bulgaria
-P-Serbia
+O-Bulgaria --c-Slavic
+P-Serbia --c-Slavic
 Q-Hungary
-R-Il Khan
+R-Il Khan --c-Mongol
 S-Mamluk
-T-Golden Horde
+T-Golden Horde --c-Mongol
 U-Genoa
 --Turkey 1350AD--
   a b c d e f g h i j k l m n o p q r
@@ -12374,33 +12375,33 @@ U-Genoa
 17X X X X X X X C C = C C X X X X X X
 18X X X X X X X C C = C C C X X X X X
 A-Byzantium
-B-Ottoman
+B-Ottoman --c-Anatolian
 C-Mamluk
 D-Golden Horde
 E-Hungary
-F-Eretna
-G-Karaman
-H-Germiyan
-I-Trabzon
-J-Dulkadir
-K-Venice
-L-Serbia
+F-Eretna --c-Anatolian
+G-Karaman --c-Anatolian
+H-Germiyan --c-Anatolian
+I-Trabzon --c-Anatolian
+J-Dulkadir --c-Anatolian
+K-Venice --Trader
+L-Serbia --c-Slavic
 M-Jalayirids
 N-Georgia
-O-Wallachia
-P-Kights of Rhodes
-Q-Kastamonu
+O-Wallachia --c-Slavic
+P-Kights of Rhodes --c-Anatolian --Crusader
+Q-Kastamonu --c-Anatolian
 R-Aragon
 S-Naples
 T-Bulgaria
 U-Chupanids
 V-Shirvan
-W-Hamidoglu
-Y-Teke
-Z-Mentese
-!-Aydin
+W-Hamidoglu --c-Anatolian
+Y-Teke --c-Anatolian
+Z-Mentese --c-Anatolian
+!-Aydin --c-Anatolian
 @-Genoa
-#-Cilicia
+#-Cilicia --c-Anatolian
 $-Cyprus
 --Turkey 1400AD--
   a b c d e f g h i j k l m n o p q r
@@ -12422,28 +12423,28 @@ $-Cyprus
 16X X X X X X X E E E E X X X X X X =
 17X X X X X X X E E = E E X X X X X X
 18X X X X X X X E E = E E E X X X X X
-A-Ottoman
+A-Ottoman --c-Anatolian --Conqueror
 B-Timurids
 C-Hungary
 D-Golden Horde
 E-Mamluk
-F-Venice
-G-Eretna
+F-Venice --Trader
+G-Eretna --c-Slavic
 H-Albania
-I-Wallachia
+I-Wallachia --c-Slavic
 J-Georgia
 K-Byzantium
 L-Genoa
 M-Epirus
-N-Moldavia
-O-Trabzon
-P-Knights of Rhodes
-Q-Dulkadir
-R-Kastamonu
+N-Moldavia --c-Slavic
+O-Trabzon --c-Anatolian
+P-Knights of Rhodes --c-Anatolian --Crusader
+Q-Dulkadir --c-Anatolian
+R-Kastamonu --c-Anatolian
 S-Cyprus
 T-Naples
-U-Serbia
-V-Vidin
+U-Serbia --c-Slavic
+V-Vidin --c-Slavic
 --Turkey 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C C G G G = A A = = A D D D D D
@@ -12464,16 +12465,16 @@ V-Vidin
 16X X X X X X X B B B B X X X X X X =
 17X X X X X X X B B = B B X X X X X X
 18X X X X X X X B B = B B B X X X X X
-A-Ottoman
-B-Mamluk
+A-Ottoman --c-Turkic
+B-Mamluk --c-Turkic
 C-Hungary
 D-Golden Horde
 E-Ak Koyunlu
-F-Venice
+F-Venice --Trader
 G-Moldavia
 H-Dulkadir
 I-Genoa
-J-Knights of Rhodes
+J-Knights of Rhodes --Crusader
 --Turkey 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D A A = A A = = A B B B B B
@@ -12498,7 +12499,7 @@ A-Ottoman
 B-Russia
 C-Persia
 D-Austria
-E-Venice
+E-Venice --Trader
 --Turkey 1900AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D G B B = B B = = B B B B B B
@@ -12521,7 +12522,7 @@ E-Venice
 18X X X X X X C C C = A A A I I I I I
 A-Ottoman
 B-Russia
-C-United Kingdom
+C-United Kingdom --Colonizer
 D-Austria-Hungary
 E-Persia
 F-Greece
@@ -12550,11 +12551,11 @@ J-Serbia
 17G G G G B B B B B = L L X P P I I I
 18G G G G B B B B B = L L L P P I I I
 A-Ottoman Empire
-B-United Kingdom
-C-Russia
+B-United Kingdom --Colonizer
+C-Russia --Communist
 D-Greece
 E-Persia
-F-French Syria
+F-French Syria --Colonizer
 G-Italy
 H-Romania
 I-Saudi
@@ -12588,17 +12589,17 @@ R-Armenia
 17E E E E I I I I I = D D D D D D D D
 18E E E E I I I I I = D D D D D D D D
 A-Turkey
-B-Yugoslavia
-C-USSR
+B-Yugoslavia --Communist
+C-USSR --Communist
 D-Saudi Arabia
 E-Libya
 F-Iran
 G-Greece
-H-Romania
+H-Romania --Communist
 I-Egypt
 J-Iraq
 K-Bulgaria
-L-United Kingdom
+L-United Kingdom --Colonizer
 M-Syria
 N-Jordan
 O-Israel
@@ -12714,13 +12715,13 @@ G-Malays --Tribal
 16= = = = = = = X X = = = = = = = = =
 17= = = = = = = = X X = = = = = = = X
 18= = = = = X X = X J = = = = = = X J
-A-Chenla
-B-Funan
-C-Champa
+A-Chenla --c-Khmer
+B-Funan --c-Khmer
+C-Champa --c-Khmer
 D-Sui
-E-Kamarupa
-F-Magadha
-G-Kongoda
+E-Kamarupa --c-Indian
+F-Magadha --c-Indian
+G-Kongoda --c-Indian
 H-Mon-Khmer --Tribal
 I-Thai --Tribal
 J-Malays --Tribal
@@ -12748,9 +12749,9 @@ A-Chenla
 B-Lavo
 C-Champa
 D-Tang
-E-Kamarupa
-F-Magadha
-G-Gauda
+E-Kamarupa --c-Indian
+F-Magadha --c-Indian
+G-Gauda --c-Indian
 H-Mon-Khmer --Tribal
 I-Thai --Tribal
 J-Malays --Tribal
@@ -12774,16 +12775,16 @@ J-Malays --Tribal
 16= = = = = = = X G = = = = = = = = =
 17= = = = = = = = G G = = = = = = = X
 18= = = = = G G = G G = = = = = = X X
-A-Chenla-Water
+A-Chenla-Water --c-Chenla
 B-Nanzhao
-C-Haripunjaya
-D-Chenla-Land
-E-Lavo
+C-Haripunjaya --c-Thai
+D-Chenla-Land --c-Chenla
+E-Lavo --c-Thai
 F-Champa
 G-Srivijaya
 H-Tang
-I-Kamarupa
-J-Kashmir
+I-Kamarupa --c-Indian
+J-Kashmir --c-Indian
 --Siam 850AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X B B B X X X X I I I I
@@ -12806,15 +12807,15 @@ J-Kashmir
 18= = = = = J J = J J = = = = = = X X
 A-Khmer
 B-Nanzhao
-C-Pegu
+C-Pegu --c-Thai
 D-Pagan
-E-Lavo
+E-Lavo --c-Thai
 F-Champa
-G-Haripunjaya
-H-Kamarupa
+G-Haripunjaya --c-Thai
+H-Kamarupa --c-Indian
 I-Tang
 J-Srivijaya
-K-Pala
+K-Pala --c-Indian
 --Siam 1050AD--
   a b c d e f g h i j k l m n o p q r
 1 K K K K K X X B J J J J J J J J J J
@@ -12839,13 +12840,13 @@ A-Khmer
 B-Dali
 C-Chola
 D-Vietnam
-E-Pagan
-F-Pegu
-G-Lavo
+E-Pagan --c-Burmese
+F-Pegu --c-Thai
+G-Lavo --c-Thai
 H-Champa
-I-Haripunjaya
+I-Haripunjaya --c-Thai
 J-Song
-K-Pala
+K-Pala --c-Burmese
 L-Bengal
 --Siam 1200AD--
   a b c d e f g h i j k l m n o p q r
@@ -12869,9 +12870,9 @@ L-Bengal
 18= = = = = G G = G G = = = = = = X J
 A-Khmer
 B-Dali
-C-Pagan
+C-Pagan --c-Thai
 D-Vietnam
-E-Haripunjaya
+E-Haripunjaya --c-Thai
 F-Champa
 G-Srivijaya
 H-Song
@@ -12897,11 +12898,11 @@ J-Malays --Tribal
 16= = = = = = = A X = = = = = = = = =
 17= = = = = = = = X X = = = = = = = X
 18= = = = = X X = X J = = = = = = X X
-A-Sukhothai
+A-Sukhothai --c-Thai
 B-Khmer
-C-Pegu
+C-Pegu --c-Thai
 D-Vietnam
-E-Chiang Mai
+E-Chiang Mai --c-Thai
 F-Champa
 G-Yuan
 H-Delhi
@@ -12927,16 +12928,16 @@ J-Malays --Tribal
 16= = = = = = = A K = = = = = = = = =
 17= = = = = = = = K K = = = = = = = X
 18= = = = = K K = K K = = = = = = L X
-A-Ayutthaya
+A-Ayutthaya --c-Thai
 B-Khmer
-C-Yunnan
+C-Yunnan --c-Chinese
 D-Vietnam
 E-Ava
 F-Lan Xang
-G-Pegu
+G-Pegu --c-Thai
 H-Champa
-I-Chiang Mai
-J-Ming
+I-Chiang Mai --c-Thai
+J-Ming --c-Chinese
 K-Majapahit
 L-Brunei
 M-Bengal
@@ -12961,22 +12962,22 @@ N-Assam
 16= = = = = = = A J = = = = = = = = =
 17= = = = = = = = J J = = = = = = = O
 18= = = = = X X = J J = = = = = = P X
-A-Ayutthaya
+A-Ayutthaya --c-Thai
 B-Lan Xang
 C-Cambodia
-D-Vietnam
-E-Chiang Mai
-F-Pegu
-G-Ava
-H-Champa
-I-Mrauk U
-J-Malacca
+D-Vietnam --c-Vietnamese
+E-Chiang Mai --c-Thai
+F-Pegu --c-Burmese
+G-Ava --c-Burmese
+H-Champa --c-Vietnamese
+I-Mrauk U --c-Burmese
+J-Malacca --c-Malay
 K-Ming
 L-Bengal
-M-Manipur
-N-Assam
-O-Sulu
-P-Brunei
+M-Manipur --c-Burmese
+N-Assam --c-Burmese
+O-Sulu --c-Malay
+P-Brunei --c-Malay
 --Siam 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X I I I I I I I I I I I
@@ -12998,20 +12999,20 @@ P-Brunei
 17= = = = = = = = F F = = = = = = = N
 18= = = = = O O = F F = = = = = = M X
 A-Ayutthaya
-B-Burma
+B-Burma --c-Burmese
 C-Cambodia
 D-Vietnam
 E-Lan Xang
-F-Johor
-G-Champa
-H-Mrauk U
+F-Johor --c-Malay
+G-Champa --c-Vietnamese
+H-Mrauk U --c-Burmese
 I-Ming
 J-Mughal
-K-Manipur
-L-Assam
-M-Brunei
-N-Sulu
-O-Aceh
+K-Manipur --c-Burmese
+L-Assam --c-Burmese
+M-Brunei --c-Malay
+N-Sulu --c-Malay
+O-Aceh --c-Malay
 --Siam 1750AD--
   a b c d e f g h i j k l m n o p q r
 1 X M M X X X X P P P P P P P P P P P
@@ -13033,25 +13034,25 @@ O-Aceh
 17= = = = = = = = O A = = = = = = = S
 18= = = = = Q Q = O O = = = = = = R X
 A-Ayutthaya
-B-Burma
+B-Burma --c-Burmese
 C-Cambodia
-D-Vietnam
-E-South Vietnam
-F-Luang Prabang
-G-Vientiane
-H-Champasak
-I-Pegu
-J-Mrauk U
-K-Manipur
-L-Assam
+D-Vietnam --c-Vietnamese
+E-South Vietnam --c-Vietnamese
+F-Luang Prabang --c-Lao
+G-Vientiane --c-Lao
+H-Champasak --c-Lao
+I-Pegu --c-Burmese
+J-Mrauk U --c-Burmese
+K-Manipur --c-Burmese
+L-Assam --c-Burmese
 M-Bhutan
 N-Bengal
-O-Johor
+O-Johor --c-Malay
 P-Qing
-Q-Aceh
-R-Brunei
-S-Sulu
-T-French Chandannager
+Q-Aceh --c-Malay
+R-Brunei --c-Malay
+S-Sulu --c-Malay
+T-French Chandannager --Colonizer
 --Siam 1800AD--
   a b c d e f g h i j k l m n o p q r
 1 N I I X X X X J J J J J J J J J J J
@@ -13073,18 +13074,18 @@ T-French Chandannager
 17= = = = = = = = E A = = = = = = = L
 18= = = = = M M = E E = = = = = = K X
 A-Siam
-B-Burma
+B-Burma --c-Burmese
 C-Cambodia
 D-Vietnam
-E-Johor
-F-Manipur
-G-Assam
-H-British Bengal
+E-Johor --c-Malay
+F-Manipur --c-Burmese
+G-Assam --c-Burmese
+H-British Bengal --Colonizer
 I-Bhutan
 J-Qing
-K-Brunei
-L-Sulu
-M-Aceh
+K-Brunei --c-Malay
+L-Sulu --c-Malay
+M-Aceh --c-Malay
 N-Nepal
 --Siam 1880BC--
   a b c d e f g h i j k l m n o p q r
@@ -13109,12 +13110,12 @@ N-Nepal
 A-Siam
 B-Burma
 C-Vietnam
-D-French Indochina
-E-United Kingdom
+D-French Indochina --Colonizer
+E-United Kingdom --Colonizer
 F-Qing
 G-Sulu
 H-Sarawak
-I-Dutch East Indies
+I-Dutch East Indies --Colonizer
 J-Bhutan
 K-Nepal
 --Siam 1900AD--
@@ -13138,10 +13139,10 @@ K-Nepal
 17= = = = = = = = B A = = = = = = = B
 18= = = = = E E = B B = = = = = = B E
 A-Siam
-B-United Kingdom
-C-French Indochina
+B-United Kingdom --Colonizer
+C-French Indochina --Colonizer
 D-Qing
-E-Dutch East Indies
+E-Dutch East Indies --Colonizer
 F-Bhutan
 G-Nepal
 --Siam 1941AD--
@@ -13165,12 +13166,12 @@ G-Nepal
 17= = = = = = = = B B = = = = = = = B
 18= = = = = G G = B B = = = = = = B G
 A-Siam
-B-United Kingdom
-C-Japan
+B-United Kingdom --Colonizer
+C-Japan --Colonizer
 D-Republic of China
 E-Bhutan
 F-Nepal
-G-Dutch East Indies
+G-Dutch East Indies --Colonizer
 --Siam 1960AD--
   a b c d e f g h i j k l m n o p q r
 1 N J J H H B B G G G G G G G G G G G
@@ -13194,16 +13195,16 @@ G-Dutch East Indies
 A-Thailand
 B-Burma
 C-Cambodia
-D-North Vietnam
-E-South Vietnam
+D-North Vietnam --c-Vietnamese --Communist
+E-South Vietnam --c-Vietnamese
 F-Laos
-G-China
+G-China --Communist
 H-India
 I-Pakistan
 J-Bhutan
 K-Malaysia
 L-Indonesia
-M-British North Borneo
+M-British North Borneo --Colonizer
 N-Nepal
 --Siam 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -13228,9 +13229,9 @@ N-Nepal
 A-Thailand
 B-Myanmar
 C-Cambodia
-D-Vietnam
-E-Laos
-F-China
+D-Vietnam --Communist
+E-Laos --Communist
+F-China --Communist
 G-India
 H-Bangladesh
 I-Bhutan
@@ -13335,12 +13336,12 @@ J-Australians --Tribal
 16= = = = = = = = = = = = = = = = X X
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Majapahit
-B-Brunei
-C-Ternate
-D-Sunda
-E-Bacan
-F-Jailolo
+A-Majapahit --c-Indonesian
+B-Brunei --c-Indonesian
+C-Ternate --c-Indonesian
+D-Sunda --c-Indonesian
+E-Bacan --c-Indonesian
+F-Jailolo --c-Indonesian
 G-Ayutthaya
 H-Cambodia
 I-Malays --Tribal
@@ -13365,18 +13366,18 @@ J-Papuas --Tribal
 16= = = = = = = = = = = = = = = = X X
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Majapahit
-B-Brunei
-C-Ternate
+A-Majapahit --c-Indonesian
+B-Brunei --c-Indonesian
+C-Ternate --c-Indonesian
 D-Malacca
-E-Palembang
-F-Sunda
-G-Sulu
-H-Bacan
-I-Jambi
-J-Berau
-K-Kutai
-L-Jailolo
+E-Palembang --c-Indonesian
+F-Sunda --c-Indonesian
+G-Sulu --c-Indonesian
+H-Bacan --c-Indonesian
+I-Jambi --c-Indonesian
+J-Berau --c-Indonesian
+K-Kutai --c-Indonesian
+L-Jailolo --c-Indonesian
 M-Ayutthaya
 N-Cambodia
 --Indonesia 1600AD--
@@ -13399,20 +13400,20 @@ N-Cambodia
 16= = = = = = = = = = = = = = = = X X
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Spain
-B-Banjarmasin
-C-Brunei
+A-Spain --Colonizer
+B-Banjarmasin --c-Indonesian
+C-Brunei --c-Indonesian
 D-Johor
-E-Banten
-F-Aceh
-G-Mataram
-H-Ternate
-I-Sulu
-J-Palembang
-K-Berau
-L-Kutai
-M-Tidore
-N-Jambi
+E-Banten --c-Indonesian
+F-Aceh --c-Indonesian
+G-Mataram --c-Indonesian
+H-Ternate --c-Indonesian
+I-Sulu --c-Indonesian
+J-Palembang --c-Indonesian
+K-Berau --c-Indonesian
+L-Kutai --c-Indonesian
+M-Tidore --c-Indonesian
+N-Jambi --c-Indonesian
 O-Maguindanao
 P-Ayutthaya
 Q-Cambodia
@@ -13436,22 +13437,22 @@ Q-Cambodia
 16= = = = = = = = = = = = = = = = X X
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Dutch East Indies
-B-Portuguese Timor
-C-Mataram
-D-Palembang
-E-Johor
-F-Aceh
-G-Brunei
-H-Sambas
-I-Sulu
-J-Banjarmasin
-K-Berau
-L-Kutai
-M-Jambi
+A-Dutch East Indies --Colonizer
+B-Portuguese Timor --Colonizer
+C-Mataram --c-Indonesian
+D-Palembang --c-Indonesian
+E-Johor --c-Indonesian
+F-Aceh --c-Indonesian
+G-Brunei --c-Indonesian
+H-Sambas --c-Indonesian
+I-Sulu --c-Indonesian
+J-Banjarmasin --c-Indonesian
+K-Berau --c-Indonesian
+L-Kutai --c-Indonesian
+M-Jambi --c-Indonesian
 N-Ayutthaya
 O-Cambodia
-P-Spanish Philippines
+P-Spanish Philippines --Colonizer
 --Indonesia 1880AD--
   a b c d e f g h i j k l m n o p q r
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -13472,15 +13473,15 @@ P-Spanish Philippines
 16= = = = = = = = = = = = = = = = F F
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Dutch East Indies
-B-Sarawak
-C-Brunei
-D-Sulu
-E-Portuguese East Timor
-F-United Kingdom
-G-Spanish Philippines
+A-Dutch East Indies --Colonizer
+B-Sarawak --c-Malay
+C-Brunei --c-Malay
+D-Sulu --c-Malay
+E-Portuguese East Timor --Colonizer
+F-United Kingdom --Colonizer
+G-Spanish Philippines --Colonizer
 H-Siam
-I-French Indochina
+I-French Indochina --Colonizer
 J-Papuas --Tribal
 --Indonesia 1900AD--
   a b c d e f g h i j k l m n o p q r
@@ -13502,12 +13503,12 @@ J-Papuas --Tribal
 16= = = = = = = = = = = = = = = = B B
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-A-Dutch East Indies
-B-United Kingdom
-C-French Indochina
-D-American Philippines
+A-Dutch East Indies --Colonizer
+B-United Kingdom --Colonizer
+C-French Indochina --Colonizer
+D-American Philippines --Colonizer
 E-Siam
-F-Portuguese East Timor
+F-Portuguese East Timor --Colonizer
 --Indonesia 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -13535,7 +13536,7 @@ D-Singapore
 E-East Timor
 F-Philippines
 G-Thailand
-H-Vietnam
+H-Vietnam --Communist
 I-Cambodia
 J-Australia
 ==Philippines==
@@ -13601,7 +13602,7 @@ C-Malays --Tribal
 16= = = C = = = = = = = = B B = = = =
 17= = C C C = = = = = = = = B = = = =
 18= = C C C C = = = = = = = = = = = =
-A-Spain
+A-Spain --Colonizer
 B-Maguindanao
 C-Sulu
 ==China==
@@ -13644,21 +13645,21 @@ C-Sulu
 16X X X B B B B B B B B B F F F F F F
 17X X X B B B B B B B B B F F F F F F
 18X X X B B B B B B B B B F F F F F F
-A-Qin
-B-Chu
-C-Jin
-D-Qi
-E-Yan
-F-Wu
-G-Lu
-H-Zheng
-I-Zhou
-J-Wei
-K-Song
-L-Chen
-M-Deng
-N-Cai
-O-Cao
+A-Qin --c-Chinese
+B-Chu --c-Chinese
+C-Jin --c-Chinese
+D-Qi --c-Chinese
+E-Yan --c-Chinese
+F-Wu --c-Chinese
+G-Lu --c-Chinese
+H-Zheng --c-Chinese
+I-Zhou --c-Chinese
+J-Wei --c-Chinese
+K-Song --c-Chinese
+L-Chen --c-Chinese
+M-Deng --c-Chinese
+N-Cai --c-Chinese
+O-Cao --c-Chinese
 --China 230BC--
   a b c d e f g h i j k l m n o p q r
 1 A F F F C C C C C E E E E E E E = =
@@ -13679,13 +13680,13 @@ O-Cao
 16A A A A A A A A A A A B B B B B B B
 17A A A A A A A A A A A B B B B B B B
 18A A A A A A A A A A A B B B B B B B
-A-Qin
-B-Chu
-C-Zhao
-D-Qi
-E-Yan
-F-Wei
-G-Wey
+A-Qin --c-Chinese
+B-Chu --c-Chinese
+C-Zhao --c-Chinese
+D-Qi --c-Chinese
+E-Yan --c-Chinese
+F-Wei --c-Chinese
+G-Wey --c-Chinese
 --China 250AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -13706,13 +13707,13 @@ G-Wey
 16C C C C C C B B B B B = = = = = = =
 17C C C C C B B B B B = x X = = = = =
 18X C C C B B B B B = = X X = = = = =
-A-Cao Wei
-B-Eastern Wu
-C-Shu Han
-D-Goguryeo
-E-Baekje
-F-Silla
-G-Gaya
+A-Cao Wei --c-Chinese
+B-Eastern Wu --c-Chinese
+C-Shu Han --c-Chinese
+D-Goguryeo --c-Korean
+E-Baekje --c-Korean
+F-Silla --c-Korean
+G-Gaya --c-Korean
 --China 500AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X C C C
@@ -13733,12 +13734,12 @@ G-Gaya
 16B B B B B B B B B B B = = = = = = =
 17B B B B B B B B B B = x X = = = = =
 18X X B B B B B B B = = X X = = = = =
-A-Northern Wei
-B-Southern Qi
-C-Gogoryeo
-D-Silla
-E-Baekje
-F-Gaya
+A-Northern Wei --c-Chinese
+B-Southern Qi --c-Chinese
+C-Gogoryeo --c-Korean
+D-Silla --c-Korean
+E-Baekje --c-Korean
+F-Gaya --c-Korean
 G-Japan
 --China 560AD--
   a b c d e f g h i j k l m n o p q r
@@ -13760,15 +13761,15 @@ G-Japan
 16X X X X X X C C C C C = = = = = = =
 17X X X X X X C C C C = x X = = = = =
 18X X X X X C C C C = = X X = = = = =
-A-Northern Qi
-B-Nothern Zhou
-C-Southern Chen
-D-Western Liang
+A-Northern Qi --c-Chinese
+B-Nothern Zhou --c-Chinese
+C-Southern Chen --c-Chinese
+D-Western Liang --c-Chinese
 E-Gokturks
-F-Goguryeo
-G-Silla
-H-Baekje
-I-Gaya
+F-Goguryeo --c-Korean
+G-Silla --c-Korean
+H-Baekje --c-Korean
+I-Gaya --c-Korean
 J-Japan
 --China 640AD--
   a b c d e f g h i j k l m n o p q r
@@ -13791,9 +13792,9 @@ J-Japan
 17X X X X X X A A A A = x X = = = = =
 18X X X X X A A A A = = X X = = = = =
 A-Tang
-B-Goguryeo
-C-Silla
-D-Baekje
+B-Goguryeo --c-Korean
+C-Silla --c-Korean
+D-Baekje --c-Korean
 E-Japan
 --China 910AD--
   a b c d e f g h i j k l m n o p q r
@@ -13815,21 +13816,21 @@ E-Japan
 16I I X X X E E E D G G = = = = = = =
 17I I I X X E E F F F = x X = = = = =
 18I I I X F F F F F = = X X = = = = =
-A-Later Liang
-B-Liao
-C-Former Shu
-D-Southern Wu
-E-Chu
-F-Southern Han
-G-Min
-H-Wuyue
+A-Later Liang --c-Chinese
+B-Liao --c-Chinese
+C-Former Shu --c-Chinese
+D-Southern Wu --c-Chinese
+E-Chu --c-Chinese
+F-Southern Han --c-Chinese
+G-Min --c-Chinese
+H-Wuyue --c-Chinese
 I-Nanzhao
-J-Western Xia
-K-Jingnan
-L-Balhae
-M-Taebong
-N-Hubaekje
-O-Silla
+J-Western Xia --c-Chinese
+K-Jingnan --c-Chinese
+L-Balhae --c-Korean
+M-Taebong --c-Korean
+N-Hubaekje --c-Korean
+O-Silla --c-Korean
 P-Japan
 --China 1000AD--
   a b c d e f g h i j k l m n o p q r
@@ -13851,9 +13852,9 @@ P-Japan
 16D D A A A A A A A A A = = = = = = =
 17D D D A A A A A A A = x X = = = = =
 18D D D A A A A A A = = X X = = = = =
-A-Song
-B-Liao
-C-Western Xia
+A-Song --c-Chinese
+B-Liao --c-Chinese
+C-Western Xia --c-Chinese
 D-Dali
 E-Goryeo
 F-Japan
@@ -13877,10 +13878,10 @@ F-Japan
 16C C A A A A A A A A A = = = = = = =
 17C C A A A A A A A A = x X = = = = =
 18C C C A A A A A A = = X X = = = = =
-A-Southern Song
-B-Jin
+A-Southern Song --c-Chinese
+B-Jin --c-Chinese
 C-Dali
-D-Mongols
+D-Mongols --Conqueror
 E-Goryeo
 F-Japan
 --China 1250AD--
@@ -13904,7 +13905,7 @@ F-Japan
 17C C X A A A A A A A = x X = = = = =
 18C C C A A A A A A = = X X = = = = =
 A-Southern Song
-B-Mongols
+B-Mongols --Conqueror
 C-Dali
 D-Japan
 --China 1370AD--
@@ -13927,10 +13928,10 @@ D-Japan
 16D D A A A A A A A A A = = = = = = =
 17D D D A A A A A A A = x X = = = = =
 18D D D A A A A A A = = X X = = = = =
-A-Ming
-B-Yuan
-C-Sichuan
-D-Yunnan
+A-Ming --c-Chinese
+B-Yuan --c-Chinese
+C-Sichuan --c-Chinese
+D-Yunnan --c-Chinese
 E-Goryeo
 F-Japan
 G-Tibet
@@ -13978,13 +13979,13 @@ D-Japan
 16A A A A A A A A A A A = = = = = = =
 17A A A A A A A A A A = G G = = = = =
 18A A A A A A A A A = = F F = = = = =
-A-Ming
-B-Qing
+A-Ming --c-Chinese
+B-Qing --c-Chinese
 C-Mongols
 D-Joseon
 E-Japan
-F-Netherlands
-G-Spain
+F-Netherlands --Colonizer --Trader
+G-Spain --Colonizer
 --China 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 A A A A A A A A A A A A A A A A A A
@@ -14031,10 +14032,10 @@ C-Japan
 A-Qing
 B-Japan
 C-Korea
-D-Britian
-E-France
+D-Britian --Colonizer
+E-France --Colonizer
 F-Russia
-G-Germany
+G-Germany --Colonizer
 --China 1937AD--
   a b c d e f g h i j k l m n o p q r
 1 C C C C C C A A A B B B B B B B B B
@@ -14079,7 +14080,7 @@ C-Mongolia
 17A A A A A A A A A A = b B = = = = =
 18A A A A A A A B A = = B B = = = = =
 A-Republic of China
-B-Empire of Japan
+B-Empire of Japan --Colonizer
 C-Mongolia
 --China 2000AD--
   a b c d e f g h i j k l m n o p q r
@@ -14101,10 +14102,10 @@ C-Mongolia
 16A A A A A A A A A A A = = = = = = =
 17A A A A A A A A A A = b B = = = = =
 18A A A A A A A A A = = B B = = = = =
-A-People's Republic of China
-B-Republic of China
-C-South Korea
-D-North Korea
+A-People's Republic of China --c-Chinese --Communist
+B-Republic of China --c-Chinese
+C-South Korea --c-Korean
+D-North Korea --c-Korean --Communist
 E-Japan
 F-Mongolia
 ==Korea==
@@ -14147,16 +14148,16 @@ F-Mongolia
 16= = = = = = = = = = = = = X X X x x
 17= = = = = = = = = = = = x x x x x x
 18= = = = = = X X = = = X X x x X = =
-A-Goguryeo --Korean
-B-Mahan --Korean
-C-Ye --Korean
-D-Dongokjeo --Korean
-E-Jinhan --Korean
-F-Byeonhan --Korean
-G-Dongye --Korean
+A-Goguryeo --c-Korean
+B-Mahan --c-Korean
+C-Ye --c-Korean
+D-Dongokjeo --c-Korean
+E-Jinhan --c-Korean
+F-Byeonhan --c-Korean
+G-Dongye --c-Korean
 H-Han
-I-Buyeo --Tribal --Korean
-J-Xianbei --Tribal
+I-Buyeo --Tribal --c-Korean
+J-Xianbei --c-Tribal
 --Korea 200AD--
   a b c d e f g h i j k l m n o p q r
 1 E E X X X X X G X X X X X = = = = =
@@ -14177,13 +14178,13 @@ J-Xianbei --Tribal
 16= = = = = = = = = = = = = F F F f f
 17= = = = = = = = = = = = f f f f f f
 18= = = = = = C C = = = F F f f F = =
-A-Silla --Korean
-B-Goguryeo --Korean
-C-Baekje --Korean
-D-Gaya --Korean
+A-Silla --c-Korean
+B-Goguryeo --c-Korean
+C-Baekje --c-Korean
+D-Gaya --c-Korean
 E-Han
 F-Japan
-G-Buyeo --Tribal --Korean
+G-Buyeo --Tribal --c-Korean
 --Korea 800AD--
   a b c d e f g h i j k l m n o p q r
 1 E E E E A A A A A A A A A = = = = =
@@ -14204,8 +14205,8 @@ G-Buyeo --Tribal --Korean
 16= = = = = = = = = = = = = D D D d d
 17= = = = = = = = = = = = d d d d d d
 18= = = = = = B B = = = D D D d D = =
-A-Balhae
-B-Silla
+A-Balhae --c-Korean
+B-Silla --c-Korean
 C-Tang
 D-Japan
 E-Uyghur
@@ -14230,7 +14231,7 @@ E-Uyghur
 17= = = = = = = = = = = = c c c c c c
 18= = = = = = A A = = = C C c c C = =
 A-Goryeo
-B-Mongols
+B-Mongols --Conqueror
 C-Japan
 D-Jin
 --Korea 1600AD--
@@ -14276,9 +14277,9 @@ C-Ming
 16= = = = = = = = = = = = = D D D d d
 17= = = = = = = = = = = = d d d d d d
 18= = = = = = A A = = = D D d d D = =
-A-South Korea
-B-North Korea
-C-China
+A-South Korea --c-Korean
+B-North Korea --c-Korean --Communist
+C-China --Communist
 D-Japan
 E-Russia
 ==Japan==
@@ -14323,9 +14324,9 @@ E-Russia
 18= = = = = = = = = = = = = = = = = =
 A-Japan
 B-Ainu --Tribal
-C-Goguryeo
-D-Silla
-E-Baekje
+C-Goguryeo --c-Korean
+D-Silla --c-Korean
+E-Baekje --c-Korean
 F-Gokturks
 --Japan 1570AD--
   a b c d e f g h i j k l m n o p q r
@@ -14347,25 +14348,25 @@ F-Gokturks
 16= = = = = = = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Oda
-B-Takeda
-C-Late Hojo
-D-Uesugi
-E-Mori
-F-Otomo
-G-Nanbu
-H-Shimazu
-I-Miyoshi
-J-Satake
-K-Chosokabe
-L-Amago
-M-Ryuzoji
-N-Tokugawa
-O-Azai
-P-Asakura
-Q-Date
-R-Mogami
-S-Ashina
+A-Oda --c-Japanese
+B-Takeda --c-Japanese
+C-Late Hojo --c-Japanese
+D-Uesugi --c-Japanese
+E-Mori --c-Japanese
+F-Otomo --c-Japanese
+G-Nanbu --c-Japanese
+H-Shimazu --c-Japanese
+I-Miyoshi --c-Japanese
+J-Satake --c-Japanese
+K-Chosokabe --c-Japanese
+L-Amago --c-Japanese
+M-Ryuzoji --c-Japanese
+N-Tokugawa --c-Japanese
+O-Azai --c-Japanese
+P-Asakura --c-Japanese
+Q-Date --c-Japanese
+R-Mogami --c-Japanese
+S-Ashina --c-Japanese
 --Japan 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D D D D D D D = = X X = = =
@@ -14386,8 +14387,8 @@ S-Ashina
 16= = = = = A = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
-A-Japan
-B-Ainu --Tribal
+A-Japan --c-Japanese
+B-Ainu --Tribal --c-Japanese
 C-Joseon
 D-Qing
 --Japan 2000AD--
@@ -14411,9 +14412,9 @@ D-Qing
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 A-Japan
-B-China
-C-South Korea
-D-North Korea
+B-China --Communist
+C-South Korea --c-Korean
+D-North Korea --c-Korean --Communist
 E-Russia
 ==Russia==
   a b c d e f g h i j k l m n o p q r
@@ -14433,8 +14434,8 @@ E-Russia
 14X X X X X X X X X X X X X X X X X X
 15X X X X X X X X X X X X X X X X X X
 16X X X X X X X X X X X X X X X X X X
-17X X X X X X X X X X X X X X X X X X
-18X X X X X X X X X X X X X X X X X X
+17X = X X X X X X X X X X X X X X X X
+18X = X X X X X X X X X X X X X X X X
 --Russia 1300AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
@@ -14456,12 +14457,12 @@ E-Russia
 17B = C C C D D D D D E E E E E E E E
 18G = G G F F D D D D E E E E E E E E
 A-Novgrod
-B-Golden Horde
-C-White Horde
-D-Kaidu
-E-Yuan
-F-Chagatai
-G-Il Khan
+B-Golden Horde --c-Mongol
+C-White Horde --c-Mongol
+D-Kaidu --c-Mongol
+E-Yuan --c-Mongol
+F-Chagatai --c-Mongol
+G-Il Khan --c-Mongol
 --Russia 1470AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
@@ -14482,14 +14483,14 @@ G-Il Khan
 16C C C E E E E E F F F F F F F F F X
 17X = X E E E H H H H F F F F F F F I
 18L = J J J J H H H H I I F F I I I K
-A-Moscow
-B-Novgrod
-C-Golden Horde
-D-Sibir
-E-Kazakh
-F-Oirats
-G-Kazan
-H-Chagatai
+A-Moscow --c-Russian
+B-Novgrod --c-Russian
+C-Golden Horde --c-Tartar
+D-Sibir --c-Tartar
+E-Kazakh --c-Tartar
+F-Oirats --c-Tartar
+G-Kazan --c-Tartar
+H-Chagatai --c-Tartar
 I-Ming
 J-Timurid
 K-Joseon
@@ -14515,17 +14516,17 @@ L-Koyunlu
 17X = X D D D J J G G F F F F F F F I
 18M = L L J J G G G G I I F F I I I K
 A-Moscow
-B-Golden Horde
-C-Sibir
-D-Kazakh
-E-Oirats
-F-Mongols
-G-Moghulistan
-H-Kazan
+B-Golden Horde --c-Tartar
+C-Sibir --c-Tartar
+D-Kazakh --c-Tartar
+E-Oirats --c-Tartar
+F-Mongols --c-Tartar
+G-Moghulistan --c-Tartar
+H-Kazan --c-Tartar
 I-Ming
-J-Tashkent
+J-Tashkent --c-Iranian
 K-Joseon
-L-Timurid
+L-Timurid --c-Iranian
 M-Koyunlu
 --Russia 1600AD--
   a b c d e f g h i j k l m n o p q r
@@ -14547,13 +14548,13 @@ M-Koyunlu
 16A G D D D D D D B B B B B B B B B X
 17A = D F F D D D E E B B B B B B B C
 18H = X D F F E E E E C C B B C C C I
-A-Russia
-B-Mongols
+A-Russia --Conqueror
+B-Mongols --c-Tartar
 C-Ming
-D-Kazakh
-E-Kashgar
-F-Bukhara
-G-Nogai
+D-Kazakh --c-Tartar
+E-Kashgar --c-Tartar
+F-Bukhara --c-Tartar
+G-Nogai --c-Tartar
 H-Ottoman Empire
 I-Joseon
 --Russia 1690AD--
@@ -14578,10 +14579,10 @@ I-Joseon
 18G = X C F F F D D D D B B B B B B H
 A-Russia
 B-Qing
-C-Kazakh
-D-Zunghar
-E-Mongol
-F-Bukhara
+C-Kazakh --c-Tartar
+D-Zunghar --c-Tartar
+E-Mongol --c-Tartar
+F-Bukhara --c-Tartar
 G-Ottoman Empire
 H-Joseon
 --Russia 2000AD--
@@ -14605,11 +14606,11 @@ H-Joseon
 17A = C E C C C C B B B D D D B B B B
 18H = F F E G G G B B B B B B B B B I
 A-Russia
-B-China
-C-Kazakhstan
+B-China --Communist
+C-Kazakhstan --c-Turkic
 D-Mongolia
-E-Uzbekistan
-F-Turkmenistan
-G-Kyrgyzstan
+E-Uzbekistan --c-Turkic
+F-Turkmenistan --c-Turkic
+G-Kyrgyzstan --c-Turkic
 H-Georgia
-I-North Korea
+I-North Korea --Communist

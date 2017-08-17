@@ -13,7 +13,7 @@ Land is represented with a black background.
 Sea is represented with a blue '=' with a blue background.
 Coast is represented with a lowercase letter with a half black/half cyan background. Navies can go through coastal tiles.
 
-The red and white X on the player's map is the spot currently selected. Use wasd to move it around. 
+The red and white X on the player's map is the spot currently selected. Use w-a-s-d to move it around. 
 Information about the tile it is over is displayed on the right.
 
 Game play:
@@ -62,6 +62,7 @@ There are also different modes:
 	-mode 1 is the building mode. If there is no building in the tile, it will display a '-'.
 	 If there is at least one building, it will show the first building built there colored in the owner's color.
 	-mode 2 is the military mode. If there is newly gained territory this turn, it will show up with a colored '+'.
+	-mode 3 is the culture mode. It shows what tiles on the map are which culture.
 
 	
 b-build:
@@ -101,6 +102,23 @@ The mode allows you to move your navies. Select a navy by hovering over the navy
 The places it is able to sail to is highlighted. Select a spot again with the 'y' key. It will move
 and then you will need to wait until next turn to move or attack from it.
 
+v-view nations:
+________________________
+This mode allows you to view the different attributes of each nation including the culture of that nation.
+Attributes:
+________________________
+Tribal: Can't build buildings, but their food, gold, and military income is based on the size of their nation.
+
+Colonizer: Bonus +10 gold and military per turn, 200 bonus points for having the largest area.
+
+Conqueror: 200 bonus points for having the largest area.
+
+Trader: 200 bonus points for having the largest gold income.
+
+Communist: [not used yet]
+
+Crusader: [not used yet]
+
 
 
 END OF GAME:
@@ -109,8 +127,10 @@ The nation with the most points wins. The points are calculated as follows:
 	-the amount of food owned by the nation,
 	-plus any bonus points added by taking or losing capitals 
 	 (20 points per taken capital, -20 points if you lost your capital)
-	-plus 50 points to the nation with the highest gold income
-	-plus 50 points to the nation with the largest land area.
+	-plus 50 points to the nation with the highest gold income (depending on attributes)
+	-plus 50 points to the nation with the largest land area (depending on attributes).
+	-plus 50 points if all colonizers on the map are driven out.
+	-plus 50 points if you own all your culture's tiles on the map.
 
 
 Acknowledgements:
