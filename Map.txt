@@ -4,18 +4,18 @@
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-4 = = x x x X X X = = = = = = = = = =
-5 = = x x x x X X = = = = x x X x x =
-6 X X x x x x X = = x X x x X X X X X
-7 X X X x X x x = = x X X X X X X X x
-8 = X X X X X = = x X X X X X X X X x
-9 = = X X X = = = x x x X X X X x x =
-10= = X X x = = = X X X X X X X X = =
-11= = = = X X = = X X X x = x X x = =
-12= = = = x X X = = X X = = = x x x =
-13= = = = x X X = = X X x = = = X X =
-14= = = = x X = = = = = = = = = = x =
-15= = = = x = = = = = = = = = = = = =
+4 = = * * * * * * = = = = = = = = = =
+5 = = * * * * * * = = = = * * * * * =
+6 M M * * * * * = = m X x x X X M M M
+7 M M M x X x x = = m X X X X M M M m
+8 = M M X X X = = x X X X X M M M M m
+9 = = M X M = = = m x x M M X ~ x m =
+10= = M M x = = = M ~ ~ ~ M X M H = =
+11= = = = X X = = X X M x = x W w = =
+12= = = = m T T = = X M = = = w w w =
+13= = = = m T T = = X X x = = = ~ X =
+14= = = = m X = = = = = = = = = = x =
+15= = = = m = = = = = = = = = = = = =
 16= = = = = = = = = = = = = = = = = =
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -395,24 +395,24 @@ I-Iran
 J-South Africa
 ==North America==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = X X X = = X X X = = X X
-2 X X X X = = = x x = = = X X = = = X
-3 X X X X X X X X X X X x x X X = = X
-4 X X X X X X X X X X X X = X X = = X
-5 X X X X X X X X X X X = = = x = = X
-6 X X X X X X X X X X X = = X = = = =
-7 = X = = X X X X X X X = = X X = = =
-8 x = = = = X X X X X X X = X X X = =
-9 = = = = = = X X X X X X X X X X = =
-10= = = = = = X X X X X X X X X = = =
-11= = = = = = X X X X X X X X = = = =
-12= = = = = = X X X X X X X = = = = =
+1 = = = = = = * * * = = * * * = = * *
+2 M M M M = = = * * = = = * * = = = *
+3 M M M M M * * * * * * * * * * = = *
+4 M M M M M X X X X X X X = * * = = *
+5 M M M M M X X X X X X = = = * = = *
+6 M M M M M M X X X X X = = H = = = =
+7 = M = = M M M X X X X = = X H = = =
+8 m = = = = M M M X X X X = X H H = =
+9 = = = = = = X M X X X X X X H H = =
+10= = = = = = X M X X X X X M X = = =
+11= = = = = = X M X X X X M X = = = =
+12= = = = = = X M X X X M X = = = = =
 13= = = = = = = X X X X X X = = = = =
-14= = = = = = = = X X = = X = = = = =
-15= = = = = = = = = X = = = = = = = =
-16= X = = = = = = = X X X = x x x = =
-17= = = = = = = = = = = X X = = = = =
-18= = = = = = = = = = = = X X X X X =
+14= = = = = = = = M M = = X = = = = =
+15= = = = = = = = = M = = = = = = = =
+16= X = = = = = = = M M M = x m x = =
+17= = = = = = = = = = = M M = = = = =
+18= = = = = = = = = = = = M M M M M =
 --North America 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = X X X = = X X X = = X X
@@ -661,17 +661,17 @@ J-Cuba --Communist
 4 = = = = x x = = = = = = = = = = = =
 5 = = = = = = x = = = = = = = = = = =
 6 = X X X X = = = = = = = = = = = = =
-7 = = = = X X = = = = = = = = = = = =
-8 = = = = = = = = X X = = = = = = = =
-9 = = = = X X = X X X X x = x = = = =
+7 = = = = M M = = = = = = = = = = = =
+8 = = = = = = = = M M = = = = = = = =
+9 = = = = M M = M M M M m = x = = = =
 10= = = = = = = = = = = = = = x = = =
-11X = = = = = = = = = = = = = x = = =
-12X X = = = = = = = = = = = = x = = =
-13X X = = = = = = = x = = = = x = = =
-14X = = = = = = X X X X = = = x = = =
-15X X = = = = X X X X X X X X X = = =
-16= X X X X X X X X X X X X X X X = =
-17= = = = = X X X X X X X X X X X X =
+11M = = = = = = = = = = = = = x = = =
+12M M = = = = = = = = = = = = x = = =
+13M M = = = = = = = x = = = = x = = =
+14M = = = = = = X X X X = = = x = = =
+15M M = = = = X X X X X X X X X = = =
+16= M M M M M M X X X X X X X X X = =
+17= = = = = M M M X X X X X X X X X =
 18= = = = = X X X X X X X X X X X X X
 --Caribbean Sea 1700AD--
   a b c d e f g h i j k l m n o p q r
@@ -827,23 +827,23 @@ U-Suriname
 ==Central America==
   a b c d e f g h i j k l m n o p q r
 1 = X X X X = = = = = = = = = = = = =
-2 X X X X X = = = = = = = = = = = X X
-3 X X X X X = = = = = = = = = = = = =
-4 X X X X X = = = = = = = = = = = = =
-5 X X X X = = = = = = = = = = = = = =
-6 X X X X X X X X X X = = = = = = = =
-7 X X X X X X X X X X X = = = = = = =
-8 X X X X X X X X X X X = = = = = = =
-9 = = = X X X X X X X = = = = = = = =
-10= = = = = X X X X X = = = = = = = =
-11= = = = = = X X X X = = = = = = = =
-12= = = = = = = X X X = = = = = = = =
-13= = = = = = = X X X = = = = = = = =
-14= = = = = = = = X X X = = = = = = =
-15= = = = = = = = = = X X = = X X X =
-16= = = = = = = = = = X X X X X = X X
-17= = = = = = = = = = = = = X = = X X
-18= = = = = = = = = = = = = = = = = X
+2 X X X X X = = = = = = = = = = = M M
+3 X X X X H = = = = = = = = = = = = =
+4 M M X H H = = = = = = = = = = = = =
+5 M M M M = = = = = = = = = = = = = =
+6 M M M M M M M M M M = = = = = = = =
+7 M M M M M M M M M M M = = = = = = =
+8 M M M M M M M M M M M = = = = = = =
+9 = = = M M M m M M M = = = = = = = =
+10= = = = = M M M M M = = = = = = = =
+11= = = = = = M M M M = = = = = = = =
+12= = = = = = = M M M = = = = = = = =
+13= = = = = = = M M M = = = = = = = =
+14= = = = = = = = M M M = = = = = = =
+15= = = = = = = = = = M M = = M M M =
+16= = = = = = = = = = M M M M M = M M
+17= = = = = = = = = = = = = M = = M M
+18= = = = = = = = = = = = = = = = = M
 --Central America 2000AD--
   a b c d e f g h i j k l m n o p q r
 1 = F F F F = = = = = = = = = = = = =
@@ -876,24 +876,24 @@ I-Jamaica
 J-Colombia
 ==Canada==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = = = = = = X X X = X X X
-2 = = = = = = = = = = = = X X = X X X
-3 = = = = = = = = = = X X X = x X X X
-4 = = = = = = = = = = X X X = X X X X
-5 = = = = = = = = = = = X = = X X X X
-6 = = = = = = = = = = = = = = = X X X
-7 = = = = = = = X = = X X = = = = X X
-8 = = = = = X X = = X = X X = = = X X
-9 = = = = = = X X X = = X X = = = X X
-10X X X = X X = x x = = = = X = = X X
-11X X X X X X X X X X X X = X = = X X
-12X X X X X X X X X X X = = X = = X X
-13X X X X X X X X X X = = = = = = = X
-14X = = X X X X X X X = = X X = = = =
-15X = = = X X X X X X X = = X X = = =
-16= = = = = X X X X X X X X X X X = =
-17= = = = = X X X X X X X X X = = = =
-18= = = = = X X X X X X X X X X = = =
+1 = = = = = = = = = = = * * * = * * *
+2 = = = = = = = = = = = = * * = * * *
+3 = = = = = = = = = = * * * = * * * *
+4 = = = = = = = = = = * * * = * * * *
+5 = = = = = = = = = = = * = = * * * *
+6 = = = = = = = = = = = = = = = * * *
+7 = = = = = = = * = = * * = = = = * *
+8 = = = = = * * = = * = * * = = = * *
+9 = = = = = = * * * = = * * = = = * *
+10M M M = * * = * * = = = = * = = * *
+11M M M * * * * * * * * * = * = = * *
+12M M M M * * * * * * * = = * = = * *
+13M M M M M M X X X X = = = = = = = *
+14M = = M M M X X X X = = X X = = = =
+15M = = = M M X X X X X = = H H = = =
+16= = = = = M M X X X X X X H H H = =
+17= = = = = M M X X X X X X H = = = =
+18= = = = = M M X X X X X X X X = = =
 --Canada 1600AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = X X X = X X X
@@ -1034,24 +1034,24 @@ B-USA
 C-Denmark
 ==USA==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X = = = X X X
-2 X X X X X X X X X X X X X = X X X X
-3 X X X X X X X X X X X X X = X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X X X
-6 = X X X X X X X X X X = = X X X X X
-7 = X X X X X X X X X X X = = X X X X
-8 = X X X X X X X X X X = X X = X X =
-9 = X X X X X X X X X X X X = X X X =
-10= X X X X X X X X X X X X X X X = =
-11= X X X X X X X X X X X X X X = = =
-12= = X X X X X X X X X X X X X = = =
-13= = = X X X X X X X X X X X = = = =
-14= = = X X X X X X X X X X X = = = =
-15= = = = X X X X X = = = = X = = = =
-16= = = = X X X X X = = = = = x x = =
-17= = = = = = X X X = = = = X X x = =
-18= = = = = = X X X = = X = = = = X =
+1 M M M M X X X X X X X X = = = H H H
+2 M M M M X X X X X X X X X = X H H H
+3 M M M M X X X X X X X X X = X X H H
+4 M M M M X X X X X X X X X X X X H H
+5 M M M M X X X X X X X X X X X X H H
+6 = X M M X X X X X X X = = X X X H H
+7 = X M M X X X X X X X X = = X X H H
+8 = X M M M X X X X X X = X X = X X =
+9 = X M ~ M X X X X X X X X = X X X =
+10= X M ~ M X X X X X X X X X M X = =
+11= X M ~ M X X X X X X X X M X = = =
+12= = X ~ M X X X X X X X M X X = = =
+13= = = ~ M M X X X X X X M X = = = =
+14= = = ~ ~ ~ M X X X X X X X = = = =
+15= = = = ~ ~ M X X = = = = X = = = =
+16= = = = ~ ~ X X X = = = = = x x = =
+17= = = = = = M X M = = = = X M x = =
+18= = = = = = M X M = = M = = = = M =
 --USA 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X = = = X X X
@@ -1362,24 +1362,24 @@ E-Bahamas
 F-Haiti
 ==Mexico==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 = X X X X X X X X X X X X X X X X X
-5 x x X X X X X X X X X X = = X = = =
-6 X = X X X X X X X X X = = = = = = =
-7 x X = X X X X X X X X = = = = = = =
-8 = x x x X X X X X X X = = = = = = =
-9 = = X = = X X X X X = = = = = = = =
-10= = = = = X X X X X = = = = = = = =
-11= = = = = = X X X X = = = = = X X =
-12= = = = = = X X X X X = = = = X X =
-13= = = = = = = X X X X X = = X X X =
-14= = = = = = = = X X X X X X X X = =
-15= = = = = = = = = = X X X X X X = =
-16= = = = = = = = = = = = = X X X X X
-17= = = = = = = = = = = = = = = X X X
-18= = = = = = = = = = = = = = = = = X
+1 ~ ~ ~ ~ ~ M M X X X X X X X X X X X
+2 ~ ~ ~ ~ ~ M M X X X X X X X X X X X
+3 ~ ~ ~ ~ ~ M M X X X X X X X X X X X
+4 = ~ ~ ~ ~ M M X X X X X X X X X X X
+5 m m ~ ~ ~ M M X X X X X = = X = = =
+6 M = ~ ~ ~ M M X X X X = = = = = = =
+7 m M = ~ ~ ~ ~ M X X X = = = = = = =
+8 = m m m X X M X M X X = = = = = = =
+9 = = M = = X M X M X = = = = = = = =
+10= = = = = X M X M X = = = = = = = =
+11= = = = = = X X M X = = = = = X X =
+12= = = = = = X X M X X = = = = X X =
+13= = = = = = = M M M M M = = X X X =
+14= = = = = = = = M M M M X X X H = =
+15= = = = = = = = = = M M M M X H = =
+16= = = = = = = = = = = = = M M M M M
+17= = = = = = = = = = = = = = = M M M
+18= = = = = = = = = = = = = = = = = M
 --Mexico 600AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -1547,23 +1547,23 @@ F-Belize
 G-El Salvador
 ==South America==
   a b c d e f g h i j k l m n o p q r
-1 = = = = X x = = = = = = = = = = = =
-2 = = = = = X X X X X = = = = = = = =
-3 = = = = = = X X X X X = = = = = = =
-4 = = = = = X X X X X X X = = = = = =
-5 = = = = = = X X X X X X X X = = = =
-6 = = = = = = X X X X X X X X = = = =
-7 = = = = = = = X X X X X X = = = = =
-8 = = = = = = = X X X X X X = = = = =
-9 = = = = = = = X X X X X = = = = = =
-10= = = = = = = X X X X X = = = = = =
-11= = = = = = = X X X X = = = = = = =
-12= = = = = = = X X X = = = = = = = =
-13= = = = = = = X X = = = = = = = = =
-14= = = = = = = X = = = = = = = = = =
-15= = = = = = = X = = = = = = = = = =
-16= = = = = = = X = = = = = = = = = =
-17= = = = = = = X = x = = = = = = = =
+1 = = = = M m = = = = = = = = = = = =
+2 = = = = = M M X X X = = = = = = = =
+3 = = = = = = M M X X X = = = = = = =
+4 = = = = = M M M T T T T = = = = = =
+5 = = = = = = M M T T T T T T = = = =
+6 = = = = = = M M T T T T T T = = = =
+7 = = = = = = = M T T T T T = = = = =
+8 = = = = = = = M T T T T T = = = = =
+9 = = = = = = = M M T T T = = = = = =
+10= = = = = = = M X X T T = = = = = =
+11= = = = = = = M X X X = = = = = = =
+12= = = = = = = M X X = = = = = = = =
+13= = = = = = = M X = = = = = = = = =
+14= = = = = = = M = = = = = = = = = =
+15= = = = = = = M = = = = = = = = = =
+16= = = = = = = M = = = = = = = = = =
+17= = = = = = = M = x = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 --South America 800AD--
   a b c d e f g h i j k l m n o p q r
@@ -1795,24 +1795,24 @@ I-Guyana
 J-Ecuador
 ==Andes==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = = X X X X X X X X X X X
-2 = = = = = = X X X X X X X X X X X X
-3 = = = = = = = X X X X X X X X X X X
-4 = = = = = = X X X X X X X X X X X X
-5 = = = = = = X X X X X X X X X X X X
-6 = = = = = = = X X X X X X X X X X X
-7 = = = = = = = X X X X X X X X X X X
-8 = = = = = = = = X X X X X X X X X X
-9 = = = = = = = = X X X X X X X X X X
-10= = = = = = = = = X X X X X X X X X
-11= = = = = = = = = X X X X X X X X X
-12= = = = = = = = = = X X X X X X X X
-13= = = = = = = = = = = = X X X X X X
-14= = = = = = = = = = = = X X X X X X
-15= = = = = = = = = = = = X X X X X X
-16= = = = = = = = = = = = X X X X X X
-17= = = = = = = = = = = = X X X X X X
-18= = = = = = = = = = = = X X X X X X
+1 = = = = = = = M M M M T T T T T T T
+2 = = = = = = M M M M M T T T T T T T
+3 = = = = = = = M M M M T T T T T T T
+4 = = = = = = M M M M M T T T T T T T
+5 = = = = = = M M M M M T T T T T T T
+6 = = = = = = = M M M T T T T T T T T
+7 = = = = = = = M M M T T T T T T T T
+8 = = = = = = = = M M T T T T T T T T
+9 = = = = = = = = M M M T T T T T T T
+10= = = = = = = = = M M M M T T T T T
+11= = = = = = = = = M M M M M T T T T
+12= = = = = = = = = = M M M M M T T T
+13= = = = = = = = = = = = M M M M M M
+14= = = = = = = = = = = = M M M M M M
+15= = = = = = = = = = = = M M M M M M
+16= = = = = = = = = = = = M M M M M M
+17= = = = = = = = = = = = M M M M M M
+18= = = = = = = = = = = = M M M M M M
 --Andes 1450AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = X X X X X X X X X X X
@@ -1893,24 +1893,24 @@ G-Argentina
 H-Paraguay
 ==Europe==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = X X X X = = X X X X X X
-2 = = = = = = X X X X X = X X X X X X
-3 = = = X = = = = X X = = X X X X X X
-4 = = = x X = = x x X = X X X X X X X
-5 = = X x X = = X x = = X X X X X X X
+1 = = = = = = M M M X = = X X X X X X
+2 = = = = = = M M X X X = X X X X X X
+3 = = = M = = = = X X = = X X X X X X
+4 = = = m M = = x x X = X X X X X X X
+5 = = M x X = = X x = = X X X X X X X
 6 = = X = X = X X X X X X X X X X X X
 7 = = = = X = X X X X X X X X X X X X
-8 = = = = = x X X X X X X X X X X X X
-9 = = = = X X X X X X X X X X X X X X
-10= = = = = X X X X X X X X X X X X X
-11= = X X X X X = X x X X X X = = = X
-12= = X X X X = = = X = X x x X X = X
-13= = X X X = = = = x = X = X X X X X
-14= = = x = = X X = X = = = X X X X X
-15= = = X X X X X = = = = = = = = X X
-16= = X X X X X X X X = X = = = X X X
-17= = X X X X X X X X X X X X X X X X
-18= X X X X X X X X X X X X X X = X X
+8 = = = = = x X H H H M X X X X X X X
+9 = = = = X X H M M M M M M M X X X X
+10= = = = = X H M M M M M M X X X X X
+11= = M M M M M = X x X M M M = = = M
+12= = M M M M = = = X = M x x M M = M
+13= = M M M = = = = x = M = X X M M M
+14= = = m = = M M = X = = = X M M M M
+15= = = M M M M M = = = = = = = = X M
+16= = M M M M M X X X = M = = = X X X
+17= = M M ~ ~ ~ ~ ~ X X X X X X X X ~
+18= ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ M = H ~
 --Europe 400BC--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = X X X X = = X X X X X X
@@ -2573,20 +2573,20 @@ I-Ukraine
 J-Poland
 ==Scandinavia==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = X X X X X X X X X X X X
-2 = = = = = = X X X X X X X X X X X X
-3 = = = = = = X X X X X X X X X X X X
-4 = = = = = X X X X X X = = X X X X X
-5 = = = = = X X X X X X = = X X X X X
-6 = = = = X X X X X X = = X X X X X X
-7 = = = X X X X X X X = X X X X X X X
-8 = = X X X X X X X = = X X X X X X X
-9 = X X X X X X X X = = X X X X X X X
-10= X X X X X X X X = = X X X X X = =
-11= X X X X X X X X = = = X = = X X =
-12= X X X X X X X X X = = = = = X X X
-13= X X X = X X X X = = = X X X X X X
-14= = X = = X X X = = = = X X X X X X
+1 = = = = = = M M M M M M M X X X X X
+2 = = = = = = M M M M M M X X X X X X
+3 = = = = = = M M M M X X X X X X X X
+4 = = = = = M M M M X X = = X X X X X
+5 = = = = = M M M X X X = = X X X X X
+6 = = = = M M M M X X = = X X X X X X
+7 = = = M M M M X X X = X X X X X X X
+8 = = M M M M M X X = = X X X X X X X
+9 = M M M M M M X X = = X X X X X X X
+10= M M M M M M X X = = X X X X X = =
+11= M M M M M X X X = = = X = = X X =
+12= M M M M X X X X X = = = = = X X X
+13= M M M = X X X X = = = X X X X X X
+14= = M = = X X X = = = = X X X X X X
 15= = = = x X X X = X = X = X X X X X
 16= = = X x = X X = = = X X X X X X X
 17= = = X x x X = = = = X X X X X X X
@@ -2759,22 +2759,22 @@ I-Belarus
 J-Germany
 ==North Sea==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = = = = = = = X X X X X X
-2 = = = = x = = = = = = X X X X X X X
-3 = = = = = = = = = = = X X X X X X X
-4 = = = = = = = x = = = X X X X X X X
-5 = = = = = = = x = = = X X X X X X X
-6 = = = = = = x = = = = X X X X X X X
-7 = = = = x X X = = = = = X X = X X X
-8 = = = = = X = = = = = = = = = X X X
-9 = = = = x X X = = = = = = X x = X X
-10= = = = = X X = = = = = = X X = X X
-11= = = = = X X = = = = = = X x x X =
-12= = = X X = X X = = = = = X = x = =
+1 = = = = = = = = = = = = M M M M M M
+2 = = = = x = = = = = = M M M M M M M
+3 = = = = = = = = = = = M M M M M M X
+4 = = = = = = = x = = = M M M M M M X
+5 = = = = = = = x = = = M M M M M M X
+6 = = = = = = x = = = = M M M X X M X
+7 = = = = x M M = = = = = M M = X M X
+8 = = = = = M = = = = = = = = = X M X
+9 = = = = x M M = = = = = = X x = X X
+10= = = = = M M = = = = = = X X = X X
+11= = = = = M H = = = = = = X x x X =
+12= = = X M = H H = = = = = X = x = =
 13= = X X X = X X = = = = = X X X X X
-14= = X X x = X X X = = X X X X X X X
-15= = X X = X X X X = = X X X X X X X
-16= = = = = X X X x = X X X X X X X X
+14= = X X x = X H X = = X X X X X X X
+15= = M X = X X X X = = X X X X X X X
+16= = = = = X M X x = X X X X X X X X
 17= = = = = X = = = X X X X X X X X X
 18= = = = = = = X X X X X X X X X X X
 --North Sea 500AD--
@@ -2987,24 +2987,24 @@ I-Belgium
 J-Faroe Islands --c-Norse
 ==Western Europe==
   a b c d e f g h i j k l m n o p q r
-1 = = = X X = = X X = = = = = X X X X
-2 = = = X X = X X X = = = X X X X X X
-3 = = = X X = X X X X = X X X X X X X
-4 = = = = = = X X X = X X X X X X X X
-5 = = = = = X X = = = X X X X X X X X
-6 = = = = = = = = X X X X X X X X X X
-7 = = = = = = X X X X X X X X X X X X
-8 = = = = = = = X X X X X X X X X X X
-9 = = = = = = = = X X X X X X X X X X
-10= = = = = = = = X X X X X X X X X X
-11= = = = = = = = X X X X X X X X = =
-12= = = X X X X X X X X = = = = X X =
-13= = = X X X X X X X X = = = x X X =
-14= = = X X X X X X X = = = = = = X X
-15= = = X X X X X X = = = = = X = = =
-16= = = X X X X X X = = = = = = = = =
-17= = = X X X X X = = = = = = = = X X
-18= = = = = x = = = = = X X X X = = X
+1 = = = X M = = H H = = = = = X X X X
+2 = = = X X = X H X = = = X X X X X X
+3 = = = M X = X X X X = X X X X X X X
+4 = = = = = = H X X = X X X X X X X X
+5 = = = = = X X = = = X X X X H H H H
+6 = = = = = = = = X X X X X X H H H H
+7 = = = = = = X X X X X X X X H H H H
+8 = = = = = = = X X X H H H H H H H H
+9 = = = = = = = = X X H H M M M M M M
+10= = = = = = = = X X H H M M X X X M
+11= = = = = = = = M M M H M M X X = =
+12= = = M M M M M M M M = = = = X M =
+13= = = X X M M M M M M = = = x X M =
+14= = = X H X X M M M = = = = = = X M
+15= = = X H M M M M = = = = = M = = =
+16= = = X H X X X X = = = = = = = = =
+17= = = X X M M M = = = = = = = = M M
+18= = = = = m = = = = = M M M M = = M
 --Western Europe 450AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = X X = = X X = = = = = I X X J
@@ -3217,24 +3217,24 @@ I-Netherlands
 J-Switzerland
 ==Mediterranean Sea==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X X X
-6 X X X X X X X X X = X X X X X X X X
-7 X X X X X = = X X = = X X X X X X X
-8 X X X = = = x = X X = = X X X X X X
-9 X X = = = = x = = X X = = X X X X X
-10X = = x = = x = = = X X = X X = = X
-11X = x = = = x = = = X = = X X = = X
-12X = = = = = = = = X x = = = X X = X
-13= = X X X X X X = = = = = = X = = =
-14= X X X X X X X = = = = = = = X X =
-15X X X X X X X = = = = = = = = = = =
-16X X X X X X X X = = = = = = = = = =
-17X X X X X X X X X X = = = X X X = =
-18X X X X X X X X X X X X X X X X X X
+1 X X X X H H H H H H X X X X X X M X
+2 X X X H H H M M M M M M M M M M X X
+3 X X H H H M M M M M M M M X X X X X
+4 X H H H H M M X X X X M M M X X X X
+5 H H H M M M M X X X X M M M M M M X
+6 H H H M M M M X X = M M M M M M M M
+7 H H H M M = = X M = = M M M M M M M
+8 M M M = = = x = X M = = X X X X X X
+9 M M = = = = x = = M M = = M M M X X
+10M = = x = = m = = = M X = M M = = X
+11M = x = = = m = = = M = = M M = = X
+12M = = = = = = = = M m = = = M M = X
+13= = M M M M M M = = = = = = M = = =
+14= M M M M M M M = = = = = = = X X =
+15M M M M M M M = = = = = = = = = = =
+16M M M M M ~ X X = = = = = = = = = =
+17M M M ~ ~ ~ ~ X X X = = = M M M = =
+18~ ~ ~ ~ ~ ~ ~ ~ X X X X X X X X X X
 --Mediterranean Sea 500BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -3867,9 +3867,9 @@ I-Tunisia
 J-Egypt
 ==Eastern Europe==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X = = X X X = X X = X X X X
-2 X X X X X = = = = = = X X X X X X X
-3 = X X X X = = = X X X X X X X X X X
+1 M M X X X = = X X X = X X = X X X X
+2 M M X X X = = = = = = X X X X X X X
+3 = M X X X = = = X X X X X X X X X X
 4 = X X X = = = = = X X X X X X X X X
 5 x X X X = X = = = X X X X X X X X X
 6 x = X X = = = X X X X X X X X X X X
@@ -3879,12 +3879,12 @@ J-Egypt
 10X X X X X X X X X X X X X X X X X X
 11X X X X X X X X X X X X X X X X X X
 12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X X X X X X X X X X X X X X X X X X
-16X X X X X X X X X X X X X X X X X X
-17X X X X X X X X X X X X X X X X = X
-18X X = X X X X X X X X X = = X X = X
+13H X X X X X X X X X X X X X X X X X
+14H H M M X X X X X X X X X X X X X X
+15M M X X M M X X X X X X X X X X X X
+16M M M M X X M M X X X X X X X X X X
+17M X X X M X M X M M X X X X M M = X
+18X X = X M X M X X X M X = = M M = X
 --Eastern Europe 810AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X = = X X X = X X = X X X X
@@ -4641,24 +4641,24 @@ S-Italy
 T-Slovenia
 ==Balkans==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X X X
-6 X X X X X X X X X X X X X X X X X X
-7 X X X X X X X X X X X X X X X X X X
-8 = = X X X X X X X X X X X X X X X X
-9 = = X X X X X X X X X X X X X X X X
-10= = = X X X X X X X X X X X X X X X
-11= = = = X X X X X X X X X X X X X =
-12X = = = = X X X X X X X X X X X X =
-13X = = = = = X X X X X X X X X X X =
-14X X X = = = = X X X X X X X X X X X
-15X X X X = = = X X X X X X X X X X X
-16= X X X X X = X X X X X = = = = = =
-17= = = X = X = X X X X = = = = X X X
-18= = = X = = = = X X X X = = = = X X
+1 M M M M X X X X X X X X X X M X X X
+2 M M M M X X X X X X X X M M M X X X
+3 M M M M X X X X X X X X X M M M X X
+4 M M M M X X X X X X X X M M M M M X
+5 M M M M X X X X X X X M M M M M X X
+6 M M M M X X X X X X X M M M M X X X
+7 M M M M M M X X X X M M M X X X X X
+8 = = M M M M M M M M M M X X X X X X
+9 = = M M M M M M M M M M X X X X X X
+10= = = M M M M M M M M M X X X X X X
+11= = = = M M M M M M M M X X X X X =
+12M = = = = M M M m M M M M M M M M =
+13M = = = = = M M M M M M X X X X X =
+14M M X = = = = M M M M M X X X X X X
+15M M M X = = = M M M M M X X X X X X
+16= M M M X X = M M M M M = = = = = =
+17= = = M = X = M M M M = = = = X X X
+18= = = M = = = = M M M M = = = = X X
 --Balkans 200BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -5027,22 +5027,22 @@ Q-Slovakia
 ==British Isles==
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
-2 = = = = = = X = X X X = = = = = = =
-3 = = = = = = X = X X = = = = = = = =
-4 = = = = = = x X X X X X = = = = = =
-5 = = = = = = = X X X X X = = = = = =
-6 = = = = = = = X X X X = = = = = = =
-7 = = = = = = = X X X X = = = = = = =
-8 = = = = = = = = = X X X = = = = = =
-9 = = = = X X X x X X X X X = = = = =
-10= = = = X X X x = = X X X X = = = =
-11= = = X X X X = = = = X X X = = = =
-12= = = X X X X = = = = X X X = = = =
-13= = = X X X X = = X X X X X X X = =
-14= = = X X X X = = X X X X X X X = =
-15= = = X X = = = X X X X X X X X = =
+2 = = = = = = H = M M M = = = = = = =
+3 = = = = = = H = M M = = = = = = = =
+4 = = = = = = h M M M M M = = = = = =
+5 = = = = = = = M M M M H = = = = = =
+6 = = = = = = = M M H H = = = = = = =
+7 = = = = = = = M M H H = = = = = = =
+8 = = = = = = = = = H H H = = = = = =
+9 = = = = H M M m X X X X X = = = = =
+10= = = = H M M m = = X X H X = = = =
+11= = = H X X X = = = = X H X = = = =
+12= = = H X X X = = = = X H X = = = =
+13= = = X X X X = = X M X H X X X = =
+14= = = M M H H = = X M X H X X X = =
+15= = = M M = = = X X M X X X X X = =
 16= = = = = = = = = = X X X X X X = =
-17= = = = = = = = = X X X X = = = = =
+17= = = = = = = = = H H H X = = = = =
 18= = = = = = = X X X = = = = = = = =
 --British Isles 800AD--
   a b c d e f g h i j k l m n o p q r
@@ -5153,24 +5153,24 @@ A-UK
 B-Ireland
 ==Iberia==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = = = = = = X X X X X X X
-2 = = X X X X X X X X X X X X X X X =
-3 = = X X X X X X X X X X X X X X = =
-4 = = X X X X X X X X X X X X X X X =
-5 = = X X X X X X X X X X X X X X = =
-6 = = X X X X X X X X X X X X X = = =
-7 = = X X X X X X X X X X X X = = = =
-8 = = X X X X X X X X X X X = = = = x
-9 = = X X X X X X X X X X = = = = x =
-10= X X X X X X X X X X X X = x = = =
-11= = X X X X X X X X X X = = = = = =
+1 = = = = = = = = = = = M M M M M M M
+2 = = X X X M M M M M M M M M M M M =
+3 = = X X M M M M M M M M M M M M = =
+4 = = X M M X X X X X M M M M M M M =
+5 = = X X H X X X X X X X X X X X = =
+6 = = X X H X X X M M M M M M M = = =
+7 = = X X M M M M M M M M M M = = = =
+8 = = X X H X X X X M M M M = = = = x
+9 = = X X H X X X X X M M = = = = x =
+10= X X X H X X X X X X X X = x = = =
+11= = X X H X X X X X X X = = = = = =
 12= = X X X X X X X X X X = = = = = =
-13= = X X X X X X X X X = = = = = = =
-14= = = = = X X = = = = = = = = = X X
-15= = = = = = = = = = = = = X X X X X
-16= = = = = X X = = = = X X X X X X X
-17= = = = = X X X X X X X X X X X X X
-18= = = = = X X X X X X X X X X X X X
+13= = X X X M M M M M M = = = = = = =
+14= = = = = M M = = = = = = = = = M M
+15= = = = = = = = = = = = = M M M M M
+16= = = = = M M = = = = M M M M M M M
+17= = = = = M M M M M M M M M M M M M
+18= = = = = M M M M M M M M M M M M M
 --Iberia 200BC--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = X X X X X X X
@@ -5458,23 +5458,23 @@ F-Andorra
 ==France==
   a b c d e f g h i j k l m n o p q r
 1 = = X X X X X X X = X X X X X X X X
-2 = X X X = = = = = = X X X X X X X X
+2 = X H H = = = = = = X X X X X X X X
 3 = X = = = = = = = X X X X X X X X X
 4 = = = = = X = = X X X X X X X X X X
 5 = = = = = x X X X X X X X X X X X X
-6 = = X X X X X X X X X X X X X X X X
-7 = = X X X X X X X X X X X X X X X X
-8 = = = = X X X X X X X X X X X X X X
-9 = = = = = X X X X X X X X X X X X X
-10= = = = = X X X X X X X X X X X X X
-11= = = = = = X X X X X X X X X X X X
-12= = = = = = X X X X X X X X X X X X
-13= = = = = = X X X X X X X X X X X X
-14= = = = = = X X X X X X X X X X X X
-15= = = = = = X X X X X X X X X X X X
-16X = = = = = X X X X X X X X X X = =
-17X X X X X X X X X X X = = = = = = =
-18X X X X X X X X X X X X = = = = = =
+6 = = X X X X X X X X X X X X X H H H
+7 = = X H H H X X X X X X X X X H H H
+8 = = = = X X X X X X X X X X H H H H
+9 = = = = = X X X X X X H H H H H H H
+10= = = = = X X X X X H H H H H H H M
+11= = = = = = X X X X H H H H H H M M
+12= = = = = = X X X X H H H H M M M M
+13= = = = = = X X X H H H H H M M M M
+14= = = = = = X X X X H H H H M M M M
+15= = = = = = X X X X H H H H M M M M
+16M = = = = = M M M M M M H H M M = =
+17M M M M M M M M M M M = = = = = = =
+18M M M M M M M M M M M M = = = = = =
 --France 480AD--
   a b c d e f g h i j k l m n o p q r
 1 = = X X X X F F H = A A A A A A A A
@@ -5745,15 +5745,15 @@ I-Andorra
 7 = = X X X X X X X X X X X X X X X X
 8 = = X X X X X X X X X X X X X X X X
 9 = X X X X X X X X X X X X X X X X X
-10X X X X X X X X X X X X X X X X X X
-11X X X X X X X X X X X X X X X X X X
-12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X X X X X X X X X X X X X X X X X X
-16X X X X X X X X X X X X X X X X X X
-17X X X X X X X X X X X X X X X X X X
-18X X X X X X X X X X X X X X X X X X
+10X X X X X X X H H X X X X X X X X X
+11X X X X X X H H H H H H H H M M X X
+12X X X X X X H H H H H H H H M M M M
+13X X X X X X H H H H H H M M X X M M
+14X X X X X X H H H H H H M M X X X X
+15X X X X X X H H H H H H H M M X X X
+16X X X X X X H H H H H H H M M M M M
+17X X X X X M M M M M M M M M X X X X
+18X X X X M M M M M M M M M X X X X X
 --Germany 400AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = X X x x x = = = = = =
@@ -5975,24 +5975,24 @@ J-Hungary
 K-Luxembourg
 ==Italy==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X = = X X X X X X X
-3 X X X X X X X X X = = X X X X X X X
-4 X X X X X X X X X = = = X X X X X X
-5 X X X X = = = X X X = = = X X X X X
-6 X X X = = = = X X X X = = = X X X X
-7 = = = = = = = X X X X = = = = X X X
-8 = = = = = X = = X X X X = = = = = X
-9 = = = = = X = = = X X X X X = = = =
-10= = = = = = = = = = X X X X = = = =
-11= = = = X X = = = = = = X X X X = =
-12= = = = = X = = = = = = = X X x X =
-13= = = = = X = = = = = = = X X = = =
-14= = = = = = = = = = = = = = X = = =
-15= = = = = = = = = = = = = x X = = =
-16= = = = = = = = = X X X x x = = = =
-17= = = = = = = = = = X X X = = = = =
-18X X X X X X X X = = = = x = = = = =
+1 X M M M M M X X X X X X M M H H H H
+2 X M M M X X X X X = = X M H H H H H
+3 X M M X X X X X X = = X M H H H H H
+4 X M M X X M M M M = = = M M M M M M
+5 X M M X = = = X M M = = = M M M M M
+6 X M M = = = = X X M M = = = M M M M
+7 = = = = = = = X X M M = = = = M M M
+8 = = = = = X = = X X M M = = = = = M
+9 = = = = = X = = = X X M M X = = = =
+10= = = = = = = = = = X X M X = = = =
+11= = = = M M = = = = = = X M X X = =
+12= = = = = M = = = = = = = M M x X =
+13= = = = = M = = = = = = = M M = = =
+14= = = = = = = = = = = = = = M = = =
+15= = = = = = = = = = = = = m M = = =
+16= = = = = = = = = M M M m m = = = =
+17= = = = = = = = = = M M M = = = = =
+18M M M M M M M M = = = = m = = = = =
 --Italy 300BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -6244,24 +6244,24 @@ I-Switzerland
 J-Tunisia
 ==Greece==
   a b c d e f g h i j k l m n o p q r
-1 = = = = X X X X X X X X X X X = = =
-2 X = = = = X X X X X X X X X X = = =
-3 X X = = = X X X X X X X X X X X x X
-4 X X X x = X X X X X = = = = = = x X
-5 X X = X = X X X X x x x = X X X X X
-6 = X = = = X X X X = = = x = X X X X
-7 = X = = = = X X X X = = = = X X X X
-8 x x = = = = X X X X X = x X X X X X
-9 = = = = = = X X X X X x = x X X X X
-10= = = = = = = X X = = x = = X X X X
-11= = = = = = = = X = x = = x = = X X
+1 = = = = M M M M M M M M M M M = = =
+2 M = = = = M M M M M M M M M M = = =
+3 M M = = = M M M M M X X X X X X x X
+4 M M X x = M M M M X = = = = = = x X
+5 M M = X = M M M M x x x = X X X X X
+6 = M = = = M M M M = = = x = X X X X
+7 = M = = = = M M M M = = = = X X X X
+8 m m = = = = M M M M M = x X X X X X
+9 = = = = = = M M M M M x = x X X X X
+10= = = = = = = M M = = x = = X X X X
+11= = = = = = = = M = x = = x = = X X
 12= = = = = = = = = = = = = = x = = =
 13= = = = = = = = = = X X X = = = = =
 14= = = = = = = = = = = = = = = = = =
 15= = = = = = = = = = = = = = = = = =
 16= = = = = = = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
-18= = = = = = X X X = = = = = = = = =
+18= = = = = = M M M = = = = = = = = =
 --Greece 200BC--
   a b c d e f g h i j k l m n o p q r
 1 = = = = X X X X D D D D D D D = = =
@@ -6394,23 +6394,23 @@ G-Libya
 H-Yugoslavia
 ==Africa==
   a b c d e f g h i j k l m n o p q r
-1 = = = x x = = x = X = X X X X = X X
-2 = = = = = = = = = = = = X X X X X X
-3 = = = X X X X X X X X X X X X X X X
-4 = = X X X X X X X X X X x X X x x X
-5 = = X X X X X X X X X X x X X X X =
-6 = = X X X X X X X X X X X x X X = =
-7 = = X X X X X X X X X X X X = = = =
-8 = = X X X X X X X X X X X X X = = =
-9 = = = = = = = X X X X X X X X = = =
-10= = = = = = = X X X X X X X = = = =
-11= = = = = = = X X X X X X = = = = =
-12= = = = = = = = X X X X X = = = = =
-13= = = = = = = X X X X X X = X = = =
-14= = = = = = = = X X X X = = X = = =
-15= = = = = = = = X X X X = = X = = =
-16= = = = = = = = X X X X = = = = = =
-17= = = = = = = = = X X = = = = = = =
+1 = = = m m = = m = M = X M M M = M M
+2 = = = = = = = = = = = = X X M M ~ M
+3 = = = M M M ~ ~ ~ ~ ~ ~ X ~ M X X M
+4 = = M M M ~ ~ ~ ~ ~ ~ ~ m ~ ~ m m M
+5 = = ~ ~ ~ ~ M M M M ~ ~ m ~ ~ ~ M =
+6 = = ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ M m M M = =
+7 = = X M M M M M X X M X M M = = = =
+8 = = X X X X X X M X M X M M X = = =
+9 = = = = = = = X M X X X M M X = = =
+10= = = = = = = X M X X X M X = = = =
+11= = = = = = = X M X X M X = = = = =
+12= = = = = = = = X X X M X = = = = =
+13= = = = = = = X X X M M X = X = = =
+14= = = = = = = = M X M X = = M = = =
+15= = = = = = = = M X M X = = X = = =
+16= = = = = = = = M X M X = = = = = =
+17= = = = = = = = = M M = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 --Africa 300AD--
   a b c d e f g h i j k l m n o p q r
@@ -6774,24 +6774,24 @@ I-Madagascar
 J-Angola
 ==North Africa==
   a b c d e f g h i j k l m n o p q r
-1 = X X X X X X = = = = X = = = X X =
-2 = X X X X X = = x = = X = = = = X =
-3 = X X X X X = = = = = = = = = x x =
-4 = X X X X = = = = = = = X = X X = =
-5 = = = = = = X X X X X X X = = = = =
-6 = = = X X X X X X X X X X = = = = =
-7 = = X X X X X X X X X X X = = = = =
-8 = X X X X X X X X X X X X X X = = =
-9 = X X X X X X X X X X X X X X X = =
-10= X X X X X X X X X X X X X X X X X
-11X X X X X X X X X X X X X X X X X X
-12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X X X X X X X X X X X X X X X X X X
-16X X X X X X X X X X X X X X X X X X
-17X X X X X X X X X X X X X X X X X X
-18X X X X X X X X X X X X X X X X X X
+1 = M M M M M M = = = = X = = = X X =
+2 = M M M M M = = x = = M = = = = m =
+3 = M M M M M = = = = = = = = = m m =
+4 = M M M M = = = = = = = M = M M = =
+5 = = = = = = M M M M M M M = = = = =
+6 = = = M M M M M M M M X X = = = = =
+7 = = M M M M M M M X X X X = = = = =
+8 = M M M M M X X X X X X X X X = = =
+9 = M M M ~ ~ ~ ~ ~ ~ ~ ~ X X X X = =
+10= X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+11X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+12X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+13X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+14~ ~ ~ ~ ~ ~ ~ ~ ~ ~ H H H H ~ ~ ~ ~
+15~ ~ ~ ~ ~ ~ ~ ~ ~ ~ H H H H ~ ~ ~ ~
+16~ ~ ~ ~ ~ ~ ~ ~ ~ ~ M M M M M ~ ~ ~
+17~ ~ ~ ~ ~ ~ ~ ~ ~ ~ M M M M M ~ ~ ~
+18~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ M M ~ ~ ~
 --North Africa 250BC--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X G = = = = A = = = B B =
@@ -7045,19 +7045,19 @@ J-Chad
 k-Portugal
 ==West Africa==
   a b c d e f g h i j k l m n o p q r
-1 = = X X X X X X X X X X X X X X X X
-2 = = X X X X X X X X X X X X X X X X
-3 = X X X X X X X X X X X X X X X X X
-4 = X X X X X X X X X X X X X X X X X
-5 = X X X X X X X X X X X X X X X X X
-6 = = X X X X X X X X X X X X X X X X
-7 = = = X X X X X X X X X X X X X X X
+1 = = ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+2 = = ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+3 = X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+4 = X X X M M M X X X X X X X X X X X
+5 = X X X M M M X X X X X X X X H H H
+6 = = X X X M M M M M M M M M X X X X
+7 = = = X X M M M M M M M M M X X X X
 8 = = = X X X X X X X X X X X X X X X
-9 = = = = X X X X X X X X X X X X X X
-10= = = = = X X X X X X X = = X X X X
-11= = = = = = X = = = = = = = = X X X
-12= = = = = = = = = = = = = = = = x X
-13= = = = = = = = = = = = = = = = = X
+9 = = = = X X X X X X X X X X X X X M
+10= = = = = X X X X X X X = = X X M M
+11= = = = = = X = = = = = = = = X M M
+12= = = = = = = = = = = = = = = = x M
+13= = = = = = = = = = = = = = = = = M
 14= = = = = = = = = = = = = = = x = X
 15= = = = = = = = = = = = = = = = = X
 16= = = = = = = = = = = = = = = = = X
@@ -7243,22 +7243,22 @@ R-Equatorial Guinea
 S-Guinea-Bissau
 ==Central Africa==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X X X
-6 X X X X X X X X X X X X X X X X X X
-7 X X X X X X X X X X X X X X = X X X
-8 X X X X X X X X X X X X X = = X X X
-9 X X X X X X X X X X X X X X X X X X
-10= X X X X X X X X X X X X X X X X X
-11= X X X X X X X X X X X X X X X X X
-12= = X X X X X X X X X X X X X X X X
-13= = X X X X X X X X X X X X X X X X
-14= = X X X X X X X X X X X X X X X X
-15= = = X X X X X X X X X X X X X X X
-16= = X X X X X X X X X X X X X X X X
+1 M M M M X X X X M X X X X X X X X X
+2 M M M M X X X X M X X X X X X X X X
+3 M M M M X X X X X X X X X X X X X X
+4 M M M X X X X X X X X X X X X M M X
+5 M M M X X X X X X X X X X M M M X X
+6 M M X X X X X X X X X X M M M M X X
+7 X X X X X X X X X X X M M X = M X X
+8 X X X X X X X X X X X M M = = M M M
+9 X X X X X X X X X X X M M M M M M M
+10= X X X X X X X X X X M M M M X X X
+11= X X X X X X X X X X M M M M X X X
+12= = X X X X X X X X X M M M X X X X
+13= = X X X X X X X X X M M M X X X X
+14= = X X X X X X X X X M M X X X X X
+15= = = M M M X X X X M M X X X X X X
+16= = M M M M X X X M M X X X X X X X
 17= = X X X X X X X X X X X X X X X X
 18= X X X X X X X X X X X X X X X X X
 --Central Africa 1600AD--
@@ -7391,23 +7391,23 @@ R-Rwanda
 S-Chad
 ==Southern Africa==
   a b c d e f g h i j k l m n o p q r
-1 = = X X X X X X X X X X X X X X X X
-2 = X X X X X X X X X X X X X X X X X
-3 = X X X X X X X X X X X X X X X X X
-4 = X X X X X X X X X X X X X X X X =
-5 = X X X X X X X X X X X X X X X = =
-6 = X X X X X X X X X X X X X X = = =
-7 = = X X X X X X X X X X X X X = = =
-8 = = X X X X X X X X X X X X X = = =
-9 = = X X X X X X X X X X X X X = = =
-10= = = X X X X X X X X X X X = = = =
-11= = = X X X X X X X X X X X = = = =
-12= = = X X X X X X X X X X = = = = =
-13= = = = X X X X X X X X X = = = = =
-14= = = = X X X X X X X X = = = = = =
-15= = = = X X X X X X X X = = = = = =
-16= = = = = X X X X X X = = = = = = =
-17= = = = = X X X X = = = = = = = = =
+1 = = X X X X X X X X X X X M M X X X
+2 = X X X X X X X X X X X X M M M X X
+3 = X X X X X X X X X X X X X M M X X
+4 = X X X X X X X X X X X M X M X X =
+5 = X X X X X X X X X X H M X X X = =
+6 = M M X X X X X X X X H M X X = = =
+7 = = M M X X X X X X X H M X X = = =
+8 = = M M M X X X X X X X X X X = = =
+9 = = M M X X X X X X X X X X X = = =
+10= = = M M X X X X X H H X X = = = =
+11= = = M M X X X X X H H X X = = = =
+12= = = M M M X X X X M M M = = = = =
+13= = = = X X X X X M M M M = = = = =
+14= = = = X X X X X M M M = = = = = =
+15= = = = X X X X X M M M = = = = = =
+16= = = = = X X M M M M = = = = = = =
+17= = = = = M M M M = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 --Southern Africa 1700AD--
   a b c d e f g h i j k l m n o p q r
@@ -7523,24 +7523,24 @@ I-Lesotho
 J-Swaziland
 ==East Africa==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X = = = = =
-2 X X X X X X X X X X X X = = = = = =
-3 X X X X X X X X X X X = = = = = = =
-4 X X X X X X X X X X = = = = = = = =
-5 X X X = X X X X X = = = = = = = = =
-6 X X X X X X X X = = = = = = = = = =
-7 X X X X X X X X = = = = = = = = = =
-8 X X X X X X X = = = = = = = = = = =
-9 X X X X X X X = = = = = = = = = = =
-10X X X X X X X = = = = = = = = = = =
-11X X X X X X X X = = = = = = = = = =
-12X X X X X X X X = x = = = = = = = =
-13X X X X X X X X = = x = = X = = = =
-14X X X X X X X X = = = = X X = = = =
-15X X X X X X X X = = = = X X = = = =
-16X X X X X X X = = = X X X X = = = =
-17X X X X X X = = = = X X X = = = = =
-18X X X X X = = = = = X X X = = = = =
+1 X X X X X M M X X X X X X = = = = =
+2 X X X X M M X X X X X X = = = = = =
+3 X X X X M M X X X X X = = = = = = =
+4 X X X M M X X X X X = = = = = = = =
+5 X X M = M M X X X = = = = = = = = =
+6 X X M M M M M X = = = = = = = = = =
+7 X X M M M M X X = = = = = = = = = =
+8 X X M M M M X = = = = = = = = = = =
+9 X X M M M X X = = = = = = = = = = =
+10X X M M X X X = = = = = = = = = = =
+11X M M X X X X X = = = = = = = = = =
+12X X M M X X X X = x = = = = = = = =
+13X X H H H X X X = = x = = X = = = =
+14X X X H H H X X = = = = X X = = = =
+15X X X H H X X X = = = = X H = = = =
+16X X X X X X X = = = X X H H = = = =
+17X X X X X X = = = = X X H = = = = =
+18X X X X X = = = = = X H H = = = = =
 --East Africa 1500AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X = = = = =
@@ -7663,24 +7663,24 @@ N-Sudan
 O-Comoros
 ==Horn of Africa==
   a b c d e f g h i j k l m n o p q r
-1 X X X = = = X X X X X X X X X X X =
-2 X X X X = = = X X X X X X X X = = =
-3 X X X X X = = X X X X X X = = = = =
-4 X X X X X X = x X X = = = = = = = =
-5 X X X X X X x = = = = = = = = = = =
-6 X X X X X X X = = = = = = = = = X =
-7 X X X X X X X X = = = = = X X X X =
-8 X X X X X X X X X X X X X X X X X =
-9 X X X X X X X X X X X X X X X X = =
-10X X X X X X X X X X X X X X X X = =
-11X X X X X X X X X X X X X X X = = =
-12X X X X X X X X X X X X X X X = = =
-13X X X X X X X X X X X X X X = = = =
-14X X X X X X X X X X X X X X = = = =
-15X X X X X X X X X X X X X X = = = =
-16X X X X X X X X X X X X X = = = = =
-17X X X X X X X X X X X X = = = = = =
-18X X X X X X X X X X X = = = = = = =
+1 M M M = = = H H H ~ ~ ~ ~ M M M M =
+2 M M M M = = = M M M M M M M M = = =
+3 M M M M M = = M M M M M M = = = = =
+4 M M M M M M = m M M = = = = = = = =
+5 M M M M M M x = = = = = = = = = = =
+6 M M M M M X X = = = = = = = = = X =
+7 M M M M X X X M = = = = = X X X X =
+8 M M M X X X M M X X X X X H H H H =
+9 M m M X X X M M M M H H H H H ~ = =
+10M M X X X M M M M H H H H ~ ~ ~ = =
+11M M X X X M M M M M M ~ ~ ~ ~ = = =
+12M M X X X M M M M ~ ~ ~ ~ ~ ~ = = =
+13M X X X M M M M ~ ~ ~ ~ ~ ~ = = = =
+14M X X X M M M ~ ~ ~ ~ ~ ~ ~ = = = =
+15X X X M M M M ~ ~ ~ ~ X X X = = = =
+16X X X X H H ~ ~ ~ X X X X = = = = =
+17X X X X H H X X X X X X = = = = = =
+18X X X X H H X X X X X = = = = = = =
 --Horn of Africa 1900AD--
   a b c d e f g h i j k l m n o p q r
 1 A A C = = = E E E X B B B B B B B =
@@ -7734,24 +7734,24 @@ E-Kenya
 F-Djibouti
 ==Asia==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X =
-5 X X X X X X X X X X X X X X X X X =
-6 X X X X X X X X X X X X X X X X X =
-7 X X X X X X X X X X X X X X X X X =
-8 = = X = X X X X X X X X X X X = = x
-9 X X X = X X X X X X X X X = x = X =
-10= X X X X X X X X X X X X X = x X =
-11X X X X X X X X X X X X X X = = = =
-12X x X X = = X X X X X X X x = = = =
-13X x X X = = = X = = X X = = = = = =
-14X X x = = = = X = = X X = = x = = =
-15X X X = = = = x = = x = = = x = = =
-16X X = = = = = = = = x x X x x = = =
-17X X = = = = = = = = = x = = x x x x
-18X X = = = = = = = = = = x x x = = =
+1 X X X X M X X X X * * * * * * * M M
+2 X X X X M X X X X H H H H H H H M M
+3 X X X X M X X X X H H H H H H M M M
+4 X X X X M X X X X H H H H H H M M =
+5 X X X X M X X X X H H H H H H M M =
+6 X X X X X X X X X H M M M M M M M =
+7 X X X X X ~ ~ ~ ~ M M M M M M M M =
+8 = = M = X ~ ~ ~ M M ~ ~ X X M = = m
+9 M M M = M M M M M ~ ~ X X = m = M =
+10= X M M X M X X M M X X X X = m M =
+11~ X ~ X M M X X X X M M H H = = = =
+12~ m ~ H = = X ~ X X W W H h = = = =
+13~ m M M = = = H = = W W = = = = = =
+14~ M m = = = = H = = W W = = w = = =
+15M M M = = = = h = = w = = = w = = =
+16M X = = = = = = = = w w W w w = = =
+17M X = = = = = = = = = w = = w w w w
+18M X = = = = = = = = = = w w w = = =
 --Asia 2000BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -8546,24 +8546,24 @@ I-Afghanistan
 J-Vietnam
 ==Middle East==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X = = X X X X X X
-2 X X X X X X X X X X = = X X X X X X
-3 = = X X X X X X X X X X X X X X X X
-4 x = X X X X X X X X X X X X X X X X
-5 = X X X X X X X X X X X X X X X X X
-6 = X X X X X X X X X X X X X X X X X
-7 = X X X X X X X X X X X X X X X X X
-8 X X X X X X X X X X X X X X X X X X
-9 X X X X X X X X X = = X X X X X X X
-10= X X X X X X X X X = = X X X X X X
-11X = X X X X X X X X x = = = = X X X
-12X = = X X X X X X X X = = X = = = =
-13X X = X X X X X X X X X X X X = = =
-14X X = = X X X X X X X X X X X X = =
-15X X = = X X X X X X X X X X X = = =
-16X X = = = X X X X X X X X X X = = =
-17X X X = = X X X X X X X X X = = = =
-18X X X X = = X X X X X X = = = = = =
+1 M M M M M M M M M M = = X X X ~ ~ ~
+2 M M M M M M M M M M = = M M M ~ ~ ~
+3 = = X X M M M M M M M M M M M M M M
+4 x = X X X M M M M M ~ ~ ~ ~ ~ ~ M M
+5 = X X X X X X X X M ~ ~ ~ ~ ~ ~ M M
+6 = X X X X X X X X M X X X X X X M M
+7 = X X ~ ~ ~ X X X M M X X X X X M M
+8 X X X ~ ~ ~ ~ X X M M M X X X X M M
+9 X X X ~ ~ ~ ~ X X = = M M X X X M M
+10= H H ~ ~ ~ ~ ~ X X = = M M M M M M
+11~ = H H ~ ~ ~ ~ ~ ~ x = = = = M M M
+12~ = = H H ~ ~ ~ ~ ~ ~ = = X = = = =
+13~ M = H H ~ ~ ~ ~ ~ ~ ~ ~ M M = = =
+14~ M = = H H ~ ~ ~ ~ ~ ~ ~ M M M = =
+15~ M = = H H ~ ~ ~ ~ ~ ~ ~ M M = = =
+16~ M = = = H H ~ ~ ~ ~ ~ ~ M M = = =
+17~ M M = = H H ~ ~ ~ ~ M M M = = = =
+18~ ~ M M = = M M ~ ~ M M = = = = = =
 --Middle East 1200BC--
   a b c d e f g h i j k l m n o p q r
 1 D D D A A X F X X X = = X X X X X X
@@ -9027,23 +9027,23 @@ I-Egypt
 J-Israel
 ==South Asia==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 = = = X X X X X X X X X X X X X X X
-5 = = = = X X X X X X X X X X X X X X
-6 = = = = X X X X X X X X X X X X X X
-7 = = = = = = X X X X X X X X X = = =
-8 = = = = = = X X X X X X X X = = = =
-9 = = = = = = X X X X X X X = = = = =
-10= = = = = = = X X X X X = = = = = =
-11= = = = = = = X X X X = = = = = = =
-12= = = = = = = X X X X = = = = = = =
-13= = = = = = = = X X X = = = = = = =
-14= = = = = = = = X X X = = = = = = =
-15= = = = = = = = X X = = = = = = = =
-16= = = = = = = = = X = X = = = = = =
-17= = = = = = = = = = = X = = = = = =
+1 X X X X X X X X M M M M M M M M M M
+2 X X X X X ~ X X X M M M M M M M M M
+3 X X X X X ~ ~ X X X X X X X X X X X
+4 = = = X X X ~ X X X X X X X X X X X
+5 = = = = X X X X H H X X X X X X X X
+6 = = = = X X X X H H X X X X X X X X
+7 = = = = = = H H H H H H H H H = = =
+8 = = = = = = H H H H H H H H = = = =
+9 = = = = = = H H H H H H H = = = = =
+10= = = = = = = H H H H H = = = = = =
+11= = = = = = = H H H H = = = = = = =
+12= = = = = = = H H H H = = = = = = =
+13= = = = = = = = H H H = = = = = = =
+14= = = = = = = = H H H = = = = = = =
+15= = = = = = = = H H = = = = = = = =
+16= = = = = = = = = H = H = = = = = =
+17= = = = = = = = = = = H = = = = = =
 18= = = = = = = = = = = = = = = = = =
 --South Asia 50AD--
   a b c d e f g h i j k l m n o p q r
@@ -9458,22 +9458,22 @@ F-Bhutan
 G-China --Communist
 ==Southeast Asia==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X = = = = = = = =
-2 X X X X X X X X X X x = = = = = = =
-3 X = X X X X X X = = = = = = = = = =
-4 = = X X X X = = = = = = = = = = = =
-5 = = X X X X X = = = X = = = = = = =
-6 = = = X X X X = = = x x = = = = = =
-7 = = = X = X X = = = x x = = = = = =
-8 = = = x X = = = = = x X = = = = = =
-9 = = = x x = = = X X = = = = = = = =
-10= = = X x x = X X X x x x = = = = =
-11= = = = X x = X X = x = x x x = = =
-12= = = = = X = = = = x = x = X X X X
-13= = = = = = x X x x = = = = = = X X
-14= = = = = = = = = = x x = = = = = =
-15= = = = = = = = = = = = = X X = X =
-16= = = = = = = = = = = = X X X = X X
+1 X X X M M M H H H H = = = = = = = =
+2 X X X M M M H H H H h = = = = = = =
+3 X = W W X W H H = = = = = = = = = =
+4 = = W W X W = = = = = = = = = = = =
+5 = = W W X X W = = = W = = = = = = =
+6 = = = W T T W = = = w w = = = = = =
+7 = = = T = T T = = = w w = = = = = =
+8 = = = t W = = = = = w W = = = = = =
+9 = = = w w = = = W W = = = = = = = =
+10= = = W t t = T W W w w w = = = = =
+11= = = = W t = T T = w = w w w = = =
+12= = = = = W = = = = w = w = W W W W
+13= = = = = = w W w w = = = = = = W W
+14= = = = = = = = = = w w = = = = = =
+15= = = = = = = = = = = = = H H = H =
+16= = = = = = = = = = = = ~ ~ ~ = ~ ~
 17= = = = = = = = = = = X X X X X X X
 18= = = = = = = = = X X X X X X X X X
 --Southeast Asia 700AD--
@@ -9833,24 +9833,24 @@ I-China --Communist
 J-India
 ==Central Asia==
   a b c d e f g h i j k l m n o p q r
-1 = X X X X X X X X X X X X X X X X X
-2 = X X X = = X X X X X X X X X X X X
-3 x X X X = = X X X X X X X X X X X X
-4 x X X X X X X X X X X X X X X X X X
-5 = X X X X X X X X X X X X X X X X X
-6 = = X X X X X X X X X X X X X X X X
-7 = X X X X X X X X X X X X X X X X X
-8 = X X X X X X X X X X X X X X X X X
-9 = X X X X X X X X X X X X X X X X X
-10= = X X X X X X X X X X X X X X X X
-11X X X X X X X X X X X X X X X X X X
-12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X X X X X X X X X X X X X X X X X X
-16X X X X X X X X X X X X X X X X X X
-17X X X X X X X X X X X X X X X X X X
-18= X X X X X X X X X X X X X X X X X
+1 = X X X X X X X X X ~ ~ ~ ~ ~ ~ ~ ~
+2 = X X X = = ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+3 x X X X = = ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+4 x X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+5 = X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+6 = = X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+7 = X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+8 = X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+9 = X X X ~ ~ ~ ~ ~ ~ ~ M M M M M M M
+10= = M M M M M M M M M M M M M M M M
+11M M M ~ M M X X X X X X M M X X X X
+12~ ~ ~ ~ ~ M X X X X X X M M X X X X
+13~ ~ ~ ~ ~ M X X X X X M M X X X X X
+14X X X X X M X X X X M M X X X X X X
+15X X X X X M X X X X M M X X X X X X
+16X X X X X M X X X M M X X X X X X X
+17X X X X X M X X X M M X X X X X X X
+18= X X X X M M M M M M X X X X X X X
 --Central Asia 600BC--
   a b c d e f g h i j k l m n o p q r
 1 = X X X X X X X X X X X X X X X X X
@@ -10346,24 +10346,24 @@ I-Kyrgyzstan --c-Turkic
 J-Tajikistan --c-Turkic
 ==Levant==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 = X X = = = X X X X X X X X X X X X
-5 = = = = = = X X X X X X X X X X X X
-6 = X X X = = X X X X X X X X X X X X
-7 = = = = = = X X X X X X X X X X X X
-8 = = = = = X X X X X X X X X X X X X
-9 = = = = = X X X X X X X X X X X X X
-10= = = = X X X X X X X X X X X X X X
-11= = = = X X X X X X X X X X X X X X
-12X = = = X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X x X X x X X X X X X X X X X X X X
-16X x x X x X X X X X X X X X X X X X
-17X X x x x X X X X X X X X X X X X X
-18X X X = = X X X X X X X X X X X X X
+1 M M M M M M M M M M M M M M M M M M
+2 M M M M M M M M M M M M M M M M M M
+3 M M M M M M M M M M M M M M M M M M
+4 = M M = = = X X X M M M M M M M M M
+5 = = = = = = X X X M M M M M M M M M
+6 = X X X = = X X X X X X X X X X X M
+7 = = = = = = X X X ~ ~ X X X X X X M
+8 = = = = = X X ~ ~ ~ ~ ~ ~ ~ X X X M
+9 = = = = = X X ~ ~ ~ ~ ~ ~ ~ X X X X
+10= = = = X X X ~ ~ ~ ~ ~ ~ ~ X X X X
+11= = = = X X X ~ ~ ~ ~ ~ ~ ~ X X X X
+12~ = = = X X X ~ ~ ~ ~ ~ ~ ~ ~ X X X
+13~ X X X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X
+14~ X X X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+15~ x X X x X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+16~ x x X x H H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+17~ X x x x H H ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+18~ X X = = H H X X X X X X X X X X X
 --Levant 3000BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -10775,24 +10775,24 @@ I-Lebanon
 J-Iran
 ==Arabian Penninsula==
   a b c d e f g h i j k l m n o p q r
-1 = = X X X X X X X X X X X X X X X X
-2 = = X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X = X X X X X X
-5 X X = X X X X X X X X = x X X X X X
-6 X X = X X X X X X X X X = = = = X X
-7 X X = = X X X X X X X X X = = x = =
-8 X X X = X X X X X X X X X X X X = =
-9 X X X = = X X X X X X X X X X X X =
-10X X X X = X X X X X X X X X X X X =
-11X X X X = = X X X X X X X X X X = =
-12X X X X = = X X X X X X X X X X = =
-13X X X X X = = X X X X X X X X = = =
-14X X X X X = = X X X X X X = = = = =
-15X X X X X X = x X X X = = = = = = =
-16X X X X X X X x x = = = = = = = = =
-17X X X X X X X X = = = = = = = = = =
-18X X X X X X X X X X X X = = = = = =
+1 = = X X X X X X X X X M M M X X X X
+2 = = X X ~ ~ ~ ~ ~ X X X X M X X X X
+3 X ~ X X ~ ~ ~ ~ ~ X X X X M M X X X
+4 X ~ ~ H ~ ~ ~ ~ ~ ~ X = X M M M M M
+5 X ~ = H ~ ~ ~ ~ ~ ~ ~ = m M M M M M
+6 X ~ = H H ~ ~ ~ ~ ~ ~ ~ = = = = M M
+7 X ~ = = H ~ ~ ~ ~ ~ ~ ~ ~ = = x = =
+8 X ~ M = H H ~ ~ ~ ~ ~ ~ ~ ~ M M = =
+9 X ~ M = = H ~ ~ ~ ~ ~ ~ ~ ~ M M M =
+10~ ~ M M = H H ~ ~ ~ ~ ~ ~ ~ M M M =
+11~ ~ ~ M = = M ~ ~ ~ ~ ~ ~ ~ H H = =
+12~ ~ ~ M = = M M ~ ~ ~ ~ ~ ~ H H = =
+13~ ~ ~ ~ M = = M ~ ~ ~ ~ ~ H H = = =
+14~ ~ ~ M X = = M H H M M M = = = = =
+15~ ~ M X X X = M M M M = = = = = = =
+16~ M M X X X X m m = = = = = = = = =
+17M M X X M M M M = = = = = = = = = =
+18M M X X M M M M H H H H = = = = = =
 --Arabian Penninsula 900BC--
   a b c d e f g h i j k l m n o p q r
 1 = = G H X X X X A X X X X X X X X X
@@ -11161,19 +11161,19 @@ Q-Djibouti
 3 = = = X X X X X X X X X X X X = = =
 4 X x X X X X X X X X X X X X = = = =
 5 = = X X X X X X X X X X X X = = = =
-6 = = = = X X X X X X X X X X = = = =
-7 = = = = = X X X X X X X X X = = = =
-8 = = = = = = X X X X X X X X = = = =
-9 = = = = = = = X X X X X X X X = = =
-10= = = = = = = = X X X X X X X = = =
-11X = = = = = = X X X X X X X X X = =
-12X X X = X = X X X X X X X X X X X =
-13X X X X X X X X X X X X X X X X X x
-14X X X X X X X X X X X X X X X X X =
-15X X X X X X X X X X X X X X X X X =
-16X X X X X X X X X X X X X X X X = =
-17X X X X X X X X X X X X X X X X = =
-18X X X X X X X X X X X X X X X X = =
+6 = = = = H H H H H H H H H H = = = =
+7 = = = = = H H H H H H H H H = = = =
+8 = = = = = = H H H H H H H H = = = =
+9 = = = = = = = H H H H H H H H = = =
+10= = = = = = = = M M M M M M M = = =
+11M = = = = = = M M M M M M M M M = =
+12M M M = M = M M M M M M M M M M M =
+13M M M M M M M M M M M M M M M M M m
+14M M M M M M M M M M M M M M M M M =
+15M M M M M M M M M M M M M M M M M =
+16M M M M M M M M M M M M M M M M = =
+17M M M M M M M M M M M M M M M M = =
+18M M M M M M M M M M M M M M M M = =
 --Caucasus 300BC--
   a b c d e f g h i j k l m n o p q r
 1 X = = E E E X X X X X X X X X X X X
@@ -11415,24 +11415,24 @@ G-Kazakhstan
 H-Ukraine
 ==Iran==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X = = = = = = X X X X X X X
-2 X X X X X X X = = = = X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X X X
-6 X X X X X X X X X X X X X X X X X X
-7 X X X X X X X X X X X X X X X X X X
-8 X X X X X X X X X X X X X X X X X X
-9 X X X X X X X X X X X X X X X X X X
-10X X X X X X X X X X X X X X X X X X
-11X X X X X X X X X X X X X X X X X X
-12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X = = = X X X X X X X X X X X
-15X X X X = = = X X X X X X X X X X X
-16X X X X = = = X X X X X X X X X X X
-17X X X X X = = = X X X X X X X X X X
-18X X X X X X = = = = X X X X X X X X
+1 M M M M M = = = = = = M M M M M M M
+2 M M M M M M M = = = = M M M M M M M
+3 M M M M M M M M M M M M M M M M M M
+4 M M M M M M M M ~ ~ ~ ~ ~ ~ ~ ~ M M
+5 M M M M M M M ~ ~ ~ ~ ~ ~ ~ ~ ~ M M
+6 X M M M M M M ~ ~ ~ ~ ~ ~ ~ ~ ~ M M
+7 X M M M M M X X X X X X X X X X M M
+8 X M M M M M X X X X X X X X X X M M
+9 X X M M M M X X X X X X X X X X M M
+10X X X M M M X X X X X X X X X X M M
+11X X X X M M M M X X X X X X X X M M
+12~ X X X X X X M M X X X X X X X M M
+13~ ~ X X X X X M M X X X X X X X M M
+14~ ~ X X = = = M M X X X X X X X M M
+15~ ~ ~ ~ = = = M M X X X X X X X M M
+16~ ~ ~ ~ = = = M M M M M M M M M M M
+17~ ~ ~ ~ ~ = = = M M M M M M M M M M
+18~ ~ ~ ~ ~ ~ = = = = M M M M M M M M
 --Iran 700BC--
   a b c d e f g h i j k l m n o p q r
 1 E E E X X = = = = = = X X X X X X X
@@ -11590,24 +11590,24 @@ D-Kuwait
 E-Turkmenistan
 ==Turkey==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X = X X = = X X X X X X
-2 X X X X X X X = = X x X X X X X X =
-3 X X X X X X = = = = = = X X X X X =
-4 X X X X X X = = = = = = = X X X X =
-5 X X X X X X = = X X = = = = X X X X
-6 X X X X x x x X X X X X X X X X X X
-7 X X x = x X X X X X X X X X X X X X
-8 = X X x x X X X X X X X X X X X X X
-9 = X X x x X X X X X X X X X X X X X
-10= = = = x x X = X = X X X X X X X X
-11= = = X = = = = x = X X X X X X X X
-12= = = = = = = = = = X X X X X X X X
-13= X X = = = = = = = X X X X X X X X
-14= X X X = = = = = X X X X X X X X X
-15X X X X X X X X X X X X X X X X X =
-16X X X X X X X X X X X X X X X X X =
-17X X X X X X X X X = X X X X X X X X
-18X X X X X X X X X = X X X X X X X X
+1 X X X M X X X = X X = = X X X X X X
+2 X X X M X X X = = X x X X X X X X =
+3 X X X X X X = = = = = = M M M M M =
+4 M M M M M M = = = = = = = M M M M =
+5 M M M M X X = = M M = = = = M M M M
+6 M M M M x x x X X M M M M M M M M M
+7 M M m = x X X X X H H M M M M M M M
+8 = M M x x X X X H H M M M M M M M M
+9 = M M x x X M M M M M M M M M M M M
+10= = = = x x M = M = X X X M M M M M
+11= = = M = = = = x = X X ~ ~ ~ ~ ~ M
+12= = = = = = = = = = X X ~ ~ ~ ~ ~ M
+13= M M = = = = = = = X X ~ ~ ~ ~ X M
+14= ~ ~ ~ = = = = = X X X ~ ~ ~ ~ X X
+15~ ~ ~ ~ ~ ~ ~ X ~ X X H H ~ ~ ~ X =
+16~ ~ ~ ~ ~ ~ ~ X ~ ~ H H ~ ~ ~ ~ ~ =
+17~ ~ ~ ~ ~ ~ ~ X ~ = H ~ ~ ~ ~ ~ ~ ~
+18~ ~ ~ ~ ~ ~ ~ X ~ = H ~ ~ ~ ~ ~ ~ ~
 --Turkey 1500BC--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X = X X = = X X X X X X
@@ -12650,24 +12650,24 @@ V-Macedonia
 W-Kuwait
 ==Siam==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X X
-4 X X X X X X X X X X X X X X X X X X
-5 X X X X X X X X X X X X X X X X = =
-6 = = = X X X X X X X X X = x = = = =
-7 = = = = X X X X X X X = = X = = = =
-8 = = = = X X X X X X X X = = = = = =
-9 = = = = X X X X X X X X = = = = = =
-10= = = = = = X X X X X X X = = = = =
-11= = = = = = X X X X X X X = = = = =
-12= = = = = = = X = X X X X = = = = =
-13= = = = = = = X = X X X X = = = = =
-14= = = = = = = X = = X X = = = = = =
-15= = = = = = = X = = = = = = = = = =
-16= = = = = = = X X = = = = = = = = =
-17= = = = = = = = X X = = = = = = = X
-18= = = = = X X = X X = = = = = = X X
+1 M M M M M M M M M M M H H H H H H H
+2 M M M M M M M M M M M H H H H H H H
+3 X T T T T M M M M M M H H H H H H H
+4 X T T T T W W W W W W H H H H H H H
+5 X T T W W W X W W W W H H H H H = =
+6 = = = W W W X X X W W W = h = = = =
+7 = = = = W W X X X X W = = H = = = =
+8 = = = = W W T T X X W W = = = = = =
+9 = = = = W W W T T X W W = = = = = =
+10= = = = = = W T T X X W W = = = = =
+11= = = = = = W W T T X W W = = = = =
+12= = = = = = = W = T T T T = = = = =
+13= = = = = = = T = T T T T = = = = =
+14= = = = = = = T = = T T = = = = = =
+15= = = = = = = T = = = = = = = = = =
+16= = = = = = = T W = = = = = = = = =
+17= = = = = = = = W W = = = = = = = T
+18= = = = = W T = W W = = = = = = T W
 --Siam 200AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X C C C C C C C C C
@@ -13243,20 +13243,20 @@ M-Nepal
   a b c d e f g h i j k l m n o p q r
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-3 = = X = X X = = = = = = = x = = = =
-4 = = X = = X = = = = = = = x x = = =
-5 = = X x = = = = = = = = = X X = = =
-6 = = = X = = = = = x X = = = = = = =
-7 = X = x = = = = = X X = = = = = = =
-8 = = X = x = = X X X X = x x = x = =
-9 = = x X = = = X X X X x = = = x = X
-10= = = X X X = X X X = x x = = x x X
-11= = = = X x = = = = = x x = = = = =
-12= = = = = x X = = = = = = = = = = =
-13= = = = = = x X X x x x x x x x x =
-14= = = = = = = = = = = x x x = = = =
-15= = = = = = = = = = = = = = = = X X
-16= = = = = = = = = = = = = = = = X X
+3 = = T = T T = = = = = = = w = = = =
+4 = = T = = T = = = = = = = w w = = =
+5 = = T w = = = = = = = = = W W = = =
+6 = = = W = = = = = w W = = = = = = =
+7 = W = w = = = = = W W = = = = = = =
+8 = = W = w = = T T W W = w w = w = =
+9 = = w T = = = T X W W w = = = w = W
+10= = = W T T = T T T = w w = = w w T
+11= = = = W t = = = = = w w = = = = =
+12= = = = = w T = = = = = = = = = = =
+13= = = = = = w W W w w w w w w w w =
+14= = = = = = = = = = = w w w = = = =
+15= = = = = = = = = = = = = = = = H H
+16= = = = = = = = = = = = = = = = H H
 170 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 180 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 --Indonesia 800AD--
@@ -13541,24 +13541,24 @@ I-Cambodia
 J-Australia
 ==Philippines==
   a b c d e f g h i j k l m n o p q r
-1 = = = = = = = X X X = = = = = = = =
-2 = = = = = = = X X X = = = = = = = =
-3 = = = = = = = X X = = = = = = = = =
-4 = = = = = = = X X = = = = = = = = =
-5 = = = = = = = = X = = = = = = = = =
-6 = = = = = = = = = x X X = = = = = =
-7 = = = = = = = = X = = X = = = = = =
-8 = = = = = = = = = = = x X X = = = =
-9 = = = = = = = = = X x = = X = = = =
-10= = = = = = X = = X = = x = = = = =
-11= = = = = X x = = = X x = = = = = =
-12= = = = X x = = = = X = = = = = = =
-13= = = = X = = = = = = = = X = = = =
-14= = = = = = = = = = X X X X X = = =
-15= = = = = = = = = = = = X X X = = =
-16= = = X = = = = = = = = X X = = = =
-17= = X X X = = = = = = = = X = = = =
-18= = X X X X = = = = = = = = = = = =
+1 = = = = = = = W W W = = = = = = = =
+2 = = = = = = = W W W = = = = = = = =
+3 = = = = = = = W W = = = = = = = = =
+4 = = = = = = = W W = = = = = = = = =
+5 = = = = = = = = W = = = = = = = = =
+6 = = = = = = = = = w W W = = = = = =
+7 = = = = = = = = W = = W = = = = = =
+8 = = = = = = = = = = = w W W = = = =
+9 = = = = = = = = = W w = = W = = = =
+10= = = = = = W = = W = = w = = = = =
+11= = = = = W w = = = W w = = = = = =
+12= = = = W w = = = = W = = = = = = =
+13= = = = W = = = = = = = = W = = = =
+14= = = = = = = = = = W W W W W = = =
+15= = = = = = = = = = = = W W W = = =
+16= = = W = = = = = = = = W W = = = =
+17= = W W W = = = = = = = = W = = = =
+18= = W W W W = = = = = = = = = = = =
 --Philippines 1550AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = X X X = = = = = = = =
@@ -13607,86 +13607,24 @@ B-Maguindanao
 C-Sulu
 ==China==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X X X X X X
-2 X X X X X X X X X X X X X X X X X X
-3 X X X X X X X X X X X X X X X X X =
-4 X X X X X X X X X X X X = X X X X =
-5 X X X X X X X X X X X = x = X X = =
-6 X X X X X X X X X X X = = = X X X =
-7 X X X X X X X X X X X X X = = X X =
-8 X X X X X X X X X X X = = = = X X =
-9 X X X X X X X X X X X = = = = = = =
-10X X X X X X X X X X X X = = = X = X
-11X X X X X X X X X X X X = = = = = X
-12X X X X X X X X X X X X = = = = = =
-13X X X X X X X X X X X X = = = = = =
-14X X X X X X X X X X X X = = = = = =
-15X X X X X X X X X X X X = = = = = =
-16X X X X X X X X X X X = = = = = = =
-17X X X X X X X X X X = x X = = = = =
-18X X X X X X X X X = = X X = = = = =
---China 700BC--
-  a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X E E E E E E E = =
-2 X X X X X X X X E E E E E E E = = =
-3 X X X X X X X C C E E E E = = = = =
-4 X X X X X X C C C C E E E = = = = =
-5 X X X X X C C C C C C D D D = = = =
-6 X X X X C C C C C C C D D D = = D d
-7 X X X X C C C C C C C D D D D D D d
-8 X X X C C C C C C C C D D D D D D =
-9 A A C C C C C C C J J G G G D = = =
-10A A A C C I H H H J O G M G G = = =
-11A A A C I I I H H K K K M F F F = =
-12A A A C B B B H L L K K B B F F = =
-13X X B B B B B N N L L B B B F F F =
-14X X B B B B B B B B B B B F F F F =
-15X X X B B B B B B B B B F F F F F F
-16X X X B B B B B B B B B F F F F F F
-17X X X B B B B B B B B B F F F F F F
-18X X X B B B B B B B B B F F F F F F
-A-Qin --c-Chinese
-B-Chu --c-Chinese
-C-Jin --c-Chinese
-D-Qi --c-Chinese
-E-Yan --c-Chinese
-F-Wu --c-Chinese
-G-Lu --c-Chinese
-H-Zheng --c-Chinese
-I-Zhou --c-Chinese
-J-Wei --c-Chinese
-K-Song --c-Chinese
-L-Chen --c-Chinese
-M-Deng --c-Chinese
-N-Cai --c-Chinese
-O-Cao --c-Chinese
---China 230BC--
-  a b c d e f g h i j k l m n o p q r
-1 A F F F C C C C C E E E E E E E = =
-2 A F F F C C C C E E E E E E E = = =
-3 A F F F C C C C C E E E E = = = = =
-4 A F F C C C C C C C E E E = = = = =
-5 A F F F C C C C C C C D D D = = = =
-6 A F F F C C C C C C C D D D = = D d
-7 A A F F C C C C C C C D D D D D D d
-8 A A F C C C C C C C C D D D D D D =
-9 A A C C C C C C C G G B D D D = = =
-10A A C C C C C B C G B B B D D = = =
-11A A A A A A A B B B B B B B B B = =
-12A A A A A A A B B B B B B B B B = =
-13A A A A A A A B B B B B B B B B B =
-14A A A A A A A B B B B B B B B B B =
-15A A A A A A A A B B B B B B B B B B
-16A A A A A A A A A A A B B B B B B B
-17A A A A A A A A A A A B B B B B B B
-18A A A A A A A A A A A B B B B B B B
-A-Qin --c-Chinese
-B-Chu --c-Chinese
-C-Zhao --c-Chinese
-D-Qi --c-Chinese
-E-Yan --c-Chinese
-F-Wei --c-Chinese
-G-Wey --c-Chinese
+1 ~ ~ ~ ~ ~ ~ ~ M M H H X X H H M M M
+2 ~ ~ ~ ~ ~ ~ M M X X X X X X X M M M
+3 ~ ~ ~ ~ ~ ~ M M X X X X X X M M M =
+4 ~ ~ ~ ~ ~ M M X X X X X = X M M M =
+5 ~ ~ ~ ~ ~ M M X X X X = x = X M = =
+6 ~ ~ ~ ~ ~ M M X X X X = = = X M M =
+7 ~ ~ ~ ~ ~ H H X X X X X X = = X M =
+8 ~ ~ ~ ~ H H H X X X X = = = = X X =
+9 M M M M H H H X X X X = = = = = = =
+10M X X X X H H X X X X X = = = H = M
+11M X X X X X H H H H H H = = = = = M
+12M X X X X X X H H H H H = = = = = =
+13M X X X X H H H H H H H = = = = = =
+14M X X X X H H H H H H H = = = = = =
+15M M H H H H H H H H H H = = = = = =
+16M M H H H H H H H H H = = = = = = =
+17M M M H H H H H H H = h H = = = = =
+18M M M H H H H H H = = H H = = = = =
 --China 250AD--
   a b c d e f g h i j k l m n o p q r
 1 X X X X X X X X X X X X X X X X X X
@@ -14108,26 +14046,108 @@ C-South Korea --c-Korean
 D-North Korea --c-Korean --Communist
 E-Japan
 F-Mongolia
+==Northern China==
+  a b c d e f g h i j k l m n o p q r
+1 X X X X X X X X X X X X X X X X = =
+2 X X X X X X X X X X X X X X X = = =
+3 X X X X X X X X X X X X X = = = = =
+4 X X X X X X X X X X X X X = = = = =
+5 X X X X X X X X X X X X X X = = = =
+6 X X X X X X X X X X X X X X = = X x
+7 X X X X X X X X X X X X X X X X X x
+8 X X X X X X X X X X X X X X X X X =
+9 X X X X X X X X X X X X X X X = = =
+10X X X X X X X X X X X X X X X = = =
+11X X X X X X X X X X X X X X X X = =
+12X X X X X X X X X X X X X X X X = =
+13X X X X X X X X X X X X X X X X X =
+14X X X X X X X X X X X X X X X X X =
+15X X X X X X X X X X X X X X X X X X
+16X X X X X X X X X X X X X X X X X X
+17X X X X X X X X X X X X X X X X X X
+18X X X X X X X X X X X X X X X X X X
+--Northern China 700BC--
+  a b c d e f g h i j k l m n o p q r
+1 X X X X X X X X X E E E E E E E = =
+2 X X X X X X X X E E E E E E E = = =
+3 X X X X X X X C C E E E E = = = = =
+4 X X X X X X C C C C E E E = = = = =
+5 X X X X X C C C C C C D D D = = = =
+6 X X X X C C C C C C C D D D = = D d
+7 X X X X C C C C C C C D D D D D D d
+8 X X X C C C C C C C C D D D D D D =
+9 A A C C C C C C C J J G G G D = = =
+10A A A C C I H H H J O G M G G = = =
+11A A A C I I I H H K K K M F F F = =
+12A A A C B B B H L L K K B B F F = =
+13X X B B B B B N N L L B B B F F F =
+14X X B B B B B B B B B B B F F F F =
+15X X X B B B B B B B B B F F F F F F
+16X X X B B B B B B B B B F F F F F F
+17X X X B B B B B B B B B F F F F F F
+18X X X B B B B B B B B B F F F F F F
+A-Qin --c-Chinese
+B-Chu --c-Chinese
+C-Jin --c-Chinese
+D-Qi --c-Chinese
+E-Yan --c-Chinese
+F-Wu --c-Chinese
+G-Lu --c-Chinese
+H-Zheng --c-Chinese
+I-Zhou --c-Chinese
+J-Wei --c-Chinese
+K-Song --c-Chinese
+L-Chen --c-Chinese
+M-Deng --c-Chinese
+N-Cai --c-Chinese
+O-Cao --c-Chinese
+--Northern China 230BC--
+  a b c d e f g h i j k l m n o p q r
+1 A F F F C C C C C E E E E E E E = =
+2 A F F F C C C C E E E E E E E = = =
+3 A F F F C C C C C E E E E = = = = =
+4 A F F C C C C C C C E E E = = = = =
+5 A F F F C C C C C C C D D D = = = =
+6 A F F F C C C C C C C D D D = = D d
+7 A A F F C C C C C C C D D D D D D d
+8 A A F C C C C C C C C D D D D D D =
+9 A A C C C C C C C G G B D D D = = =
+10A A C C C C C B C G B B B D D = = =
+11A A A A A A A B B B B B B B B B = =
+12A A A A A A A B B B B B B B B B = =
+13A A A A A A A B B B B B B B B B B =
+14A A A A A A A B B B B B B B B B B =
+15A A A A A A A A B B B B B B B B B B
+16A A A A A A A A A A A B B B B B B B
+17A A A A A A A A A A A B B B B B B B
+18A A A A A A A A A A A B B B B B B B
+A-Qin --c-Chinese
+B-Chu --c-Chinese
+C-Zhao --c-Chinese
+D-Qi --c-Chinese
+E-Yan --c-Chinese
+F-Wei --c-Chinese
+G-Wey --c-Chinese
 ==Korea==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X X X = = = = =
-2 X X X X X X X X X X X X = = = = = =
-3 X X X X X X X X X X X = = = = = = =
-4 X X X X X X X X X X X = = = = = = =
-5 = X X X X X X X X X = = = = = = = =
-6 = X X X X X X X X = = = = = = = = =
-7 x = = = = X X X = = = = = = = = = =
-8 = = = = = X X X X = = = = = = = = =
-9 = = = = X X X X X = = = = = = = = =
-10= = = = X X X X X X = = = = = = = =
-11X X = = = = = X X X X = = = = = = =
-12= = = = = = X X X X X = = = = = = =
-13= = = = = = = X X X X = = = = = = =
-14= = = = = = = X X X X = = = = x x X
-15= = = = = = X X X X = = = = X X X X
-16= = = = = = = = = = = = = X X X x x
-17= = = = = = = = = = = = x x x x x x
-18= = = = = = X X = = = X X x x X = =
+1 X X X X X M M M M M M M M = = = = =
+2 X X X X X M M M M M M M = = = = = =
+3 X X X X X M M M M M M = = = = = = =
+4 X X X X M M M M M M M = = = = = = =
+5 = X X M M M M M M M = = = = = = = =
+6 = X M M M M M M M = = = = = = = = =
+7 x = = = = X M M = = = = = = = = = =
+8 = = = = = X M M M = = = = = = = = =
+9 = = = = X X X M M = = = = = = = = =
+10= = = = X H H M M M = = = = = = = =
+11X X = = = = = M M M M = = = = = = =
+12= = = = = = X H H M M = = = = = = =
+13= = = = = = = X H H M = = = = = = =
+14= = = = = = = X H H X = = = = m m M
+15= = = = = = X X X X = = = = M M M M
+16= = = = = = = = = = = = = M M M m m
+17= = = = = = = = = = = = m m m m m m
+18= = = = = = H H = = = M M m m M = =
 --Korea 0AD--
   a b c d e f g h i j k l m n o p q r
 1 J J J I I I I I I I A A I = = = = =
@@ -14284,22 +14304,22 @@ D-Japan
 E-Russia
 ==Japan==
   a b c d e f g h i j k l m n o p q r
-1 X X X X X X X X X X X = = X X = = =
-2 X X X X X X X X X X X = = = = = = =
-3 X X X X X X X X X X = = = X X = = =
-4 X X X X X X X X X = = = = X X X = =
-5 X X X X X X = = = = = = X X X X = =
-6 X X X X X = = = = = = = x = = = = =
-7 X X X X X = = = = = = = x x = = = =
-8 X X X X = = = = = = = = X X = = = =
-9 = = X X = = = = = = = = X X = = = =
-10= = X X X = = = = = = X X = = = = =
-11= = X X X = = = = = X X X = = = = =
-12= = = X X = = = = X X X X = = = = =
-13= = X X = = X X X X X = = = = = = =
-14= = X = = X X X X X = = = = = = = =
-15= = = = = X X = = = = = = = = = = =
-16= = = = = X = = = = = = = = = = = =
+1 X X X X M M M M M M M = = M M = = =
+2 X X X X M M M M M M M = = = = = = =
+3 X X X X M M M M M M = = = M M = = =
+4 X X X X X M M M M = = = = M M M = =
+5 X X X M M M = = = = = = M M M M = =
+6 X X M M M = = = = = = = m = = = = =
+7 X M M M M = = = = = = = m m = = = =
+8 M M M M = = = = = = = = M M = = = =
+9 = = X M = = = = = = = = M M = = = =
+10= = X M M = = = = = = M M = = = = =
+11= = X M M = = = = = M M M = = = = =
+12= = = X X = = = = M M M M = = = = =
+13= = X X = = M M M M M = = = = = = =
+14= = X = = M M M M M = = = = = = = =
+15= = = = = M M = = = = = = = = = = =
+16= = = = = M = = = = = = = = = = = =
 17= = = = = = = = = = = = = = = = = =
 18= = = = = = = = = = = = = = = = = =
 --Japan 600AD--
@@ -14328,45 +14348,6 @@ C-Goguryeo --c-Korean
 D-Silla --c-Korean
 E-Baekje --c-Korean
 F-Gokturks
---Japan 1570AD--
-  a b c d e f g h i j k l m n o p q r
-1 = = = = = = = = = = = = = = = = = =
-2 = = = = = = = = = = = = = = = = = =
-3 = = = = = = = = = = = = = = = = = =
-4 = = = = = = = = = = = = = = = = = =
-5 = = = = = = = = = = = = = = = G G =
-6 = = = = = = = = = = = = = = = G G =
-7 = = = = = = = = = = = = = = X X G =
-8 = = = = = = = = = = = = = = X X X =
-9 = = = = = = = = = = X = = D R Q = =
-10= = = = = L = = = P X D D S Q = = =
-11= = f e E E X X O A B B C J J = = =
-12= M F f x x i i A A N B C J = = = =
-13= H X f X K K x A A N B C C = = = =
-14= H H = = = = = = = = = = = = = = =
-15= = = = = = = = = = = = = = = = = =
-16= = = = = = = = = = = = = = = = = =
-17= = = = = = = = = = = = = = = = = =
-18= = = = = = = = = = = = = = = = = =
-A-Oda --c-Japanese
-B-Takeda --c-Japanese
-C-Late Hojo --c-Japanese
-D-Uesugi --c-Japanese
-E-Mori --c-Japanese
-F-Otomo --c-Japanese
-G-Nanbu --c-Japanese
-H-Shimazu --c-Japanese
-I-Miyoshi --c-Japanese
-J-Satake --c-Japanese
-K-Chosokabe --c-Japanese
-L-Amago --c-Japanese
-M-Ryuzoji --c-Japanese
-N-Tokugawa --c-Japanese
-O-Azai --c-Japanese
-P-Asakura --c-Japanese
-Q-Date --c-Japanese
-R-Mogami --c-Japanese
-S-Ashina --c-Japanese
 --Japan 1700AD--
   a b c d e f g h i j k l m n o p q r
 1 D D D D D D D D D D D = = X X = = =
@@ -14416,26 +14397,85 @@ B-China --Communist
 C-South Korea --c-Korean
 D-North Korea --c-Korean --Communist
 E-Russia
+==Southern Japan==
+  a b c d e f g h i j k l m n o p q r
+1 = = = = = = = = = = = = = = = = = =
+2 = = = = = = = = = = = = = = = = = =
+3 = = = = = = = = = = = = = = = = = =
+4 = = = = = = = = = = = = = = = = = =
+5 = = = = = = = = = = = = = = = M M =
+6 = = = = = = = = = = = = = = = M M =
+7 = = = = = = = = = = = = = = M M M =
+8 = = = = = = = = = = = = = = M M M =
+9 = = = = = = = = = = M = = M M M = =
+10= = = = = M = = = M M M M M M = = =
+11= = m m M M M M M M M M M M M = = =
+12= M M m m m m m M M M M M M = = = =
+13= M M m M M M m M M M M M M = = = =
+14= M M = = = = = = = = = = = = = = =
+15= = = = = = = = = = = = = = = = = =
+16= = = = = = = = = = = = = = = = = =
+17= = = = = = = = = = = = = = = = = =
+18= = = = = = = = = = = = = = = = = =
+--Southern Japan 1570AD--
+  a b c d e f g h i j k l m n o p q r
+1 = = = = = = = = = = = = = = = = = =
+2 = = = = = = = = = = = = = = = = = =
+3 = = = = = = = = = = = = = = = = = =
+4 = = = = = = = = = = = = = = = = = =
+5 = = = = = = = = = = = = = = = G G =
+6 = = = = = = = = = = = = = = = G G =
+7 = = = = = = = = = = = = = = X X G =
+8 = = = = = = = = = = = = = = X X X =
+9 = = = = = = = = = = X = = D R Q = =
+10= = = = = L = = = P X D D S Q = = =
+11= = f e E E X X O A B B C J J = = =
+12= M F f x x i i A A N B C J = = = =
+13= H X f X K K x A A N B C C = = = =
+14= H H = = = = = = = = = = = = = = =
+15= = = = = = = = = = = = = = = = = =
+16= = = = = = = = = = = = = = = = = =
+17= = = = = = = = = = = = = = = = = =
+18= = = = = = = = = = = = = = = = = =
+A-Oda --c-Japanese
+B-Takeda --c-Japanese
+C-Late Hojo --c-Japanese
+D-Uesugi --c-Japanese
+E-Mori --c-Japanese
+F-Otomo --c-Japanese
+G-Nanbu --c-Japanese
+H-Shimazu --c-Japanese
+I-Miyoshi --c-Japanese
+J-Satake --c-Japanese
+K-Chosokabe --c-Japanese
+L-Amago --c-Japanese
+M-Ryuzoji --c-Japanese
+N-Tokugawa --c-Japanese
+O-Azai --c-Japanese
+P-Asakura --c-Japanese
+Q-Date --c-Japanese
+R-Mogami --c-Japanese
+S-Ashina --c-Japanese
 ==Russia==
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
-2 = = = = X = = = = = = X X X X = = =
-3 = = = X = = = = = X X X X X X = = =
-4 = = X = = = = = X X X X X X X X = =
-5 = = X = = X X X X X X X X X X X X X
-6 = = = = = X X X X X X X X X X X X X
-7 = = = = X X X X X X X X X X X X X X
-8 X X X X X X X X X X X X X X X X X X
-9 X X X X X X X X X X X X X X X X X X
-10X X X X X X X X X X X X X X X X X X
-11X X X X X X X X X X X X X X X X X X
-12X X X X X X X X X X X X X X X X X X
-13X X X X X X X X X X X X X X X X X X
-14X X X X X X X X X X X X X X X X X X
-15X X X X X X X X X X X X X X X X X X
-16X X X X X X X X X X X X X X X X X X
-17X = X X X X X X X X X X X X X X X X
-18X = X X X X X X X X X X X X X X X X
+2 = = = = * = = = = = = * * * * = = =
+3 = = = * = = = = = * * * * * * = = =
+4 = = * = = = = = * * * * * * * * = =
+5 = = * = = * * * * * * * * * * * * M
+6 = = = = = X X H H H H H H H H H M M
+7 = = = = X X X H H H H H H H H M M M
+8 X X M M X X X H H H H H H H M M M M
+9 X X M M X X X X H H H H H H M M M M
+10X X M M X X X X X X H H H H M M M M
+11X X M M X X X X X X H H M M M M M M
+12X X M M X X X X X X H M M M M M M M
+13X X M M X X X X X X M M M M M M M M
+14X X M M X X X X X M M M M M M M M M
+15X X X X X ~ ~ ~ ~ M M M M M M M M M
+16X X X X X ~ ~ ~ ~ M M ~ ~ ~ ~ ~ M M
+17X = X X X ~ ~ ~ M ~ ~ ~ ~ ~ ~ M X M
+18X = X X X ~ ~ ~ M ~ ~ ~ ~ ~ M X X M
 --Russia 1300AD--
   a b c d e f g h i j k l m n o p q r
 1 = = = = = = = = = = = = = = = = = =
